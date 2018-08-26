@@ -1,0 +1,25 @@
+rework-source hearder
+	Order-id,
+	Old-Prod-id,
+	Old-Prod-Name,
+	New-Prod-Id,
+	Prod-Desc (New),
+	Rating
+
+rework-ref-green header
+	Order-id,
+	Old-Prod-id,
+	Old-Prod-Name,
+	New-Prod-Id,
+	Prod-Desc (New),
+	Rating,
+	Rework-Prod-ID,
+	Rework-New-Product-Name
+
+rework-ref-red header
+	Order-id,
+	Old-Prod-id,
+	Old-Prod-Name,
+	New-Prod-Id,
+	Prod-Desc (New),
+	Rating

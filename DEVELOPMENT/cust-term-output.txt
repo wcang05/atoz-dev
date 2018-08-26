@@ -1,0 +1,198 @@
+{
+'santasilver@yahoo.com': 
+	{'CUST_INFO': ['ERYCA', 'WONG', '012-6636401', '52200', 'IND'], 
+	 'CUST_BHV_INFO': {'GAP_SPT': 0, 
+			   'BUYCAT': [], 
+			   'POT_UP_CAT': [], 
+			   'AVGSPT': 0, 
+			   'CURR_SPT': 0, 
+			   'AVG_SPT_GAP': 0, 
+			   'CUST_LVL': '', 
+			   'POT_SPT': 0, 
+			   'AVG_YR_SPT': 0, 
+			   'NOCAT': [], 
+			   'POT_CR_CAT': []}, 
+	 'CUST_ORD': {'24321': {'ORDER_CAT': ['OE', 'S', 'I'], 
+				'ORDER_TTL_QTY': '3', 
+				'ORDER_YEAR': '2013', 
+				'ORDER_TOTAL': '400.0000', 
+				'ORDER_MONTH': '12', 
+				'ORDER_QUATER': '4'}
+		     }
+	}, 
+
+'thomas.kniepkamp@gmail.com': 
+	{'CUST_INFO': ['Thomas', 'Kniepkamp', '03.7785 4521', '46000', 'IND'], 
+	 'CUST_BHV_INFO': {'GAP_SPT': 0, 
+			   'BUYCAT': [], 
+			   'POT_UP_CAT': [], 
+			   'AVGSPT': 0, 
+			   'CURR_SPT': 0, 
+			   'AVG_SPT_GAP': 0, 
+			   'CUST_LVL': '', 
+			   'POT_SPT': 0, 
+			   'AVG_YR_SPT': 0, 
+			   'NOCAT': [], 
+			   'POT_CR_CAT': []}, 
+	  'CUST_ORD': {'24322': {'ORDER_CAT': ['T'], 
+				 'ORDER_TTL_QTY': '2', 
+				 'ORDER_YEAR': '2013', 
+				 'ORDER_TOTAL': '290.0000', 
+				 'ORDER_MONTH': '12', 
+				 'ORDER_QUATER': '4'}
+			}
+	}, 
+
+'info@nurizshar.com.my': 
+	{'CUST_INFO': ['Nuriz Shar Enterprise', '-', '017 3730912 / 0361277864', 'Batu Caves', 'IND'], 
+	 'CUST_BHV_INFO': {'GAP_SPT': 0, 
+			   'BUYCAT': [], 
+			   'POT_UP_CAT': [], 
+			   'AVGSPT': 0, 
+			   'CURR_SPT': 0, 
+			   'AVG_SPT_GAP': 0, 
+			   'CUST_LVL': '', 
+			   'POT_SPT': 0, 
+			   'AVG_YR_SPT': 0, 
+			   'NOCAT': [], 'POT_CR_CAT': []}, 
+	 'CUST_ORD': {'24313': {'ORDER_CAT': ['I'], 
+				'ORDER_TTL_QTY': '5', 
+				'ORDER_YEAR': '2013', 
+				'ORDER_TOTAL': '42.0000', 
+				'ORDER_MONTH': '12', 
+				'ORDER_QUATER': '4'}
+		     }
+	}, 
+
+'asnida@myigen.com': 
+	{'CUST_INFO': ['Asnida ', 'Moktar', '0379606628 ', '46100', 'IND'], 
+	 'CUST_BHV_INFO': {'GAP_SPT': 0, 
+			   'BUYCAT': [], 
+			   'POT_UP_CAT': [], 
+			   'AVGSPT': 0, 
+			   'CURR_SPT': 0, 
+			   'AVG_SPT_GAP': 0, 
+			   'CUST_LVL':'', 
+			   'POT_SPT': 0, 
+			   'AVG_YR_SPT': 0, 
+			   'NOCAT': [], 
+			   'POT_CR_CAT': []}, 
+	 'CUST_ORD': {'24320': {'ORDER_CAT': ['T'], 
+				'ORDER_TTL_QTY': '2', 
+				'ORDER_YEAR': '2013', 
+				'ORDER_TOTAL': '775.0000', 
+				'ORDER_MONTH': '12', 
+				'ORDER_QUATER': '4'}}}, 
+
+'0178266624': {'CUST_INFO': ['TIU MING ZE', '', '0178266624', '83000', 'CPNY'], 
+	       'CUST_BHV_INFO': {'GAP_SPT': 0, 
+				 'BUYCAT': [], 
+				 'POT_UP_CAT': [], 
+				 'AVGSPT': 0, 
+				 'CURR_SPT': 0, 
+				 'AVG_SPT_GAP': 0, 
+				 'CUST_LVL': '', 
+				 'POT_SPT': 0, 
+				 'AVG_YR_SPT': 0, 
+				 'NOCAT': [], 
+				 'POT_CR_CAT': []}, 
+		'CUST_ORD': {'125320': {'ORDER_CAT': ['TECH'], 
+					'ORDER_TTL_QTY': '1', 
+					'ORDER_YEAR': '2017', 
+					'ORDER_TOTAL': '33.0000', 
+					'ORDER_MONTH': '6', 
+					'ORDER_QUATER': '2'}}}, 
+
+'imran.gman@gmail.com': {
+	'CUST_INFO': ['Imran', 'Abdullah', '0122113015', '47400', 'IND'], 
+	'CUST_BHV_INFO': {'GAP_SPT': 0, 
+			  'BUYCAT': [], 
+			  'POT_UP_CAT': [], 
+			  'AVGSPT': 0, 
+			  'CURR_SPT': 0, 
+			  'AVG_SPT_GAP': 0, 
+			  'CUST_LVL': '', 
+			  'POT_SPT': 0, 
+			  'AVG_YR_SPT': 0, 
+			  'NOCAT': [], 
+			  'POT_CR_CAT': []}, 
+	'CUST_ORD': {'24328': {'ORDER_CAT': ['I'], 
+			       'ORDER_TTL_QTY': '1', 
+			       'ORDER_YEAR': '2013', 
+			       'ORDER_TOTAL': '144.0000', 
+			       'ORDER_MONTH': '12', 
+			       'ORDER_QUATER': '4'}}}, 
+
+'znscekalent@yahoo.com': {'CUST_INFO': ['Samehah', 'Wan Abdullah', '019-2360904', '53100', 'IND'], 
+			  'CUST_BHV_INFO': {'GAP_SPT': 0, 
+					    'BUYCAT': [], 
+					    'POT_UP_CAT': [], 
+					    'AVGSPT': 0, 
+					    'CURR_SPT': 0, 
+					    'AVG_SPT_GAP': 0, 
+					    'CUST_LVL': '', 
+					    'POT_SPT': 0, 
+					    'AVG_YR_SPT': 0, 
+					    'NOCAT': [], 'POT_CR_CAT': []}, 
+			  'CUST_ORD': {'24325': {'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '2', 'ORDER_YEAR': '2013', 'ORDER_TOTAL': '105.0000', 'ORDER_MONTH': '12', 'ORDER_QUATER': '4'}}}, 'atoz@symphony-tree.com': {'CUST_I
+NFO': ['Adrian', 'Ng', '0129211131', '58000', 'IND'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AV
+G_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'24326': {'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '3', 'ORDER_YEAR': '2013', 'ORDER_TOTAL': '234.0000', 'ORDER_MONTH': '12', 'ORDER_QUATER':
+'4'}}}, 'joey@thealgroup.com': {'CUST_INFO': ['Joey', 'Lim', '0162025056', '50460', 'IND'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP'
+: 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'24319': {'ORDER_CAT': ['I', 'S'], 'ORDER_TTL_QTY': '3', 'ORDER_YEAR': '2013', 'ORDER_TOTAL': '96.00
+00', 'ORDER_MONTH': '12', 'ORDER_QUATER': '4'}}}, 'kim@tgc-asia.net': {'CUST_INFO': ['LEE', 'Kim Lian', '60122733215', '50480', 'IND'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [
+], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'24317': {'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '3', 'ORD
+ER_YEAR': '2013', 'ORDER_TOTAL': '77.0000', 'ORDER_MONTH': '12', 'ORDER_QUATER': '4'}}}, '197608109': {'CUST_INFO': ['samsiah', '', '197608109', '81300', 'CPNY'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'B
+UYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'125316': {'ORDER_CAT': ['C']
+, 'ORDER_TTL_QTY': '1', 'ORDER_YEAR': '2017', 'ORDER_TOTAL': '23.7500', 'ORDER_MONTH': '6', 'ORDER_QUATER': '2'}}}, 'ameliaang@synergenog.com': {'CUST_INFO': ['Amelia', 'Ang', '03-26150096', '50088
+', 'IND'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []
+}, 'CUST_ORD': {'24324': {'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '2', 'ORDER_YEAR': '2013', 'ORDER_TOTAL': '200.0000', 'ORDER_MONTH': '12', 'ORDER_QUATER': '4'}}}, '0124561937': {'CUST_INFO': ['Syazw
+ani adri', '', '0124561937', '32700', 'CPNY'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SP
+T': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'125321': {'ORDER_CAT': ['OE'], 'ORDER_TTL_QTY': '1', 'ORDER_YEAR': '2017', 'ORDER_TOTAL': '42.4000', 'ORDER_MONTH': '6', 'ORDER_QUATER': '2'}}},
+ '192304087': {'CUST_INFO': ['Ailida Baharum', '', '192304087', '47810', 'CPNY'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST
+_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'125318': {'ORDER_CAT': ['S'], 'ORDER_TTL_QTY': '17', 'ORDER_YEAR': '2017', 'ORDER_TOTAL': '7.2000', 'ORDER_MO
+NTH': '6', 'ORDER_QUATER': '2'}}}, '0122160697': {'CUST_INFO': ['CITY HARBOUR INTERNATIONAL SCHOO', '', '0122160697', '32040', 'CPNY'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [
+], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'125317': {'ORDER_CAT': ['S'], 'ORDER_TTL_QTY': '4', 'OR
+DER_YEAR': '2017', 'ORDER_TOTAL': '91.1600', 'ORDER_MONTH': '6', 'ORDER_QUATER': '2'}}}, 'nasirmddaud@gmail.com': {'CUST_INFO': ['MD NASIR', 'DAUD', '+60162752849', '43000', 'IND'], 'CUST_BHV_INFO'
+: {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [], 'POT_CR_CAT': []}, 'CUST_ORD': {'125314':
+{'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '0', 'ORDER_YEAR': '2017', 'ORDER_TOTAL': '135.8500', 'ORDER_MONTH': '6', 'ORDER_QUATER': '2'}}}, 'yapwinnie58@yahoo.com': {'CUST_INFO': ['winnie', 'yap', '012
+ 6932535', '47301', 'IND'], 'CUST_BHV_INFO': {'GAP_SPT': 0, 'BUYCAT': [], 'POT_UP_CAT': [], 'AVGSPT': 0, 'CURR_SPT': 0, 'AVG_SPT_GAP': 0, 'CUST_LVL': '', 'POT_SPT': 0, 'AVG_YR_SPT': 0, 'NOCAT': [],
+ 'POT_CR_CAT': []}, 'CUST_ORD': {'24327': {'ORDER_CAT': ['I'], 'ORDER_TTL_QTY': '2', 'ORDER_YEAR': '2013', 'ORDER_TOTAL': '105.0000', 'ORDER_MONTH': '12', 'ORDER_QUATER': '4'}}}}
+
+
+{'imran.gman@gmail.com': {'CUST_BHV_INFO': {'AVGSPT': 0,
+                                            'AVG_SPT_GAP': 0,
+                                            'AVG_YR_SPT': 0,
+                                            'BUYCAT': [],
+                                            'CURR_SPT': 0,
+                                            'CUST_LVL': '',
+                                            'GAP_SPT': 0,
+                                            'MAX_SPT_GAP': 0,
+                                            'MIN_SPT_GAP': 0,
+                                            'NOCAT': [],
+                                            'POT_CR_CAT': [],
+                                            'POT_SPT': 0,
+                                            'POT_UP_CAT': []},
+                          'CUST_INFO': ['Imran',
+                                        'Abdullah',
+                                        '0122113015',
+                                        '47400',
+                                        'IND'],
+                          'CUST_ORD': {'24328': {'ORDER_CAT': ['I'],
+                                                 'ORDER_MONTH': '12',
+                                                 'ORDER_QUATER': '4',
+                                                 'ORDER_TOTAL': '144.0000',
+                                                 'ORDER_TTL_QTY': '1',
+                                                 'ORDER_YEAR': '2013'},
+                                       '24329': {'ORDER_CAT': ['I'],
+                                                 'ORDER_MONTH': '12',
+                                                 'ORDER_QUATER': '4',
+                                                 'ORDER_TOTAL': '144.0000',
+                                                 'ORDER_TTL_QTY': '1',
+                                                 'ORDER_YEAR': '2014'},
+                                       '24330': {'ORDER_CAT': ['I'],
+                                                 'ORDER_MONTH': '12',
+                                                 'ORDER_QUATER': '4',
+                                                 'ORDER_TOTAL': '144.0000',
+                                                 'ORDER_TTL_QTY': '1',
+                                                 'ORDER_YEAR': '2015'}}}}
+Operation completed!

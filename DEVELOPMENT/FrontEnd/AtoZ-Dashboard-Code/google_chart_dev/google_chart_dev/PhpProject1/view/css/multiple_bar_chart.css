@@ -1,0 +1,108 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2017, 2:31:22 PM
+    Author     : chewyunl
+*/
+
+#year_selector_multi_bar{
+    position: absolute; 
+    left: 75px;
+    top: 25px;
+}
+
+#year_select_multi_bar_apply{
+    position: absolute; 
+    left: 475px;
+    top: 25px;
+}
+
+#bar_all_chart{
+    position: absolute; 
+    left: 25px;
+    top: 90px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_ink_chart{
+    position: absolute; 
+    left: 500px;
+    top: 90px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_toner_chart{
+    position: absolute; 
+    left: 25px;
+    top: 350px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_printer_chart{
+    position: absolute; 
+    left: 500px;
+    top: 350px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_paper_chart{
+    position: absolute; 
+    left: 25px;
+    top: 610px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_stationary_chart{
+    position: absolute; 
+    left: 500px;
+    top: 610px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_clean_chart{
+    position: absolute; 
+    left: 25px;
+    top: 870px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#bar_brk_chart{
+    position: absolute; 
+    left: 500px;
+    top: 870px;
+    width: 425px; 
+    height: 225px;
+    outline-style: solid; 
+}
+
+#multi_bar_table{
+    position: absolute;
+    left: 25px;
+    top: 1130px;
+    width: 900px;
+    height: 300px;
+    outline-style: solid;
+}
+
+#multi_bar_data_export{
+    position: absolute; 
+    left: 825px;
+    top: 1450px;
+}

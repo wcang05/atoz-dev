@@ -1,0 +1,31 @@
+--- Input files validation ---
+Product Desciption CSV : oc_product_description.csv
+Order Product CSV : oc_order_product_20K-2ndBatch.csv
+Target Output CSV : atoz_cmp_result_2ndBatch.csv
+
+Read in [oc_product_description.csv]...
+Successfully read in oc_product_description.csv with lines 12999
+Line no. 12999 = ['18196', '[PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED]']
+Line no. 12999 = ['18196', '[PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED]'], Item no.2 : [PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED]
+
+Read in [oc_order_product_20K-2ndBatch.csv]...
+Successfully read in oc_order_product_20K-2ndBatch.csv with lines 20000
+Line no. 20000 = ['1927', '741', 'HP 703 Color (CD888AA)']
+Line no. 20000 = ['1927', '741', 'HP 703 Color (CD888AA)'], Item no.3 : HP 703 Color (CD888AA)
+
+Completed tokenized Product Description list...
+
+Tokenizing order-product-name [20000 / 20000], [100.00%] completed...
+Completed tokenized Order Product list + Total Rating calculation...
+
+Complete processed ALL Order Product items.. [20000 / 20000], [100.00%] completed
+
+Successfully matched case with Order-Product-ID == Description-Product-ID : 7111
+Successfully matched case with Different Product ID : 12889
+Order Product ID match no case : 0
+Successfully output cases with Threshold=0 : 12889
+Matching percentage : 100.00%
+Output case percentage : 64.44%
+Operation completed!
+
+C:\Python27>

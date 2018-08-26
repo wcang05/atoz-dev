@@ -1,0 +1,15 @@
+SELECT * 
+FROM  `extract_orders` 
+WHERE  `date_added` <  '2017-08-13 00:00:00'
+
+85949	11-Jun-2017	11062017-extract_orders.csv
+86228	17-Jun-2017	17062017-extract_orders.csv
+86503	24-Jun-2017	24062017-extract_orders.csv
+86647	01-Jul-2017	01072017-extract_orders.csv
+86954	08-Jul-2017	08072017-extract_orders.csv
+87437	15-Jul-2017	15072017-extract_orders.csv
+87840	22-Jul-2017	22072017-extract_orders.csv
+88254	29-Jul-2017	29072017-extract_orders.csv
+88740	05-Aug-2017	05082017-extract_orders.csv	SELECT * FROM  `extract_orders` WHERE  `date_added` <  '2017-08-06 00:00:00'
+89238	12-Aug-2017	12082017-extract_orders.csv	SELECT * FROM  `extract_orders` WHERE  `date_added` <  '2017-08-13 00:00:00'
+

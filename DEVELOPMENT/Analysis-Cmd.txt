@@ -1,0 +1,54 @@
+[Combination Categories]
+python all-cat.py -def def-cat.txt 11062017-extract_orders.csv 11062017
+python all-cat.py -def def-cat.txt 18062017-extract_orders.csv 18062017
+python all-cat.py -def def-cat.txt 25062017-extract_orders.csv 25062017
+python all-cat.py -def def-cat.txt 02072017-extract_orders.csv 02072017
+python all-cat.py -def def-cat.txt 09072017-extract_orders.csv 09072017
+python all-cat.py -def def-cat.txt 16072017-extract_orders.csv 16072017
+python all-cat.py -def def-cat.txt 25072017-extract_orders.csv 25072017
+python all-cat.py -def def-cat.txt 31072017-extract_orders.csv 31072017
+
+python all-cat.py -def def-cat.txt 11062017-extract_orders.csv 11062017
+python all-cat.py -def def-cat.txt 17062017-extract_orders.csv 17062017
+python all-cat.py -def def-cat.txt 24062017-extract_orders.csv 24062017
+python all-cat.py -def def-cat.txt 01072017-extract_orders.csv 01072017
+python all-cat.py -def def-cat.txt 08072017-extract_orders.csv 08072017
+python all-cat.py -def def-cat.txt 15072017-extract_orders.csv 15072017
+python all-cat.py -def def-cat.txt 22072017-extract_orders.csv 22072017
+python all-cat.py -def def-cat.txt 29072017-extract_orders.csv 29072017
+python all-cat.py -def def-cat.txt 05082017-extract_orders.csv 05082017
+python all-cat.py -def def-cat.txt 12082017-extract_orders.csv 12082017
+
+
+[Combination Categories Movement]
+python cat-mv.py 11062017 18062017 mv-out-18062017
+python cat-mv.py 18062017 25062017 mv-out-25062017
+python cat-mv.py 25062017 02072017 mv-out-02072017
+python cat-mv.py 02072017 09072017 mv-out-09072017
+python cat-mv.py 09072017 16072017 mv-out-16072017
+python cat-mv.py 16072017 25072017 mv-out-25072017
+python cat-mv.py 25072017 31072017 mv-out-31072017
+
+python cat-mv.py 11062017 17062017 mv-17062017
+python cat-mv.py 17062017 24062017 mv-24062017
+python cat-mv.py 24062017 01072017 mv-01072017
+python cat-mv.py 01072017 08072017 mv-08072017
+python cat-mv.py 08072017 15072017 mv-15072017
+python cat-mv.py 15072017 22072017 mv-22072017
+python cat-mv.py 22072017 29072017 mv-29072017
+python cat-mv.py 29072017 05082017 mv-05082017
+python cat-mv.py 05082017 12082017 mv-12082017
+
+[Customer New-Ret-Missing Analysis]
+python cust-his-aa.py 16072017-extract_orders.csv 2017 16072017-cust-his-aa-out
+python cust-his-aa.py 25072017-extract_orders.csv 2017 25072017-cust-his-aa-out
+python cust-his-aa.py 07082017-extract_orders.csv 2017 07082017-cust-his-aa-out
+
+
+[Customer Behavior Analysis]
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 cust-bhv-aa
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 [I]-cust-bhv-aa I
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 [T]-cust-bhv-aa T
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 [PA]-cust-bhv-aa PA
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 [C]-cust-bhv-aa C
+python cust-bhv-aa.py 05082017-extract_orders.csv 2017 [S]-cust-bhv-aa S

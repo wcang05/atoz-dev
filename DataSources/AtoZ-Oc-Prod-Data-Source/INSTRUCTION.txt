@@ -1,0 +1,71 @@
+pnm.py - pnm stand for Product Name Match.
+Basically, to match the product name from oc-order-product table to oc-product-description tables.
+
+Product Description input file: oc-product-description.csv
+- Each line contain <correct-product-id>, <product description name>
+- Can be downloaded in: https://drive.google.com/drive/u/1/folders/0B2x2NbCYfs-BZXJoVnMzTHI5RUk
+
+Order Product input files: oc_order_product_20K-<??>Batch.csv
+- ?? range from 1st until 11st.
+- Each file contain 20K records.
+- Each line contain <order-id>, <old-product-id>, <order-product-name>
+- Can be downloaded in: https://drive.google.com/drive/u/1/folders/0B2x2NbCYfs-BZXJoVnMzTHI5RUk
+- It is because, it take roughly 3 sec to compare 1 or-prod record. 1 hour can compare 1200 records.
+- 20K records roughly required 20 hours.
+- 230K records required roughly 9 days to complete. 
+- Hence, break it to smaller files, using more computer to complete in less days. Also examine the results.
+
+Program to install:
+- Download python-2.7.3.msi from https://drive.google.com/drive/u/1/folders/0B2x2NbCYfs-BeDFldGpVVWp1YTA
+- Install python-2.7.3.msi
+- Should be in C:\Python27
+- Download pnm.py from https://drive.google.com/drive/u/1/folders/0B2x2NbCYfs-BeDFldGpVVWp1YTA
+- Put pnm.py in C:\Python27
+
+Running Instruction:
+- Put oc-product-description.csv in C:\Python27
+- Put oc_order_product_20K-1stbatch.csv in C:\Python27
+  - If you want to compare other batch, just put the oc_order_product_20K-<batch_no>batch.csv that you want.
+- Execute the following command:
+  - python pnm.py oc-product-description.csv oc_order_product_20K-1stbatch.csv atoz_cmp_result_1stbatch.csv
+  - The command follows:
+    - python pnm.py <product description list> <order product name list> <output list>
+    - Input files and output files must be in CSV format and extension.
+
+Output file:
+- Output files named as in command line: atoz_cmp_result_1stbatch.csv
+- Each line of output file contain: <order-id>, <old-prod-id>, <order-product-name>, <new-product-id>, <product description>, <rating>
+- Rating is range from 0.0 - 1.0. It should exceed 1.0
+- From testing results, rating that >0.6 should be matching correctly. Most of the items match with 0.8 to 1.0.
+- Matching with rating 1.0 implies exact match. It means every components from order-product-name can be found in product description.
+
+Output Result:
+- Every program runs contain information output.
+- You can copy and stored it for reference. Sample can be downloaded at : https://drive.google.com/drive/u/1/folders/0B2x2NbCYfs-BM1J0OUFJZXdxM3c
+- Result output contain information that validating:
+  - All CSV files input.
+  - Progress updating to ensure program is still running during execution.
+  - Output statistic.
+    - Program does not output the case that <old-order-product-id> == <product-id-in-product-descriptopn>
+    - It only output cases that the <order-id> DOES NOT MATCH the <prod-id> in product description.
+    - For <order-product-name> that really really find not case in product description, it will output to file: match_no_case.csv
+    - In that case, further investigation required.
+ 
+ Conclusion:
+ - For rating that low (Less that 0.4) in output file, it is either the:
+   - Product Name does not exist in product description table.
+   - Algorithm not that accurate in capturing that.
+   - Confused case. Wrongly match.
+- It is rarely order-product-name find no case. 
+  - If contains case in match_no_case.csv, further investigation required.
+
+Fixing:
+- There are empty product name in oc-order-product table.
+- They are excluded from this comparison source file.
+- Suggest to discard all the product name empty records.
+- The list can be downlaoded at : https://drive.google.com/open?id=0B2x2NbCYfs-BTmpnU0ZUNnpqTXM
+
+
+
+
+

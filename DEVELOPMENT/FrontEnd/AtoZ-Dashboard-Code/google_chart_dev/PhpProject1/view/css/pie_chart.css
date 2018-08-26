@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2017, 2:31:22 PM
+    Author     : chewyunl
+*/
+
+#current_pie_segment_div{
+    z-index: 1;
+    margin: 0px;
+    text-align: center;
+    position: absolute;
+    left: 450px;
+    top: 290px;
+    width: 150px;
+    height: 80px;
+    background-color: black;
+    border-style: solid;
+    color:white;
+}
+
+#year_selector_pie{
+    position: absolute; 
+    left: 75px;
+    top: 25px;
+}
+
+#year_select_pie_apply{
+    position: absolute; 
+    left: 475px;
+    top: 25px;
+}
+
+#pie_chart{
+    position: absolute; 
+    left: 25px;
+    top: 90px;
+    width: 625px; 
+    height: 325px;
+    outline-style: solid; 
+}
+
+#pie_chart_table{
+    position: absolute;
+    left: 25px;
+    top: 440px;
+    width: 625px;
+    height: 300px;
+    outline-style: solid;
+}
+
+#pie_chart_data_export{
+    position: absolute; 
+    left: 535px;
+    top: 750px;
+}
+

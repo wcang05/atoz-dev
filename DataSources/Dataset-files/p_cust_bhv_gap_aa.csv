@@ -1,0 +1,1826 @@
+Rcd_Idx,Cust_ID,Firtname,Lastname,Tel,PCode,Cpny/Ind,Min Spt Gap,Latest Manu,Dataset Year
+1,jenny.tang19@yahoo.com,Jenny,Tang,0192287988,47180,IND,12.0000,Epson,All-Years
+2,vfllim@gmail.com,Vivien ,lim,012 2053187,43300,IND,12.0000,HP,All-Years
+3,desmond.teh@gmail.com,Desmond,Teh,0123003268,57000,IND,12.0000,Fuji Xerox,All-Years
+4,yaolungkhong@gmail.com,Yao Lung,Khong,0122832482,47820,IND,0.0000,Brother,All-Years
+5,httan.lis@gmail.com,Hsia-Tiong,Tan,60127329586,80050,IND,12.0000,Brother,All-Years
+6,lowjs@foregain.com.my,JS,Low,0380618460,47100,IND,2.1333,Epson,All-Years
+7,latifah1@yahoo.com,LATIFAH,HAJI ISMAIL,0123666852,58200,IND,12.0000,Brother,All-Years
+8,bluepodo81@hotmail.com,MeeJoo (Julia),Park,012-355-3732,50450,IND,0.1000,Brother,All-Years
+9,jack@d-archkinetic.com,JACK PIN,TAN,0163246121,41200,IND,12.0000,Epson,All-Years
+10,angieyoke@ksglobalcargo.com,Angie ,Yoke,012-394 3968,47100,IND,12.0000,HP,All-Years
+11,boonkhong@gmail.com,Boon Khong,Foo,0173631535,50088,IND,12.0000,Brother,All-Years
+12,bhongcelda@yahoo.com,Aldwin,Celda,60165958260,36000,IND,12.0000,Brother,All-Years
+13,octo_lalala@hotmail.com,Soong,YY,0123065385,55200,IND,12.0000,Epson,All-Years
+14,yzsb_kim@yahoo.com,Ley Kim,Looi,0172239255,68100,IND,16.7333,Fuji Xerox,All-Years
+15,celynclu@yahoo.com,Celyn,Lu,0124812102,14000,IND,12.0000,Brother,All-Years
+16,info@tlg.com.my,Edwin,Ang Simin,0123279005,47400,IND,12.0000,Brother,All-Years
+17,borneocrops@yahoo.com,Ivy,Pang,6089237900,90000,IND,2.8000,HP,All-Years
+18,yewjiahao@hotmail.com,Yew,Jiahao,0105668921,47301,IND,10.4667,Fuji Xerox,All-Years
+19,johan.ipsb@gmail.com,Johanizan Bin,Azizan,0193936858,43000,IND,12.0000,HP,All-Years
+20,cst@clm.com.my,Soon Tiew,Chang,60129372275,24000,IND,12.0000,Epson,All-Years
+21,info@kawalanbumi.com,choo,ching,0122113490,47100,IND,4.9667,HP,All-Years
+22,jessiecheah@hotmail.com,jessica,cheah,0123162003,50480,IND,12.0000,Brother,All-Years
+23,SOONJIN84@HOTMAIL.COM,SOON JIN,NG,0122948552,40460,IND,12.0000,HP,All-Years
+24,anthony@leepthye.com.my,Anthony,Tan,0127735399,81400,IND,12.0000,HP,All-Years
+25,lianho1988@yahoo.com,Lian,Ho ,03-80766868,47180,IND,12.0000,Epson,All-Years
+26,su-shzan@rocketmail.com,su-shzan,patt,+60122213056,51100,IND,2.5667,Brother,All-Years
+27,lh@loo.my,LOO,LIAN HUAT,0173508829,75250,IND,12.0000,Brother,All-Years
+28,peiyan.lim@visionary.com.my,Ms Lim,Visionary Solutions,0377105877,60000,IND,1.7000,Epson,All-Years
+29,hafiz_1piece@yahoo.co.uk,hafiz,saini,019-7810596,46200,IND,12.0000,Brother,All-Years
+30,plotsin@gmail.com,Sin,Chin Chai,0193215544,55100,IND,12.0000,Brother,All-Years
+31,hupfatt_lim@hotmail.com,LIM,MEE CHIN,012-528 2141,47000,IND,12.0000,Epson,All-Years
+32,alvinang@tlg.com.my,Alvin,Ang,0192101922,47810,IND,14.4333,HP,All-Years
+33,kengseow@hotmail.com,Keng,seow,60341083550,53100,IND,12.0000,Fuji Xerox,All-Years
+34,megat.mohd.izhar@gmail.com,Megat Mohd Izhar,Sapeli,0133587730,,IND,12.0000,Fuji Xerox,All-Years
+35,bshware@gmail.com,Abby,Tan,0123978498,43300,IND,0.0000,Epson,All-Years
+36,ghcc@hotmail.my,Steven,Wong,0198567560,96000,IND,12.0000,HP,All-Years
+37,hoo@peesb.com,See Wan,Hoo,03-77847401,58200,IND,3.7667,Brother,All-Years
+38,drmohdnoor@yahoo.com,Mohd Noor,Mamat,60193340650,26700,IND,12.0000,HP,All-Years
+39,abcteras@yahoo.com,Mohd Yusof,Salim,0163350063,84900,IND,12.0000,Brother,All-Years
+40,azyan.shaharuddin@voith.com,Azyan,Shaharuddin,0361856888,68100,IND,12.0000,Fuji Xerox,All-Years
+41,thying33@gmail.com,Ying Thying,Wong,0126062933,43000,IND,23.5667,Brother,All-Years
+42,vyvyanhoh@gmail.com,KIAM POAN,HOH,0162107575,47100,IND,12.0000,HP,All-Years
+43,fseu@yahoo.com,FOONG SIONG,EU,0109829963,56000,IND,1.9000,Epson,All-Years
+44,remy@greensilicon.com,muhamad ramizal,muhsin,0166262207,47810,IND,12.0000,Fuji Xerox,All-Years
+45,autodetailer@gmail.com,Darren,Chang,0379607940,46200,IND,5.1667,Brother,All-Years
+46,kenking66@yahoo.com,Kevin,Chan,0176658189,46300,IND,13.5667,Epson,All-Years
+47,0127071177,Alvin Tan Hock Hin,,0127071177,81100,CPNY,12.0000,Brother,All-Years
+48,davidlawco@hotmail.com,David,Law,0321702626,50450,IND,1.5000,HP,All-Years
+49,jymail@ymail.com,Julie,Tan,012-3040208,43200,IND,2.4667,HP,All-Years
+50,apr_mj@hotmail.com,April,Jeremiah,0129694034,47301,IND,12.0000,Epson,All-Years
+51,jacksontam.mme@gmail.com,Hew,Kar Lai,0389581428,43300,IND,12.0000,Epson,All-Years
+52,evie.heng@gmail.com,Streamline Resources Sdn bhd,.,0122685888,59100,CPNY,12.0000,Brother,All-Years
+53,everlyn@em2ca.com,Everlyn,Tan,0122963912,46300,IND,12.0000,HP,All-Years
+54,sls_yap@yahoo.com,Yap,Alicia,0122348987,40150,IND,0.0000,Epson,All-Years
+55,fauziah@synergyap.com,Fauziah ,Abd Rahman,0123660214,46050,IND,12.0000,Print n Stick,All-Years
+56,fazarudin@felcra.com.my,mohd fazarudin ibrahim,faza,0169800856,25200,IND,12.0000,Brother,All-Years
+57,jerome.teaffani@gmail.com,Jerome,Ong,0378876789,47301,IND,12.0000,Brother,All-Years
+58,limwaimun@hotmail.com,Wai Mun,Lim,0126661622,48000,IND,16.1667,Epson,All-Years
+59,eugene@dontpanik.com,Eugene,Khoo,012.2777.568,47300,IND,30.0000,Brother,All-Years
+60,spmleong@iamgroup.com.my,Stephanie,Leong,0377104300,47400,IND,12.0000,HP,All-Years
+61,ckWONG65@gmail.com,Raymond,WONG,089887700,91100,IND,1.9333,Brother,All-Years
+62,ivy.soo@undp.org,Ivy ,Soo,0126651588,50490,IND,0.0000,HP,All-Years
+63,alamhijau_accounts@yahoo.com.my,Durka,Devi,0333230034,41200,IND,0.3333,Epson,All-Years
+64,marcosuriasungaibuloh@gmail.com,marcosuria agency sdn bhd,chan,03-61434623,47000,CPNY,12.0000,Epson,All-Years
+65,malbir@autism.my,malbir,kaur,0166348787,46350,IND,12.0000,Fuji Xerox,All-Years
+66,pang@faxcore.com,Priscilla,Ang,0163646411,50470,IND,12.0000,Brother,All-Years
+67,alice.chan@harvest-time.com.my,Alice,Chan ,0379548280,46350,IND,12.0000,Brother,All-Years
+68,tsmdamaiutama@hotmail.com,Tan,Siew Mooi,0129344988,56000,IND,12.0000,Fuji Xerox,All-Years
+69,0126233813,Simon Hiew,,0126233813,55100,CPNY,12.0000,Epson,All-Years
+70,ksadiman@iqi-group.com,KHALIMAH,SADIMAN,03-21812820,46000,IND,12.0000,Canon,All-Years
+71,rachael@fk.my,Rachael,Ling,+60134808007,59200,IND,12.0000,Epson,All-Years
+72,ryanclim@gmail.com,Ryan,Lim,0379565503,46100,IND,12.0000,Brother,All-Years
+73,william929@yahoo.com,William,Lee,0123829971,47301,IND,12.5000,Fuji Xerox,All-Years
+74,wej1222@yahoo.com,Andrew,Wong,0355694588,40150,IND,5.9333,Epson,All-Years
+75,gwt_1@hotmail.com,Gan,Wei Tat,0105660096,52200,IND,7.4000,Brother,All-Years
+76,alex_yuan@ihm.com.my,Alex ,Yuan,56386889,46150,IND,0.0333,HP,All-Years
+77,wsf7883@gmail.com,Elane,Lim,0125682989,52200,IND,12.0000,Fuji Xerox,All-Years
+78,0060128398749,Prof Peter Barling,,0060128398749,57000,CPNY,12.0000,Brother,All-Years
+79,cheetongang@gmail.com,Chee Tong,Ang,0123219360,52100,IND,7.8333,Brother,All-Years
+80,wtgwang@gmail.com,Garry,Wang,0127099733,,IND,12.0000,Fuji Xerox,All-Years
+81,gavinteoh@centumsage.com,Teoh ,Hock Geh,0380802297,47100,IND,12.0000,Fuji Xerox,All-Years
+82,botalayhui_u_know@hotmail.com,Lay Hui,Tan,016-6239922,41150,IND,5.9333,Brother,All-Years
+83,teongchoon@gmail.com,Ian,Ong,+60192689388,59100,IND,12.0000,Brother,All-Years
+84,simwui@yahoo.com,TIEW,SIM WUI,0193597576,45500,IND,12.0000,Brother,All-Years
+85,harbans8@yahoo.com,Harbans,Singh,0196512434,46150,IND,12.0000,Oki,All-Years
+86,CASTING_MARKETING@YAHOO.COM,mohammad azhar,mahmud,0192188707,68100,IND,18.1000,Fuji Xerox,All-Years
+87,plusminded_eagle@yahoo.com,Arizan ,Alias,0166268011,43800,IND,11.8667,Brother,All-Years
+88,joyceleesl@hapseng.com.my,Joyce Lee ,Shee Leng,03-21169284,50250,IND,12.0000,HP,All-Years
+89,dreammakers@hotmail.my,Jaclyn,Lim,0173337711,46200,IND,12.0000,Epson,All-Years
+90,dinautokajang@gmail.com,din,autokajang,0388616717,62050,IND,12.0000,Fuji Xerox,All-Years
+91,patric.hlee@gmail.com,Pat,Lee,0123398838,58200,IND,12.0000,HP,All-Years
+92,howkok@hotmail.com,Chi How,Kok,+60175320233,41200,IND,12.0000,HP,All-Years
+93,chewfl@yahoo.com,chew,foon lian,0196643388,,IND,0.0000,Brother,All-Years
+94,0125155336,Anne Kee,,0125155336,47301,CPNY,12.0000,Epson,All-Years
+95,amirhamzahjaafar@gmail.com,Amir Hamzah,Jaafar,0124008687,42450,IND,12.0000,HP,All-Years
+96,mahidzal@gmail.com,Dahari,Mahidzal,0133599300,59200,IND,12.0000,HP,All-Years
+97,lohweiyen@yahoo.com,Wei Yen,Loh,012-3979733,47620,IND,12.0000,Fuji Xerox,All-Years
+98,maychin.ly@gmail.com,May,Chin,60123762132,59200,IND,12.0000,Brother,All-Years
+99,rynelee@hotmail.my,Ryne,Lee,0378473188 / 0126792752,40150,IND,12.0000,Fuji Xerox,All-Years
+100,ace@aerogroup.com.my,HC,LOH,0163287363,71800,IND,4.3333,Brother,All-Years
+101,xinho@streamyx.com,Linda,CHEONG,03-6203 1626,,IND,12.0000,Fuji Xerox,All-Years
+102,teresayee@msn.com,Teresa,Yee,60162090305,40460,IND,12.0000,Brother,All-Years
+103,pesal1980@gmail.com,mohd faisal,mohd aris,60133888533,70400,IND,14.9333,Fuji Xerox,All-Years
+104,leowkg@gmail.com,Leow,Kien Giap,0123082214,47000,IND,6.9667,Fuji Xerox,All-Years
+105,pkf@pwinteriordesign.com.my,P&amp;W ,Interior Design Sdn Bhd,0389641099,,CPNY,52.9333,Epson,All-Years
+106,b4.azmy@gmail.com,AZLINA ,SABTU,+60196299572,75250,IND,12.0000,HP,All-Years
+107,Impulsivehunter@gmail.com,Ken,Tan,+60122977783,50480,IND,12.0000,Epson,All-Years
+108,siewyy57@gmail.com,SIEW,YOKE YEE,+60123319178,47170,IND,12.0000,Brother,All-Years
+109,yyokehong@yahoo.com,Yew ,Yoke Hong,012-3295099,43200,IND,12.0000,Fuji Xerox,All-Years
+110,admin@maxxmedia.com.my,Ms,Siti,088-719787,88300,IND,0.2000,Print n Stick,All-Years
+111,sennhuat1988@gmail.com,nicole,chia,603-79802088,57100,IND,0.0000,Epson,All-Years
+112,williamcpm@gmail.com,CPM,Consulting Engineer,0178822253,52100,IND,12.0000,Fuji Xerox,All-Years
+113,ych@ychhyd.com,tan ,ai wah,03-89413599,43300,IND,3.4333,Brother,All-Years
+114,hijrah.aia@gmail.com,rashidah,rahmat,0193167471,46100,IND,12.0000,Brother,All-Years
+115,ahooi@pd.jaring.my,Anne,Hooi,60178862384,60000,IND,1.6667,HP,All-Years
+116,xde*****@yahoo.com,Ismail Ali,,0166843656,71700,IND,12.0000,Epson,All-Years
+117,weikar.song@gmail.com,Brian ,Song,0139696333,50480,IND,12.0000,Fuji Xerox,All-Years
+118,rayhsy@yahoo.com,RAYMOND,YAP,0126711672,41200,IND,12.0000,HP,All-Years
+119,azilamz@gmail.com,NOORAZILAWATI,MOHD ZULKIPELI,0387511648,43650,IND,0.4667,Fuji Xerox,All-Years
+120,pete.low@gmail.com,peter,low,+60162011165,43300,IND,12.0000,Fuji Xerox,All-Years
+121,pyleong@gohofficesupplies.com,Pooi Yoke,Leong,60379800500,58100,IND,12.0000,Print n Stick,All-Years
+122,cannie@sca.com.my,cannie,koh,0377100007,47400,IND,0.0000,Epson,All-Years
+123,chris@acparts.com.my,AC PARTS CENTRE (KL) SDN BHD,AC PARTS CENTRE (KL) SDN BHD,0122163963,40400,CPNY,12.0000,Epson,All-Years
+124,andrewlim7878@yahoo.com,Andrew ,Lim,016-2227363,71800,IND,12.0000,HP,All-Years
+125,milan80@gmail.com,Milan Lalji Patel,Lalji,0166685869,77000,IND,12.0000,Brother,All-Years
+126,sandra.corrtrol@gmail.com,Sandra,Phan,60380682616,47120,IND,7.0333,Canon,All-Years
+127,husinm@gmail.com,husin,mansor,0142921281,18300,IND,12.0000,Brother,All-Years
+128,amrankb@usm.my,amran,ahmed shokri,097676398,15200,IND,0.0667,Fuji Xerox,All-Years
+129,jos*******@jocom.my,Joshua sew,,0123399937,59200,IND,12.0000,Fuji Xerox,All-Years
+130,kk.tan@rocketmail.com,KK,Tan,0123291003,40460,IND,12.0000,HP,All-Years
+131,carrie@gtsb.net,Carrie,Lam,6082574419,93350,IND,12.0000,Epson,All-Years
+132,yeanchenglim@zachbio.com,Yean Cheng ,LIM ,019-4816377,43300,IND,12.0000,HP,All-Years
+133,Spreadon.trading@gmail.com,Wei Han,Kok,0122858777,47100,IND,2.8333,Brother,All-Years
+134,chunchong97@hotmail.com,Wade,Poh,0162458017,53200,IND,12.0000,HP,All-Years
+135,m.zainuddin@lth.gov.my,MOHD ZAINUDDIN,HARON,0183800732,30000,IND,0.6667,Brother,All-Years
+136,liyanashuib@gmail.com,Nor Liyana,Mohd Shuib,0196649440,50603,IND,12.0000,Fuji Xerox,All-Years
+137,wern@autodetailer.co,Wern Wern,Ling,0129619900,46200 ,IND,12.0000,Brother,All-Years
+138,dave@nts.nl,Nik Fariz Dave,Abdullah,89385628,43300,IND,1.2000,Brother,All-Years
+139,jothie@saturnpyro.com,Saravana Jothi,Arumugam,073574001,81100,IND,0.7333,HP,All-Years
+140,lpwong3@yahoo.com,Wong,Lee Ping,0162727686,52200,IND,12.0000,Brother,All-Years
+141,sysadmin@symmid.com,System,Administrator,03-79691000,46200 ,IND,0.0000,Brother,All-Years
+142,itdistribution2008@gmail.com,Kelvin,Ting,+60168889291,96000,IND,0.0000,Epson,All-Years
+143,mytristar@hotmail.com,Michelle,Teh,012-2299923,52100,IND,0.0000,Brother,All-Years
+144,sales@rekahasil.com.my,Emily,Lim PC,0122074880,47301,IND,12.0000,Fuji Xerox,All-Years
+145,wanchunmanis@yahoo.com,ZAIDAH ,MOHD SALLEH,0192261489,57000,IND,0.0000,Brother,All-Years
+146,alanlee9898@gmail.com,alan,lee,0172585186,56000,IND,1.0333,HP,All-Years
+147,chin.ghee.ong@archerwell.com,Chin Ghee,Ong,03-21668800,50450,IND,12.0000,Fuji Xerox,All-Years
+148,masjaya202@yahoo.com,Lim ,Lim,603-26948373,50480,IND,12.0000,Epson,All-Years
+149,davidchen@smpaperbox.com,David,Chen,082439711,93050,IND,12.0000,Epson,All-Years
+150,bluesooi@hotmail.com,hektor,ooi,0164057329,47600,IND,0.0333,Brother,All-Years
+151,eunicetansn@gmail.com,EUNICE,TAN,0122775535,43500,IND,12.0000,Epson,All-Years
+152,finance@orc.com.my,Yean Fong,Lee,6012 4545454,51000,IND,0.0000,HP,All-Years
+153,nbc0746@gmail.com,Ng ,Boon Chuan,012-9869611,51200,IND,12.0000,Brother,All-Years
+154,sllim000@hotmail.com,Siew Lian,Lim,0351923228,40400,IND,4.0333,HP,All-Years
+155,vneela@hotmail.my,NEELA LAKSHIMI,V. VEERASAMY,603-51217193,40400,IND,12.0000,Fuji Xerox,All-Years
+156,winnie.chen05@gmail.com,Winnie ,Chen,0176227558,46050,IND,12.0000,Fuji Xerox,All-Years
+157,acc@jjinternational.edu.my,Elyse ,Teng,0379545802,46000,IND,6.4000,Fuji Xerox,All-Years
+158,gracelee74@gmail.com,Dr Lee,Grace,0379569682,46200,IND,12.0000,Brother,All-Years
+159,0173314611,Spektra Murni Sdn Bhd,,0173314611,47500,CPNY,12.0000,Brother,All-Years
+160,alvinchan@meh.com.my,Alvin,Chan,0129882807,,IND,12.0000,Brother,All-Years
+161,canniekoh@hotmail.com,cannie,koh,0126073522,47400,IND,12.0000,Epson,All-Years
+162,ayeotan@gmail.com,Ann,Yeo,0123352863,51200,IND,12.0000,HP,All-Years
+163,jpk@gebsss.com,John,Kortum,0192599261,43300,IND,12.0000,Epson,All-Years
+164,kokyee72@gmail.com,KOK YEE,WONG,0123163004,40150,IND,12.0000,Epson,All-Years
+165,sarah@oxyhin.com.my,sarah,loh,016-2218359,46200,IND,10.6000,Epson,All-Years
+166,sl.wong@zeboasia.com,Wong Soon,Lip,6012-2885313,41200,IND,12.0000,Epson,All-Years
+167,mohdhakimimohdnor@gmail.com,Mohd Hakimi,Mohd Nor,0176833404,47301,IND,12.0000,Brother,All-Years
+168,soopakmun@gmail.com,Pak Mun,Soo,0123389698,40150,IND,26.1667,Brother,All-Years
+169,firdaus@madcatworld.com,Ahmad Firdaus,S Baharin,60193828900,50450,IND,12.0000,Brother,All-Years
+170,roslina@djunglepeople.com,Roslina,Zulkeflee,03 7877 8008,,IND,12.0000,Fuji Xerox,All-Years
+171,kam@atapatwork.com,Kamini,Jayamani,60162202154,41100,IND,0.0000,Fuji Xerox,All-Years
+172,smsvcstn@gmail.com,Chow,Jason,0123300660,47400,IND,17.5667,Fuji Xerox,All-Years
+173,chan_loong@yahoo.com,Chan Loong,Bong,78318620,47301,IND,12.0000,Fuji Xerox,All-Years
+174,adrean_19@yahoo.com,chai,kim fat,0162252565,47110,IND,12.0000,Brother,All-Years
+175,aidahchin@gmail.com,Aidah,Abdul Hassan Chin,+60126959362,56100,IND,12.0000,Brother,All-Years
+176,anitajohn99@yahoo.com,Anita,John,0166882092,57000,IND,12.0000,HP,All-Years
+177,enquiry@elv.com.my,Grace,Tee,60351221213,40460,IND,12.0000,Brother,All-Years
+178,speechaven@gmail.com,Cecilia,Santiago,0129596644,46200,IND,12.0000,HP,All-Years
+179,andycheah99@yahoo.com,Andy,Cheah,0193897098,,IND,12.0000,Fuji Xerox,All-Years
+180,arctgoh@gmail.com,cheong thet,goh,0123059333,40170,IND,12.0000,HP,All-Years
+181,sheelatpsfm@gmail.com,sheela,palanisamy,0123673424,44300,IND,12.0000,Fuji Xerox,All-Years
+182,yeeling@nsb.com.my,tan,yee ling,0162028690,47100,IND,2.0667,Epson,All-Years
+183,nickichen@mail.com,Nicki,Chen,0199999991,47410,IND,12.0000,Fuji Xerox,All-Years
+184,info@nurizshar.com.my,Nuriz Shar Enterprise,-,017 3730912 / 0361277864,Batu Caves,IND,12.0000,Print n Stick,All-Years
+185,kgtan_rnd@jadi.com.my,Keng Guan,Tan,016-5577677,40150,IND,12.0000,HP,All-Years
+186,173696069,Artem Sazykin,,173696069,50450,CPNY,12.0000,Brother,All-Years
+187,skyhew@gmail.com,HEW,HEIN HWEI,0122130822,47100,IND,12.0000,HP,All-Years
+188,ac.hongyeah@gmail.com,wong,Mei Fong ,0197779415,86200,IND,12.0000,Epson,All-Years
+189,shuchuen@hotmail.com,Lim,Shu Chuen,0122133280,60000,IND,12.0000,HP,All-Years
+190,andy@octagon.com.my,Andy,Lai,40434833,50400,IND,12.0000,,All-Years
+191,miracle_sl@yahoo.com,lee,szelye,0122721729,52200,IND,12.0000,Fuji Xerox,All-Years
+192,satriaaces68@yahoo.com,ZUSHAKIRAH,ABDUL MUTALIB,0360386090,47000,IND,12.0000,HP,All-Years
+193,willchai1@gmail.com,PENG MUN,CHAI,0178822253,52100,IND,12.0000,Fuji Xerox,All-Years
+194,larryhklee@gmail.com,Larry,Lee,012-2037832,46100,IND,9.4667,Brother,All-Years
+195,eddie@eliteagri.com,Eddie,Lee,0192755255,47800,IND,3.0000,Brother,All-Years
+196,bsdave@gmail.com,BS,DAVE,012-3177989,52100,IND,12.0000,Fuji Xerox,All-Years
+197,info@abworld.com.my,AB Worldwide Sdn Bhd,Ms Kong/ Ng,56363829,47500,CPNY,12.0000,Fuji Xerox,All-Years
+198,yv_liew@yahoo.com,yvonne,liew,0123132899,47820,IND,27.9333,Brother,All-Years
+199,ongshan57@gmail.com,SHI LIM,ONG,0163311826,47100,IND,12.0000,Epson,All-Years
+200,lishin@thecookinghouse.com,Edyth,Ban,0123951243,59000,IND,12.0000,Fuji Xerox,All-Years
+201,pulautambisan08@gmail.com,Mohd Ramizi ,Mat Yasin,0139519743,17510,IND,12.0000,Brother,All-Years
+202,jasri@jds-usaha.com.my,Jasri,Ishak,0123935905,47100,IND,0.0000,HP,All-Years
+203,fkng15@yahoo.com,Ng,Fuang Kong,012-2672855,41150,IND,12.0000,Epson,All-Years
+204,mail.eddielee@gmail.com,eddie,lee,0164223168,47170,IND,12.0000,Brother,All-Years
+205,shirley_ngkenghong@yahoo.com,NG,KENG HONG,012-6963631,40300,IND,12.0000,Brother,All-Years
+206,spleepapa@yahoo.com,Lee,Seik Poa,0124725778,10050,IND,12.0000,Epson,All-Years
+207,cmingluen@hotmail.com,Ming Luen,Chong,0177178746,58200,IND,12.0000,Brother,All-Years
+208,kakamata90210@gmail.com,Muhammad Syafeeq,Bin Mohammad Nuri,60122872081,47100,IND,12.0000,Brother,All-Years
+209,alicewcf89@hotmail.com,Alice,Wong,0123283564,47800,IND,12.0000,Brother,All-Years
+210,hkhcomm@hotmail.com,HIEW ,YUEN HIN,0380682352,47100,IND,12.0000,Epson,All-Years
+211,oswinlo_85@hotmail.com,lo,wei ching,0122753326,55200,IND,12.0000,HP,All-Years
+212,jmbsutramas08@yahoo.com.my,C P,Lim,03-80765320,47100,IND,12.0000,Epson,All-Years
+213,asfazian@yahoo.com,ASFAZIAN,CHE RAMLI,0192377839,43300,IND,12.0000,Fuji Xerox,All-Years
+214,veeket@hotmail.com,Chester,Tseu,0380611200,47100,IND,12.0000,Brother,All-Years
+215,kitcchong@hotmail.com,Chin Chiat,Hong,0163197200,40400,IND,0.0000,HP,All-Years
+216,nsblighting04@gmail.com,TAN,YEE LING,0162028690,47100,IND,1.8333,Epson,All-Years
+217,jasminetck@gmail.com,Jasmine,Tan,0122952418,47810,IND,5.7333,Fuji Xerox,All-Years
+218,haoxi91@gmail.com,Adv,Fusionex,0173161066,46200,IND,0.4333,Brother,All-Years
+219,joey.liew73@gmail.com,Joey,Liew,0122824323,47810,IND,12.0000,Brother,All-Years
+220,danen@worldexasia.com,Soo,Hu Seng,0169689977,47810,IND,12.0000,Brother,All-Years
+221,bee@alliancelogisticssb.com,kheoh,Bee,0123355512,47301,IND,12.0000,Epson,All-Years
+222,xuxianzhi@gmail.com,xianzhi,xu,013-5408888,59200,IND,12.0000,HP,All-Years
+223,ritzwallcovering@gmail.com,hon, dan john,03-80221688,47500,IND,14.4000,Epson,All-Years
+224,vivagroup.greateastern@yahoo.com,Lynnie,Tan,03-40422828,50480,IND,0.0000,Fuji Xerox,All-Years
+225,azman.nlt2010@gmail.com,Azman,Hamid,0193864380,,IND,12.0000,Fuji Xerox,All-Years
+226,fifi@naramedispa.com,faezah,yusop,0196761604,59000,IND,22.1667,Fuji Xerox,All-Years
+227,0122831818,Su Ping,,0122831818,40100,CPNY,12.0000,Brother,All-Years
+228,deglazz@gmail.com,Jaffre,Ng,0122161007,47300,IND,12.0000,Brother,All-Years
+229,admin@sage3.com,Valued Customer,Sage 3 Capital Sdn Bhd,0320118268,50490,CPNY,12.0000,HP,All-Years
+230,133977218,Nor Afzan Zalila,,133977218,91000,CPNY,12.0000,Brother,All-Years
+231,suan170@hotmail.com,Kristofer,Ho,0126813182,40150,IND,12.0000,Epson,All-Years
+232,limxying@gmail.com,XINYING,LIM,0129271048,47500,IND,12.0000,Print n Stick,All-Years
+233,tkchiew@hotmail.com,Thiam Kian,Chiew,0123712115,52200,IND,12.0000,Brother,All-Years
+234,mira_9787@yahoo.com,mira,Kamaruddin,+60123190661,47301,IND,12.0000,HP,All-Years
+235,codename29@hotmail.com,Yeo,Sing Ho,016-6012585,47500,IND,26.1333,Epson,All-Years
+236,raymondlai@behnmeyer.com.my,RAYMOND,LAI,0193822887,,IND,12.0000,Fuji Xerox,All-Years
+237,stephanie@natselane.com,Stephanie,Choong,0129136488,47810,IND,7.2333,Brother,All-Years
+238,gentat@gmail.com,Gen Tat,Teoh,0163399896,31900,IND,0.0000,OEM,All-Years
+239,gtmintegration@gmail.com,Involve,Asia,0179750886,58000,IND,12.0000,Brother,All-Years
+240,167826207,Adeline Lim,,167826207,81100,CPNY,12.0000,Epson,All-Years
+241,info@sfnoodles.com,SOON FATT FOODS,SDN BHD,0123053761,47100,CPNY,12.0000,Fuji Xerox,All-Years
+242,adzyan@gmail.com,ADZYAN,HAMID,0193833783,47110,IND,12.0000,Brother,All-Years
+243,geaswaran@hotmail.com,Easwaran,Gunaratnam,0173317303,59200,IND,12.0000,HP,All-Years
+244,myndywong8348@gmail.com,May Kwan,Wong,0123934838,43300,IND,11.3000,HP,All-Years
+245,yupohmei2010@hotmail.com,yu,mei,0192562200,52100,IND,12.0000,Epson,All-Years
+246,elytsb@gmail.com,John,Lai,0163357811,47000,IND,12.0000,Brother,All-Years
+247,will.svcs2u@live.com.my,William,Law,03-21413433,,IND,12.0000,Brother,All-Years
+248,suzilahmohamad@yahoo.com,SUZILAH,MOHAMAD,0333439911,40170,IND,12.0000,HP,All-Years
+249,smkl9294@hotmail.com,JANE ,TAN,0122884785,51200,IND,12.0000,Oki,All-Years
+250,nswagency72@gmail.com,chuah,sp,03 6189 2611 /011 1113 1163,68100,IND,0.0000,Brother,All-Years
+251,jay_el13@hotmail.com,John Haw,Lee,0193199301,43300,IND,19.3333,Brother,All-Years
+252,khthong@audiosynergy.com.my,Thong,Kok Hoow,0123771230,40150,IND,13.9000,Brother,All-Years
+253,lhy@pyms.com.my,HUI YEEN,LAI,603-78046500,47301,IND,12.0000,Fuji Xerox,All-Years
+254,louislau@gmail.com,Louis,Lau,+60123770422,59200,IND,12.0000,HP,All-Years
+255,jkpns@yahoo.com,yoong,fatt,61421081,47810,IND,7.7000,Brother,All-Years
+256,searfui@hotmail.com,Top Ten Workshop Sdn Bhd,Choo,0167132599,81000,CPNY,2.5000,Epson,All-Years
+257,weimun.tan@integrationpoint.com,Tan,Wei Mun,012-3311 983,47500,IND,12.0000,Epson,All-Years
+258,k.o.tan@rocketmail.com,KEE ONG,TAN,0340419613,51200,IND,12.0000,HP,All-Years
+259,rickytay@live.com.my,ricky,tay,+6016-2632633,43300,IND,12.0000,Brother,All-Years
+260,sgoh@jirehconsult.com,Samantha,Goh,03-7710 8122,,IND,12.0000,Fuji Xerox,All-Years
+261,matchip@gmail.com,Ahmad Husni,Abdul Wahab,0123261495,47130,IND,12.0000,Brother,All-Years
+262,jenny@hometowncoffee.com.my,Jenny,Teoh,03-79321180,46400,IND,12.0000,HP,All-Years
+263,info@pcp.com.my,Alvin,Tan,03-89417966,43300,IND,12.0000,HP,All-Years
+264,eddiesong2020@gmail.com,Wai Khaing,Wong,0123957729,47130,IND,12.0000,OEM,All-Years
+265,0105060680,Alimah binti othman,,0105060680,81200,CPNY,12.0000,Brother,All-Years
+266,muzahid@hotmail.com,mohd muzahid,md nor,0132768448,60000,IND,12.0000,Brother,All-Years
+267,enetsolution2015@gmail.com,CHEE MUN,CHONG,0176266755,56100,IND,5.9667,Print n Stick,All-Years
+268,tangpohyee@gmail.com,Eri,Tang,0182551848,47300,IND,12.0000,Brother,All-Years
+269,eh.yeoh@yahoo.com,Eng Hong,Yeoh,0195122746,,IND,12.0000,Fuji Xerox,All-Years
+270,eqym@hotmail.com,Quek,Yee Ming,016-2489177,58200,IND,12.0000,HP,All-Years
+271,splow@oneweb.ws,Siong Pein,Low,0123183322,40150,IND,0.0000,Fuji Xerox,All-Years
+272,susan@marbleemporium.com.my,Susan,Liew,7832 1126,40150,IND,16.8333,Fuji Xerox,All-Years
+273,halim.saleh@perodua.com.my,Halim,Saleh,0367338888,62150,IND,12.0000,Brother,All-Years
+274,william_kfc@yahoo.com,fook chun,kong,0197152221,81300,IND,12.0000,Brother,All-Years
+275,enochkhoo.pa@ek.com.my,Rannie Chu,Sze Lui,03-74905707,50480,IND,0.0000,Print n Stick,All-Years
+276,fairuz@mfqasia.com,Mohd Fairuz,Mohd Yusof,0389412001,43300,IND,12.0000,HP,All-Years
+277,yltang15@yahoo.com,Yoke Lan,Tang,60193386811,47100,IND,2.3000,Brother,All-Years
+278,prinsessaliang@gmail.com,Prinses,Saliang,0102311445,40000,IND,12.0000,Fuji Xerox,All-Years
+279,zainab@newwin.com.my,Newwin engineering,sdn bhd,21668615,55100,CPNY,12.0000,HP,All-Years
+280,joanchin@orc.com.my,Chin,Kee Ying,03-40650338,51000,IND,0.0000,HP,All-Years
+281,carol-siew@hotmail.com,SIEW,CHAI YIN,016-4140230,25050,IND,12.0000,Epson,All-Years
+282,annie@meritpower.com.my,Chiang,Annie,03-79583788,46200,IND,12.0000,Epson,All-Years
+283,felicia@aegisucorp.com,Felicia,Lau,0123210559,50480,IND,0.2667,Brother,All-Years
+284,AUCONPRO@YAHOO.COM,THYE HENG,TEE,0162033338,47610,IND,12.0000,HP,All-Years
+285,kongss@puigroups.com,Kong,Shiu Shiu,085-420 612,98007,IND,0.0000,Epson,All-Years
+286,ytpui1@gmail.com,Yuh Tzer,Pui,+60138062770,98000,IND,0.0000,Epson,All-Years
+287,0126090103,LEE VUI YONG,,0126090103,91000,CPNY,12.0000,Epson,All-Years
+288,cschuah@novationresources.com,JAMES,CHUAH,0162204261,46000,IND,23.0000,Brother,All-Years
+289,sitinabilah.adnan@gmail.com,SITI NABILAH ,ADNAN,0132490727,50603,IND,12.0000,Fuji Xerox,All-Years
+290,128288662,JONE CHUAN,,128288662,52200,CPNY,12.0000,Brother,All-Years
+291,lariff@yahoo.com,Leonard,Abdul Shatar,0122776602,50400,IND,1.5667,Brother,All-Years
+292,tony@tacam.com.my,Tony,Khor,03-42702267,,IND,12.0000,Fuji Xerox,All-Years
+293,ckfong2020@gmail.com,Will ,Chow ,0392806488,68000,IND,12.0000,Fuji Xerox,All-Years
+294,leongming@gmail.com,Leong Ming,Hau,066581968,71960,IND,0.0000,Fuji Xerox,All-Years
+295,nrnorazmirahmat@gmail.com,Kartini,Abdul Aziz,0122152470,51000,IND,12.0000,Brother,All-Years
+296,wytan@rts.com.my,TAN,WEE YO,0127890410,56100,IND,6.4667,Brother,All-Years
+297,danensoo@yahoo.com,Fireworks Event,Fireworks Event,0163880998,47810,IND,21.6667,Brother,All-Years
+298,suliani.kesb@gmail.com,suliani,sahari,03-61862405,68100,IND,1.8667,Brother,All-Years
+299,emmychoo@gmail.com,Emmy,Choo,0378850505,47301,IND,12.0000,Brother,All-Years
+300,mankianhardware@gmail.com,HUE,POH WAH,03-58911295,47100,IND,12.0000,Epson,All-Years
+301,cavynhue@yahoo.com,Cavyn,HUE,+60133919341,26100,IND,7.8667,OEM,All-Years
+302,edleow78@gmail.com,edmund leow,choy hock,0123705833,52100,IND,12.0000,Brother,All-Years
+303,wln8454@gmail.com,Sazali,Mohammad Nadzri,0193240634,50460,IND,12.0000,Brother,All-Years
+304,shahrulnizam.my@gmail.com,Mohd Shahrulnizam,Abd Hamid,0172196250,,IND,12.0000,Fuji Xerox,All-Years
+305,andypgk@gmail.com,Andy,Pang,0168463288,46050,IND,0.3000,Brother,All-Years
+306,limjeanie81@gmail.com,Jeanie,Lim,012-9022113,80000,IND,0.0000,Epson,All-Years
+307,sharon.loong@desarch.com.my,Sharon,Loong,0377109970,47820,IND,12.0000,Fuji Xerox,All-Years
+308,ALONGDIX@GMAIL.COM,ABD RAZAK,OMAR,0122776743,81700,IND,12.0000,HP,All-Years
+309,geniepan1980@hotmail.com,Genie,Pan,0122199613,68100,IND,0.2333,Epson,All-Years
+310,librachew9966@gmail.com,FION,CHEW,0122352732,58100,IND,12.0000,Canon,All-Years
+311,hoicw_limtay@yahoo.com.my,HOI,CHEN WEI,03-2072 8142,50000,IND,0.0000,Brother,All-Years
+312,leon_vortex@yahoo.com,Leon,Sit,0125220081,47800,IND,12.0000,HP,All-Years
+313,bryan@mys.com.my,Bryan,Yap,0122952190,47620,IND,12.0000,HP,All-Years
+314,kah_kk@yahoo.com,Kah,Kim Kee,0362416589,52100,IND,12.0000,Brother,All-Years
+315,jasminekong_mvista@yahoo.com,CARMIN,LAM,018-2911 809,47100,IND,8.8667,Epson,All-Years
+316,hao.han.tan@adv-fusionex.com,Hao Han,Tan,0169654199,46200,IND,12.0000,Brother,All-Years
+317,rreeng@gmail.com,Edward,E,0187787776,27000,IND,12.0000,Fuji Xerox,All-Years
+318,recopylau@gmail.com,Kwong Nee,LAU,60126387883,73000,IND,12.0000,HP,All-Years
+319,clovertechgarage@gmail.com,MAY,WONG,51228020,40460,IND,26.2000,HP,All-Years
+320,kabir09@gmail.com,Moinul,Kabir,+60125230886,47500,IND,12.0000,Brother,All-Years
+321,matamoon@mac.com,Yulina,Baharuddin,+60122900566,55000,IND,0.1667,Brother,All-Years
+322,angieeu@hotmail.com,Angie ,Eu,0133333313,59100,IND,12.0000,Brother,All-Years
+323,0122083232,Lim Ca Ee,,0122083232,43200,CPNY,12.0000,Brother,All-Years
+324,dscaffengineering@gmail.com,Dscaff,Engineering ,03-6201 5722,50480,IND,12.0000,Epson,All-Years
+325,+60122566659,Joey Caisse,,+60122566659,50480,CPNY,12.0000,Canon,All-Years
+326,muhilen@gmail.com,Muhilen ,Genesan,+60379318220,46200,IND,3.8333,Epson,All-Years
+327,mustafar@ieee.org,Mustafar Kamal,Hamzah,+60122341546,40000,IND,11.4667,HP,All-Years
+328,hermandolmat@yahoo.com,Herman,Dolmat,019-2834488,48100,IND,12.0000,HP,All-Years
+329,sharon.wong@sure-reach.com,Sharon ,Wong,0126772928,,IND,12.0000,Fuji Xerox,All-Years
+330,yunloongsel@gmail.com,YUNLOONGSEL,YUN LOONG,0333926080,42200,IND,12.0000,Brother,All-Years
+331,faesal09@gmail.com,faesal,amar,0193074028,42300,IND,12.0000,Epson,All-Years
+332,lmthung@yahoo.com,Mun Thung,LEW,03-40427803,50400,IND,12.0000,Epson,All-Years
+333,estherleong86@gmail.com,Esther Leong,Ai Ping,0169214715,56000,IND,12.0000,Brother,All-Years
+334,cynthiatiang@gmail.com,Cynthia,Tiang,0123127117,47160,IND,4.6667,HP,All-Years
+335,formlite@yahoo.com,Yvonne,Yew,0169963626,57000,IND,3.0667,Print n Stick,All-Years
+336,sam@antah.com.my,Sam,Lai,0379560900,46200,IND,6.4667,Brother,All-Years
+337,lizaina@phuturephlow.com,Lizaina,Azmir,03 77292369,47800,IND,12.0000,Brother,All-Years
+338,leongpw@nutrifres.com.my,costrio,marketing sdn bhd,0378454968,40150,CPNY,2.7667,Epson,All-Years
+339,0168881115,Diorson Liu,,0168881115,93350,CPNY,12.0000,Fuji Xerox,All-Years
+340,kajue3bl@gmail.com,Benny,Ling,0165227618,96000,IND,12.0000,Epson,All-Years
+341,admin@kinhengfurniture.com,KINHENG FURNITURE SDN. BHD.,CONNIE LOOI,0361571223,47000,CPNY,12.0000,HP,All-Years
+342,joetho@yasmintho.com,Joe,Tho,+60122138081,57700,IND,12.0000,HP,All-Years
+343,ber_xdwp@yahoo.com,Xavier,David,6019 7750559,81750,IND,12.0000,Canon,All-Years
+344,joymichi@yahoo.com,Michelle,Eng,0122731291,46300,IND,12.0000,HP,All-Years
+345,kmhow@bitalifesc.com.my,KIAN MING,HOW,603-79608286,46300,IND,12.0000,HP,All-Years
+346,finance.khalifahdidik@gmail.com,Ainun ,Ya,0342808311,55100,IND,12.0000,HP,All-Years
+347,munchkin_70@yahoo.com,Ida,Faiz,0123990095,59200,IND,12.0000,Brother,All-Years
+348,jackliong@gmail.com,Jack,Liong,0166600120,43300,IND,9.8667,Fuji Xerox,All-Years
+349,siellchoay@yahoo.com,Irene,Wong,0123067878,40400,IND,12.0000,Canon,All-Years
+350,ong.kyw@gmail.com,Kevin,Ong,0123051833,40100,IND,4.5333,HP,All-Years
+351,ikram@sivaassc.com.my,Ikram Shah,Zainuddin,0192093623,47301,IND,12.0000,Brother,All-Years
+352,harith.ahmad@gmail.com,Harith,Ahmad,60176878900,46400,IND,12.0000,Brother,All-Years
+353,kklcokl@gmail.com,WONG ,CHUI MEE,60392855899,55200,IND,0.0000,Epson,All-Years
+354,tkhman_00@yahoo.com,TAN,KEOK HOOI,0122192253,,IND,12.0000,Fuji Xerox,All-Years
+355,azman.badaruddin@gmail.com,Mohammad Azman,Badaruddin,+60123910464,40150,IND,2.0667,HP,All-Years
+356,sitisarahhilmi@gmail.com,Sarah,Hilmi,0122606434,47810,IND,12.0000,HP,All-Years
+357,2274529556@qq.com,Selina,Wong,+60126858553,50450,IND,1.4000,Fuji Xerox,All-Years
+358,tsw26@hotmail.com,tan ,soo wei,0162468280,40100,IND,12.0000,Brother,All-Years
+359,armanmisdar@gmail.com,Arman,Misdar,0122507946,59200,IND,12.0000,Fuji Xerox,All-Years
+360,pohlian@yahoo.com,KGP Enterprise,JOAN TAN,0123282179,52100,IND,6.8000,Fuji Xerox,All-Years
+361,pica9288@yahoo.com,Darren,Yue,0123952010,43300,IND,12.0000,Epson,All-Years
+362,jandy_cham@hotmail.com,Jandy,Cham,016-3207909,40170,IND,5.5667,Epson,All-Years
+363,christine@majodi.org,Christine,Lim,0123863309,81750,IND,12.0000,HP,All-Years
+364,chua_jc@yahoo.com.sg,JC,Chua,03-78807480,47301,IND,2.6333,HP,All-Years
+365,bakara@petronas.com.my,ABU BAKAR,AHMAD,0123938465,53300,IND,12.0000,Brother,All-Years
+366,scsktn@hotmail.com,Edward,Chia,012 987 0206,25300,IND,12.0000,HP,All-Years
+367,60127712200,LIM WOEI MING,,60127712200,81100,CPNY,12.0000,Brother,All-Years
+368,it_hq@benden.com.my,Jason,Ooi,0122930434,43200,IND,12.0000,Epson,All-Years
+369,rox@zacklim.com,ROXANA,Lim,0123186336,46150,IND,1.1667,Epson,All-Years
+370,GAVIN@THECHALLENGER.COM.MY,GAVIN,LIEW,0173355812,46200,IND,0.0000,Fuji Xerox,All-Years
+371,chin@coffeeritual.com,Chung,Yeh Chin,+60377253633,47400,IND,9.2333,Brother,All-Years
+372,jft@codingmalaysia.com,Jing Fen,Tan,60123271780,40460,IND,12.0000,Epson,All-Years
+373,ronald@kevronent.com,KUI YEOW ,SOO ,+60193166138,43200,IND,0.0000,Fuji Xerox,All-Years
+374,pengsing.ewe@gmail.com,Peng Sing ,Ewe,0169865201,47301,IND,12.0000,HP,All-Years
+375,esther@junpack.com.my,Esther,Chan,012-2647574,58200,IND,0.0000,Epson,All-Years
+376,gleelc@gmail.com,Gloria,Lee,03-77842839,46020,IND,12.0000,Brother,All-Years
+377,anter.tey@gmail.com,Anter,Tey,012-8010188,88820,IND,12.0000,Brother,All-Years
+378,rshankar@rsplan.com.my,Ravi,Shankar,0380240377,47560,IND,2.1000,Brother,All-Years
+379,isngah@gmail.com,ISKANDAR,NGAH,0173283328,,IND,7.7667,Brother,All-Years
+380,390553230,AWS Technologies Sdn Bhd,,390553230,57000,CPNY,12.0000,Brother,All-Years
+381,accounts@bbmalaysia.org,Pey Hiong,Ng,03-77844262,46000,IND,12.0000,Fuji Xerox,All-Years
+382,richardyek@gmail.com,Richard,Yek,03 60285771,48300,IND,12.0000,HP,All-Years
+383,mercuroas@hotmail.com,Chun Theng,Yap,+60122363390,47100,IND,12.0000,Fuji Xerox,All-Years
+384,aziza@jiwane.com,aziza,ahmad,0362579955,51200,IND,12.0000,HP,All-Years
+385,ravikrishnapillai@gmail.com,Ravi,Krishnapillai,0374913680,46150,IND,12.0000,Fuji Xerox,All-Years
+386,pclim@primagroup.com.my,PC,Lim,0320806633,50490,IND,0.6000,Print n Stick,All-Years
+387,leongchonga.c@gmail.com,VICKY,LIM,0380810377,47620,IND,12.0000,Epson,All-Years
+388,omar_matnoor@yahoo.com,Omar,Mat Noor,0193875094,28000,IND,12.0000,Epson,All-Years
+389,ana.aziz@gmail.com,Wan Rozana,Aziz Kasim,+60162337980,,IND,12.0000,Brother,All-Years
+390,0125550797,Mohd Rawi Bin Md Suffi,,0125550797,10150,CPNY,12.0000,Epson,All-Years
+391,bettyainkiq@gmail.com,Nahzatul Ain,Mohd Khalid,03-42171311,55100,IND,2.8000,Brother,All-Years
+392,0129532120,Yvette Haeggmark,,0129532120,10470,CPNY,12.0000,Brother,All-Years
+393,jovvina63@gmail.com,Jovvina,tan,0123360163,43000,IND,12.0000,HP,All-Years
+394,keng.lh@givi.com.my,GIVI ASIA ,SDN BHD,0194587522,48300,CPNY,12.0000,HP,All-Years
+395,panglimacity@gmail.com,Panglima City Motor,Sdn Bhd,0177779021,42500,CPNY,12.0000,Epson,All-Years
+396,chau8060@gmail.com,Terence,Chau Shen Tshung,0178358060,,IND,12.0000,Brother,All-Years
+397,pygan75@yahoo.com,Gan,Poo Yien,0166216662,47500,IND,11.0333,Epson,All-Years
+398,nurulhazimahmustafa@gmail.com,Nurul,Hazimah,0177800207,43300,IND,12.0000,Epson,All-Years
+399,beelan@hometowncoffee.com.my,LOH,BEE LAN,0162289176,46400,IND,12.0000,HP,All-Years
+400,jeev@domecafe.com.my,JEEVA NANTHAN,RAMAN,0175005058,56100,IND,6.9000,Brother,All-Years
+401,kiniko@yahoo.com,Syarikat Makmur,Alat-Alat Ganti S/B,0169200043,55100,IND,0.0000,Epson,All-Years
+402,awyongcarl@gmail.com,AW YONG,KIN MENG,+60163232383,52200,IND,12.0000,HP,All-Years
+403,info@rozel.com.my,DAVID,LEE,0124943732,40150,IND,2.2000,Epson,All-Years
+404,abdsalaam@live.com,Abdul Salaam,Shafruddin,0193494349,40300,IND,12.0000,Brother,All-Years
+405,amir.zain@gmail.com,Amir,Zain,+60122549229,47300,IND,0.0000,Fuji Xerox,All-Years
+406,zhichao83@gmail.com,Alex,Ong,0124192911,53100,IND,2.7000,HP,All-Years
+407,lydiatimbah@kop-keramat.com,lydia,timbah abdullah,0138106620,88100,IND,10.1000,Brother,All-Years
+408,hhcr.project@gmail.com,YUSLI,SULAIMAN,60173494324,53000,IND,17.4333,Epson,All-Years
+409,terenceyong@pyeproducts.com,Terence,Yong,0122803228,41050,IND,42.3333,Brother,All-Years
+410,173418992,RAYE TAN,,173418992,47160,CPNY,12.0000,Brother,All-Years
+411,joeyylh@yahoo.com,Joey,Yee,03-80709712,47100,IND,12.0000,Epson,All-Years
+412,luvingtidus@yahoo.com,Chi Hui,Foo,0102208980,09000,IND,12.0000,HP,All-Years
+413,slchow@gmail.com,Raymond,Chow,0122028900,47500,IND,5.1000,Epson,All-Years
+414,afaaezah@yahoo.com,Faaezah,Abdul Samad,012-6326348,68100,IND,12.0000,Fuji Xerox,All-Years
+415,geraldine.tansw@gmail.com,Geraldine,Tan,+603 6034 5579,48020,IND,12.0000,HP,All-Years
+416,cy.wong@live.com.my,CY,Wong,0162693552,43200,IND,12.0000,Brother,All-Years
+417,ieda120403@yahoo.com,Nor Hidayah,Mohd Azmi,0122552757,54200,IND,12.0000,Brother,All-Years
+418,akhili.salamat@gmail.com,Akhili,Salamat,0123754020,48000,IND,12.0000,Epson,All-Years
+419,chloh14@gmail.com,Loh,Cheng Hoo,0123137199,47400,IND,12.0000,Fuji Xerox,All-Years
+420,nuar@gayatravel.com.my,nuar @ md nor,md diah,0129112899,52200,IND,12.0000,HP,All-Years
+421,ctp.nyp@gmail.com,chan,taiping,0379715583,58100,IND,12.0000,Epson,All-Years
+422,farah@brandworth.com.my,Farah,Hamid,0377271500,62502,IND,18.2333,HP,All-Years
+423,sungct@yahoo.com,TECK SUNG,CHEU,085-736172,98200,IND,12.0000,Fuji Xerox,All-Years
+424,127665058,Serba Wangi JH Sdn Bhd,,127665058,81400,CPNY,12.0000,Epson,All-Years
+425,tan.tkm@gmail.com,Terence,Tan,0162081742,47170,IND,12.0000,Brother,All-Years
+426,bryan.chea@mulpha.com.my,Bryan,Chea,03-77186387,47810,IND,12.0000,Epson,All-Years
+427,bum**************@gmail.com,BUMI KASTURI SDN BHD,,092771876,28000,CPNY,12.0000,Brother,All-Years
+428,xunjie0820@gmail.com,tan,xun jie,0126826786,47100,IND,0.2667,HP,All-Years
+429,sales@lasting-impressions.com.my,grace,chang,0378061491,47810,IND,8.9333,HP,All-Years
+430,haymeibrahim@gmail.com,Hayme,Ibrahim,0126690974,59200,IND,12.0000,Epson,All-Years
+431,fardly@sgrsb.com,mohd,fardly,0192247133,,IND,0.0000,Brother,All-Years
+432,my2299@gmail.com,Tony,Su,082233922,93100,IND,12.0000,Brother,All-Years
+433,tyantan@vivanetwork.com.my,Tze Yan,Tan,03 6188 9353,68100,IND,6.2333,Brother,All-Years
+434,kristalwaja@yahoo.com,Roslan,Abdul,0123334446,57000,IND,6.9333,Brother,All-Years
+435,bryan.tancj@gmail.com,Bryan,Tan,0122336553,47600,IND,4.2333,Brother,All-Years
+436,arkitekmp@gmail.com,Noor Hisham,Md Yatim,03-41438500,53300,IND,12.0000,HP,All-Years
+437,woeiren@hotmail.com,chong woei,ren,6016-7737556,81000,IND,12.0000,Epson,All-Years
+438,info@metrohm.com.my,Metrohm (Malaysia) Sdn Bhd,.,0192164886,47301,CPNY,2.0333,HP,All-Years
+439,hasliana@gmail.com,HASLIANA,KAMARUDDIN,03-89536326,43400,IND,12.0000,Brother,All-Years
+440,shamsuriali@gmail.com,Norshamsuri,Ali,0126930039,05300,IND,12.0000,HP,All-Years
+441,kokhan@tenten.com.my,KUA,KOK HAN,+60133571010,40000,IND,12.0000,Epson,All-Years
+442,melitham@gmail.com,Melissa,Tham,+60127732783,81100,IND,0.1667,Epson,All-Years
+443,pcp_alice@yahoo.com,Alice,Lui,0102727517,43300,IND,12.0000,HP,All-Years
+444,TERENCE@SALURANPASIFIK.COM,terence,ngiaw,0129899603,25200,IND,6.9667,Print n Stick,All-Years
+445,klinikdrsuraya@gmail.com,Amin,Johari,0389203141,43650,IND,0.9000,Epson,All-Years
+446,yhong_1989@hotmail.com,sin,wai hoong,0166091639,58100,IND,12.0000,Epson,All-Years
+447,jacky.wee@hotmail.com,Jacky,Wee,0163344468,43300,IND,12.0000,Brother,All-Years
+448,dnayu85@yahoo.com,DAYANG NOOR AZURA,BINTI ABANG DAUD,0128816215,93250,IND,16.0667,Brother,All-Years
+449,lkscompservices@yahoo.com,KS,LAM,0122808464,47810,IND,12.0000,Epson,All-Years
+450,rita.n.modu@gmail.com,rita ,.nadarajan,03-55487333,40000,IND,12.0000,Epson,All-Years
+451,nikpawi@yahoo.com,Nik Sapawi,Nik Salleh,0199853454,24300,IND,12.0000,Fuji Xerox,All-Years
+452,heijengkamhoong@gmail.com,yap,hei jeng,0192798600,43300,IND,12.0000,Brother,All-Years
+453,alexsi1288@yahoo.com,Yu Hok,Si Liwo,0123839603,41050,IND,2.7000,Fuji Xerox,All-Years
+454,valwongmy@gmail.com,Valerie,Wong,0166263225,50470,IND,12.0000,Brother,All-Years
+455,alvinphua@interdeals.com.my,MAN SOO,PHUA,03-5635 5787,47500,IND,12.0000,Epson,All-Years
+456,admin@mokandco-eng.com,Gary,Mok,012-2176922,46100,IND,1.2000,Fuji Xerox,All-Years
+457,carellcheong@gmail.com,Carell,Cheong,0172503911,49000,IND,12.0000,HP,All-Years
+458,csliew@gmail.com,Chee Sun,Liew,0379676357,40460,IND,12.0000,Epson,All-Years
+459,sharir.rizal@gmail.com,Ahmad sharir rizal,mat ikram,60182942747,40000,IND,12.0000,Epson,All-Years
+460,knp.usj@gmail.com,DORIS ,MAYAPPEN,0380235537,47620,IND,12.0000,,All-Years
+461,snow1980a@hotmail.com,Siew Kian,Ong,0122827952,50603,IND,0.7333,Brother,All-Years
+462,ausmedpharmacy@gmail.com,Raymond ,Chan,03-77222882,47820,IND,12.0000,OEM,All-Years
+463,jerry@infinityinfocus.com,Looi,Keng Mun,019-2216425,47500,IND,12.0000,Brother,All-Years
+464,fyunus@mongooseasia.com,SITI FAZILLAH,YUNUS,0195989791,50450,IND,2.7000,Print n Stick,All-Years
+465,raymond@ultimateind.com.my,Raymond K C,Chia,+60129770055,68000,IND,12.0000,Brother,All-Years
+466,hairuzaki@gmail.com,HAIRUZAKI,M YUNUS,0162285554,,IND,12.0000,Brother,All-Years
+467,jesyap2004@yahoo.com,yap,siew khim,0122529188,53300,IND,12.0000,Brother,All-Years
+468,bluecroses@hotmail.com,She,Edmond,0122730995,55300,IND,12.0000,HP,All-Years
+469,cheekiong.cho@gmail.com,CHEE KIONG,CHO,0127280078,83000,IND,12.0000,HP,All-Years
+470,ongchailing@gmail.com,Ling,Ong,0126315132,40460,IND,12.0000,Brother,All-Years
+471,darlenefredriks@live.nl,Darlene ,Hartsteen,0166602624,81110,IND,12.0000,Brother,All-Years
+472,andrew@jiggee.com,Andrew,Hong,0162502060,59000,IND,12.0000,HP,All-Years
+473,chongsaikhong@gmail.com,Ivan,Chong,016-3218832,46100,IND,12.0000,Brother,All-Years
+474,aminulla.khan.ak@gmail.com,aminulla,khan,0173331582,47000,IND,12.0000,HP,All-Years
+475,aida.ikatanficus@gmail.com,aida,rajiae,6049241363,06010,IND,12.0000,Epson,All-Years
+476,myhijrahsb@yahoo.com.my,Rosmaliza,Rashid,03-90802373,43200,IND,12.0000,Epson,All-Years
+477,cathrine@casarealty.com.my,CASA,REALTY,0122208933,56000,IND,12.0000,Fuji Xerox,All-Years
+478,sally.sltan80@gmail.com,Sally,Tan,60125097009,47100,IND,12.0000,HP,All-Years
+479,chenchen16@yahoo.com,PHANG,CA MI,0168941018,93250,IND,0.0000,Canon,All-Years
+480,graceoky@yahoo.com,Grace,Ooi,0122166263,58000,IND,12.0000,Brother,All-Years
+481,Terenceconrad@gmail.com,Terence,Fernandez ,0122078447,47500,IND,0.0000,Brother,All-Years
+482,suping1818@gmail.com,Su Ping,Yap,0122831818,40100,IND,12.0000,Brother,All-Years
+483,morpheus7778@gmail.com,Jai Prakash,Subramaniam,0192354245,40460,IND,12.0000,HP,All-Years
+484,ailin.pang@gmail.com,Ai Lin,Pang,0126065864,60000,IND,12.0000,HP,All-Years
+485,valentinojohn@hotmail.com,Johnson ,Lim,012-2236829,57100,IND,21.6333,Epson,All-Years
+486,info@clubmanshop.com,Wai San,Saw,0122616003,47620,IND,12.0000,Epson,All-Years
+487,me@hong.my,Uncle,Lim,0163036110,46000,IND,12.0000,Print n Stick,All-Years
+488,tgyow23@yahoo.com.sg,YOW,TOH GEE,0127200862,73400,IND,6.3667,Epson,All-Years
+489,kuchunlian@gmail.com,Ku,Chun Lian,0127923932,58200,IND,12.0000,Fuji Xerox,All-Years
+490,khsupply_services@yahoo.com,Roszita,Ariffin,0380510830,47100,IND,12.0000,HP,All-Years
+491,endeavour@arc.net.my,Koon Yew,Loke,60392834310,56100,IND,0.2000,Epson,All-Years
+492,0199964466,Zakaria Ibrahim,,0199964466,21300,CPNY,12.0000,Print n Stick,All-Years
+493,ken.jern@gmail.com,Ken ,JERN,0322645213,,IND,12.0000,Fuji Xerox,All-Years
+494,carmencpl@yahoo.com,Carmen,Chan,012-6527706,,IND,12.0000,Fuji Xerox,All-Years
+495,johnnykeh@hotmail.com,JOHNNY,KEH,0123553102,52200,IND,12.0000,Epson,All-Years
+496,emilzubrin@yahoo.com,Emil,Zubrin,017388363,51200,IND,6.1667,Epson,All-Years
+497,may.havys@gmail.com,may,chow,066338239,70300,IND,12.0000,Fuji Xerox,All-Years
+498,haiaow@live.com,CHUAN HAI,AOW,013-9323107,28000,IND,12.0000,Brother,All-Years
+499,gwokiong@neptuneasia.com.my,GWO KIONG,HO,0128337228,87000,IND,1.5333,Brother,All-Years
+500,leeshinglung@gmail.com,Shing Lung,Lee,0192616991,58100,IND,12.0000,Epson,All-Years
+501,lw.mpsi@gmail.com,lai wan,chan,0162020447,40150,IND,12.0000,HP,All-Years
+502,peeyee.tan@shieldscientific.com,Pee Yee,Tan,0192333238,40170,IND,12.0000,Fuji Xerox,All-Years
+503,ridzuan.fadzil@gmail.com,Mohd Ridzuan,Fadzil,01121062646,47820,IND,12.0000,Epson,All-Years
+504,ahmadbinhassan@gmail.com,Ahmad,Hassan,0192189040,43300,IND,12.0000,Brother,All-Years
+505,kwanliew@yahoo.com,PEACK KWAN,LIEW,0123317580,52100,IND,1.5667,Epson,All-Years
+506,azaaiya@geosyntec.com,Azlan Noor,Mohd Zaaiya,0133667011,46050,IND,12.0000,Epson,All-Years
+507,zaidi.adam@enrichmedsurg.com,Zaidi,Adam,03-61426099,47810,IND,0.2333,Brother,All-Years
+508,w_jack@yahoo.com,Jack,Goh,0162840872,47500,IND,12.0000,Brother,All-Years
+509,MALIDA.MARJAN@GMAIL.COM,MALIDA,MARJAN,0193303686,40460,IND,12.0000,HP,All-Years
+510,avian.junk@gmail.com,Avian,Amirsham,0123953013,52200,IND,12.0000,Brother,All-Years
+511,rubber_wong@hotmail.com,Tan,Su Yong,0361366860,,IND,12.0000,Fuji Xerox,All-Years
+512,194177788,hj abdullah bin hj abdul wahab,,194177788,33310,CPNY,12.0000,Fuji Xerox,All-Years
+513,sstan@majutex.com,SS,Tan,0124853407,14000,IND,12.0000,Epson,All-Years
+514,dollykeedk@gmail.com,Dolly,Kee,019- 2209368,46200,IND,12.0000,HP,All-Years
+515,admin@trustport.com.my,Md Danial,Md Yusoff,+60374976447,47820,IND,0.0000,OEM,All-Years
+516,0174338996,Mc Ng,,0174338996,10050,CPNY,12.0000,Brother,All-Years
+517,llina287@gmail.com,Ash lina ,Abdul Rahman,0168216221,87000,IND,0.0333,Brother,All-Years
+518,siewchyn.wong@in2ideas.com,WONG,SIEW CHYN,0177238229,,IND,0.5333,Brother,All-Years
+519,nickman883@hotmail.com,CHI,SIOW,0123555164,57100,IND,12.0000,Fuji Xerox,All-Years
+520,torow_89@hotmail.com,chieh woei,teh,0166402320,46050,IND,2.9333,Brother,All-Years
+521,shirley@novaflow.com.my,Shirley,Yap,+60169180222,40400,IND,12.0000,HP,All-Years
+522,zati@um.edu.my,Zati Hakim ,Azizul Hasan,03-79676376,47620,IND,12.0000,Fuji Xerox,All-Years
+523,drsaravana5@yahoo.com,saravana,kumar,03-32503323,42200,IND,12.0000,Brother,All-Years
+524,admin@fk.my,NURRUL SALIA,SALEH,0136458698,59200,IND,12.0000,Brother,All-Years
+525,puvand@gmail.com,Puvan ,Maha Iswara,0166529889,47100,IND,12.0000,HP,All-Years
+526,hymah33@gmail.com,Mah ,Hui Yin,78483598,40000,IND,7.7000,Epson,All-Years
+527,126220098,Jayne EU,,126220098,46000,CPNY,12.0000,Brother,All-Years
+528,weijoon@live.com,Wei Joon,Wong,+6016-2188721,43300,IND,12.0000,HP,All-Years
+529,binadam1power@hotmail.com,Kala,Ganesan,03-79575486,46350,IND,0.0000,Brother,All-Years
+530,hirmanfalani@gmail.com,Hirman Falani,Mohd Affandi,0123291616,40200,IND,12.0000,Epson,All-Years
+531,crystkang@gmail.com,KANG,SIEW HIANG,+60167229916,81800,IND,12.0000,Brother,All-Years
+532,eli173@ymail.com,Eliyana ,Heng,089-237900,90000,IND,12.0000,HP,All-Years
+533,cheewahleong@gmail.com,Chee Wah,Leong,0199301110,,IND,12.0000,Fuji Xerox,All-Years
+534,indraponnudurai@gmail.com,Indra ,Ponnudurai,0178830984,46000,IND,12.0000,Brother,All-Years
+535,acpalbert@gmail.com,Albert,Ang,0122038753,48000,IND,29.5333,Brother,All-Years
+536,slhuong@axonscientific.com,HUONG,SIEW LING,03-89451482,43300,IND,12.0000,Brother,All-Years
+537,lokesy@ikhua.com.my,SIEW YOKE,LOKE,03-89616855,43300,IND,12.0000,Epson,All-Years
+538,graceyap79@hotmail.com,Grace,Yap,0122907803,43300,IND,12.0000,Brother,All-Years
+539,khiruzairi@yahoo.com,Muhammed Khir,Uzairi,0126467337,46050,IND,1.0333,Brother,All-Years
+540,06220723cammy@gmail.com,Shwu peng,Ee,0172408488,47650,IND,12.0000,Epson,All-Years
+541,info@freshonline.my,Fresh Online,Sdn Bhd,0320943162,50490,CPNY,5.6000,HP,All-Years
+542,Raudhah.Nubli@roland.com,yukihiro ,morohashi,0124821021,42000,IND,5.6000,Epson,All-Years
+543,amy@agmedia.com.my,Amy,Tan,016 263 5723,,IND,12.0000,Fuji Xerox,All-Years
+544,shane89266@hotmail.com,CS,Tan,0173303850,46150,IND,7.2000,Epson,All-Years
+545,0126232098,Nick Liu,,0126232098,70300,CPNY,12.0000,Brother,All-Years
+546,baochem.group@gmail.com,Jinn Su,Ng,0193264469,47500,IND,12.0000,Brother,All-Years
+547,info@enfrasys.net,Enfrasys,Consulting,78035872,47301,IND,12.0000,HP,All-Years
+548,ong@logiqube.com,KS ,Ong,60163289797,47301,IND,21.3667,Epson,All-Years
+549,markd.verachan@gmail.com,Vera,Chan,016-2920183,47500,IND,12.0000,Fuji Xerox,All-Years
+550,nurafiq@uthm.edu.my,MUHAMMAD NUR AFIQ,JOHARI,01110082990,86400,IND,12.0000,Brother,All-Years
+551,nadiaemily@gmail.com,Nadia,Emily,0123015719,40150,IND,12.0000,Brother,All-Years
+552,it.purchasing@adv-fusionex.com,Adv Fusionex Sdn Bhd,(Jack Goh),03-77115200,46200,CPNY,1.6333,Brother,All-Years
+553,meteorax@gmail.com,Mohd Redzuan,Harun,010-5282817,63000,IND,12.0000,Epson,All-Years
+554,chbeh@yahoo.com,BEH ,CHOR HOW,012-4010766,47301,IND,12.0000,Brother,All-Years
+555,elena@writebest.com,Elena ,Kwok,0126339282,43100,IND,4.6000,Brother,All-Years
+556,0177872401,mohamad nizam bin ghani,,0177872401,81200,CPNY,12.0000,Brother,All-Years
+557,yonexilsb@gmail.com,yonex international,logistic sdn bhd,0166826088,47120,CPNY,12.0000,Canon,All-Years
+558,stacey@appletoner.com.my,Stacey,Lim,0146263678,41200,IND,12.0000,Epson,All-Years
+559,Yukihiro.Morohashi@roland.com,Yukihiro,Morohashi,0331761268,42000,IND,12.0000,Epson,All-Years
+560,mutiarasaintifik@gmail.com,Mhd Ezham,Dahlan,60391327979,56100,IND,12.0000,Epson,All-Years
+561,s_l_chua@hotmail.com,CHUA,SIEW LEE,0126499189,47130,IND,3.5000,Epson,All-Years
+562,cyrus@atozcomputermedia.com,cyrus,wong,0125178920,43300,IND,0.1667,HP,All-Years
+563,gladys.soo@hslfood.com,Gladys,Soo,0389613004,43300,IND,12.0000,Epson,All-Years
+564,carol_lee@pp-eng.com.my,Carol,Lee,0380621039,47100,IND,4.9333,OEM,All-Years
+565,hannie168@gmail.com,Hannie,Teh,0123378775,43200,IND,0.1667,Epson,All-Years
+566,euromaster.lim@live.com,DAX,SEOW,60341026311,68000,IND,12.0000,Oki,All-Years
+567,0197155887,Izatu Tumiran,,0197155887,81100,CPNY,0.6000,Print n Stick,All-Years
+568,fatihin@gmail.com,FATIHIN,ROSIDI,0176132928,50490,IND,12.0000,Brother,All-Years
+569,becbec_ong@yahoo.com,Filbin Marine S/B,Filbin Marine S/B,0192222019,46100,IND,12.0000,Fuji Xerox,All-Years
+570,alex@vyrox.com,Alex,Leong,018-2663338,43300,IND,9.7667,Epson,All-Years
+571,1115712289,Huzaifah Othman,,1115712289,68000,CPNY,12.0000,Brother,All-Years
+572,info.chong@gmail.com,KS,Chong,60126658440,46050,IND,12.0000,Brother,All-Years
+573,siti1202@yahoo.com,Siti Fatimah,Mohamad,0122411973,43000,IND,9.1667,Epson,All-Years
+574,roslina711@hotmail.com,Roslina,Abdul Rahman,03-79833955,58200,IND,12.0000,Brother,All-Years
+575,hoon_sb@yahoo.com,Koh,Hong Hon,012-2189988 / 03-31815585,42700,IND,12.0000,Fuji Xerox,All-Years
+576,wsiewkee@gmail.com,SIEW KEE,WONG,0193353790,50480,IND,22.8667,Fuji Xerox,All-Years
+577,sbgan.lim@gmail.com,Soh Bee,Gan,0124858868,08000,IND,12.0000,HP,All-Years
+578,chiko_waa@kamming.com.my,kok wah,chee,012-3274936,51200,IND,10.8667,HP,All-Years
+579,mervin@adverts-group.com,Mervin,Wong,016-4457335,53300,IND,12.0000,Epson,All-Years
+580,kingsiong@hotmail.com,yong,king siong,0163155369,47400,IND,10.2667,Canon,All-Years
+581,anis@ati.com.my,siew yoong,liew,0123349798,47100,IND,12.0000,Brother,All-Years
+582,ana_hasanie@yahoo.com,AMTAZUL,AFEIDATI,0133421678,43500,IND,12.0000,Epson,All-Years
+583,zinheng@gmail.com,OOI,JOSEPH,0195741066,47180,IND,12.0000,Epson,All-Years
+584,bogooptical@gmail.com,Hong ,Tan ,60390756191,43200,IND,12.0000,Epson,All-Years
+585,tehmenghui@hotmail.com,Teh,Meng Hui,0163350423,40400,IND,12.0333,Epson,All-Years
+586,aeccty@gmail.com,CHIN TZE,YEONG,+60380709796,47160,IND,13.2333,Brother,All-Years
+587,sweetangeling@gmail.com,ShukLing,Fong,0163230531,90000,IND,10.3333,Fuji Xerox,All-Years
+588,rachelw.py@hotmail.com,RACHEL,WONG,0126362248,55200,IND,10.9333,HP,All-Years
+589,snow_purl@yahoo.com,ELLENI,MOHD SALEH,60172821789,46150,IND,12.0000,Epson,All-Years
+590,ccyap78@gmail.com,Yap,Chin Chin,60196638331,62592,IND,12.0000,HP,All-Years
+591,finance@eatertainmentgroup.co,Finance Dept - Eatertainment,The Eatertainment Company SB,0123613801,56100,IND,12.0000,Brother,All-Years
+592,carmen1024@gmail.com,carmen,low,0125273093,47100,IND,12.0000,Epson,All-Years
+593,leyhonglim@gmail.com,LEY HONG,LIM,017-3349133,48300,IND,0.0000,Epson,All-Years
+594,cmmaylee@gmail.com,LEE,MAY,60166018669,52100,IND,12.0000,Epson,All-Years
+595,fhaeez@yahoo.com,AHMAD FAIZ,SHARIFUDDIN,0139300303,47810,IND,12.0000,HP,All-Years
+596,kenneth.tan@tago.com.my,Kenneth,Tan,+60122053819,50480,IND,8.1000,Epson,All-Years
+597,fahrim.littlecaliphs@gmail.com,Little,Caliphs,"012-9583211, 012-2251147",,IND,12.0000,Fuji Xerox,All-Years
+598,166778469,Teh Chee Wai,,166778469,43300,CPNY,12.0000,Brother,All-Years
+599,maneeta@blush-fashion.com,MANEETA,KATARI,03 78425250,40150,IND,13.2333,Print n Stick,All-Years
+600,mazlan@redzac.com.my,Mazlan,Omar,0123853605,59200,IND,17.9333,HP,All-Years
+601,lookhim@gmail.com,Neoh,Loo Khim,0124779977,56000,IND,12.0000,Epson,All-Years
+602,kokjoo@hotmail.com,Kok Joo,Sam,0126303469,51200,IND,12.0000,Epson,All-Years
+603,lookniceoptical@yahoo.com.my,Yeow Jyue,Lau,0122842688,28300,IND,12.0000,Brother,All-Years
+604,davidwkhor@hotmail.com,David William,Khor,60123581831,51200,IND,12.0000,HP,All-Years
+605,192613142,Ayesha Syahira,,192613142,63000,CPNY,12.0000,Brother,All-Years
+606,annalec1610@hotmail.com,LEE,ANNA,012-3130485,47500,IND,12.0000,HP,All-Years
+607,ongchinsoon03@gmail.com,Alex Ong,Chin Soon,0122008329,40150,IND,12.0000,Epson,All-Years
+608,civic7988@gmail.com,WEE HUN,NG,0173391611,51000,IND,12.0000,Epson,All-Years
+609,kwekchun@gmail.com,yap,kwek chun,067639402,70000,IND,12.0000,Epson,All-Years
+610,erwin@bikers-adventures.com,Erwin,Franck,+60 18 958 7441,52200,IND,12.0000,HP,All-Years
+611,jlchan@innocel.com.my,STEPHANIE,CHAN,0122325880,47170,IND,12.0000,Epson,All-Years
+612,173581964,Muhammad Amin,,173581964,56100,CPNY,12.0000,Brother,All-Years
+613,jessica.fangsy@yahoo.com,Jessica,Fang,0126211818,47410,IND,12.0000,Brother,All-Years
+614,leeping@firstwin.com.my,leeping,Phuah,0351619078,41200,IND,12.0000,Epson,All-Years
+615,customizer.global@gmail.com,Lee,BC,0132991314,40400,IND,12.0000,Brother,All-Years
+616,aminjo71@gmail.com,Amin,Johari,60162199910,43650,IND,12.0000,Epson,All-Years
+617,snoopy3090@hotmail.com,Quality Vantage Sdn Bhd,(336954 D),0379581711,46350,CPNY,0.0000,HP,All-Years
+618,kanna@hgptsb.com,NARAYANAN,CHANDRAMOHAN,60129644491,47300,IND,12.0000,Brother,All-Years
+619,sioh@hengsan.com.my,K.H,Sioh,0377815987,46000,IND,0.0333,Brother,All-Years
+620,lingsuan.lee@internationalsos.com,Ling Suan,Lee,+60327873057,59000,IND,17.6000,Brother,All-Years
+621,datinnuraishah@yahoo.com,Dato',Low,0193248899,47301,IND,12.0000,Fuji Xerox,All-Years
+622,yuslimed@gmail.com,Yusli,Sulaiman,0173494324,53000,IND,12.0000,Epson,All-Years
+623,mariani_78@yahoo.com,MARIANI,JUSOH,0192407979,48020,IND,12.0000,Brother,All-Years
+624,cyh@aftools.com.my,CHEN,YOONHING,03-74970290,47300,IND,15.4667,Brother,All-Years
+625,rossulster2@gmail.com,Rosli,Said,0192266644,50603,IND,12.0000,HP,All-Years
+626,kennylin48@gmail.com,Kenny ,Lin ,0123281933,58200,IND,1.1000,Brother,All-Years
+627,alvin.fok@mac.com,Alvin,Fok,0123261511,71760,IND,12.0000,HP,All-Years
+628,reliance.acond@gmail.com,RELIANCE,AIR-COND ELECTRICAL SDN BHD,0199570490,25300,CPNY,12.0000,Brother,All-Years
+629,myp****@gmail.com,MYPC NETWORK,,0122083669,75250,IND,12.0000,Brother,All-Years
+630,kelvin@atozcomputermedia.com,Kelvin,Ng,0192204902,47150,IND,20.8667,Canon,All-Years
+631,hiraldoshi3085@gmail.com,Hiral,Doshi,016-2660695,40000,IND,12.0000,Brother,All-Years
+632,PHEYLONG@YAHOO.COM,PHEYlONG,LAW,0162024735,40150,IND,12.0000,Epson,All-Years
+633,dixxk@yahoo.com,Dixie,Kilus,60143755301,40000,IND,12.0000,Brother,All-Years
+634,dira5005@yahoo.com,Passion Works,Dira Che Din,0123188820,57000,IND,12.0000,Fuji Xerox,All-Years
+635,adm1@threebond.com.my,Cris,Teoh,03-51926062,40400,IND,12.0000,Brother,All-Years
+636,medicwave123@gmail.com,EUGENE,LEE,6012-3175221,47301,IND,4.4667,Brother,All-Years
+637,Fifyzulkafli@hotmail.my,Noorhafizah ,Zulkafli,0162064476,56100,IND,12.0000,Epson,All-Years
+638,josh.bigidea@gmail.com,Joshua,Lee,0126511656,40150,IND,12.0000,HP,All-Years
+639,0122265798,Ong HUI Wen,,0122265798,52000,CPNY,12.0000,Brother,All-Years
+640,togek@hotmail.com,Markus,Oei,0122845822,47410,IND,4.7333,Brother,All-Years
+641,PHILIP.KOH@LEVER.COM.MY,PHILIP,KOH,0123283129,52200,IND,12.0000,Fuji Xerox,All-Years
+642,0123383585,Robin Tan,,0123383585,51200,CPNY,12.0000,Brother,All-Years
+643,heng0502@gmail.com,Terrence,Heng,0163239922,40460,IND,12.0000,Brother,All-Years
+644,0123580172,Muar Hardware Machinery Sdn Bhd,,0123580172,84000,CPNY,0.0000,Brother,All-Years
+645,136418460,Musharaf Hassan,,136418460,55000,CPNY,12.0000,Epson,All-Years
+646,124803329,Tan Eng Leong,,124803329,05300,CPNY,12.0000,Epson,All-Years
+647,purchaser1@saxco.com.my,Chan,S.L,0123365893,47301,IND,12.0000,Epson,All-Years
+648,chan_christine@hotmail.com,Christine,Chan,0125200747,47400,IND,7.5000,Brother,All-Years
+649,hpd.auto@gmail.com,Highlight Parts Distributors,Sdn. Bhd.,60122543087,56100,CPNY,1.3333,Epson,All-Years
+650,sengkuan75@gmail.com,Jeff,Yap,0351919785,40000,IND,5.4000,Epson,All-Years
+651,johnson@cstinsure.com,Johnson ,Thian,03-22823633,59100,IND,12.0000,HP,All-Years
+652,sofia.hamid@gmail.com,Sofia,Abdul Hamid,0122530355,50480,IND,12.0000,Fuji Xerox,All-Years
+653,drselva@clinicfamilycare.com,selvarajah,sathaya,0193875767,59100,IND,12.0000,HP,All-Years
+654,viorobk@hotmail.com,ONG,BEE KEAN,+6012-3062287,43300,IND,0.5667,Brother,All-Years
+655,01112260007,Tachibana Rieko,,01112260007,47000,CPNY,12.0000,Print n Stick,All-Years
+656,patricia_boey@yahoo.com,H.E.,Cheong,0356212595,47500,IND,19.8667,Brother,All-Years
+657,126368302,Andreas Stegmaier,,126368302,11050,CPNY,12.0000,Brother,All-Years
+658,sharon@lte.com.my,LTE,Engineers Sdn Bhd,0168882630,47301,CPNY,7.8333,HP,All-Years
+659,ellylo@gmail.com,Elly,Lo,0168267730,88300,IND,1.0333,Epson,All-Years
+660,fatinazrin89@gmail.com,Nurfatin Azrin,Md Ali,+60123767181,53300,IND,12.0000,Brother,All-Years
+661,enxfero@gmail.com,wong,yee siew,0122987312,55200,IND,12.0000,HP,All-Years
+662,dariusgoh@gmail.com,Nick,Goh,03 3122 8868,42500 ,IND,16.3000,Brother,All-Years
+663,arkivcomputing@yahoo.com,Shim Chiew,Lain,012-8187073,88450,IND,12.0000,Epson,All-Years
+664,raymondyap@cng-instruments.com,Chee Hung,Yap,0192308748,47300,IND,12.0000,HP,All-Years
+665,cshock23@gmail.com,Soon Hock,chng,0124986745,14000,IND,12.0000,Fuji Xerox,All-Years
+666,evy@pc.jaring.my,Streamline resources Sdn bhd,Evelyn,0122685888,59100,CPNY,14.2333,Brother,All-Years
+667,kevinkoosk@gmail.com,KEVIN,KOO,0122528729,50000,IND,12.0000,Brother,All-Years
+668,wedsport@gmail.com,Alex,Cheong,0162176818,68000,IND,8.5667,Fuji Xerox,All-Years
+669,ymie926@hotmail.com,Mohd Yusmie,Mohd Yusoff,0133970525,17500,IND,12.0000,Brother,All-Years
+670,wendy.seow@cwyap.com,Seow,Keng,60341083550/41087550,53100,IND,39.4000,Fuji Xerox,All-Years
+671,sarahkambali@yahoo.com,Sarah ,Kambali,+60126578275,60000,IND,12.0000,Brother,All-Years
+672,pho*******@hotmail.com,Phoebe,,0126765173,50490,IND,12.0000,Print n Stick,All-Years
+673,hassanmusharaf@gmail.com,Musharaf,Hassan,0136418460,55000,IND,12.0000,Epson,All-Years
+674,srsb.jtlc@gmail.com,Tan,Josephine,0163681386,47650,IND,12.0000,Brother,All-Years
+675,emcapartners@sfemchan.com,Danny,Fua,+60123238377,51200,IND,12.0000,HP,All-Years
+676,mohd.amri80@gmail.com,Mohd Amri,Mohamad Besri,+60162463630,40460,IND,12.0000,Brother,All-Years
+677,smarak.karam@gmail.com,KARAM SINGH,INDER SINGH,0122346077,55100,IND,12.0000,HP,All-Years
+678,myzone.salleh@gmail.com,Maizon,Md Salleh,0193229930,40000,IND,12.0000,Brother,All-Years
+679,135661@gmail.com,Khe Chun,Chong,0109607321,98000,IND,1.1000,Epson,All-Years
+680,joey_chan_2@yahoo.com,Joey,Chan,012-2189922,46400,IND,12.0000,Brother,All-Years
+681,ych890217@hotmail.com,Yong,Chin Hung,0123848290,43300,IND,12.0000,Brother,All-Years
+682,wannling@gmail.com,Wann Ling,Chow,60123077661,50480,IND,12.0000,HP,All-Years
+683,irina@nexiassy.com,Irina,Rahman,0380259793,47620,IND,12.0000,HP,All-Years
+684,vic_3070@yahoo.com,Victor,Yew,0122883095,56000,IND,4.2667,Brother,All-Years
+685,jed.david@gmail.com,Jed,David,012-2171214,46200,IND,14.1667,Brother,All-Years
+686,KIMLOONG3399@HOTMAIL.COM,KIN SWEE,LEE,0198533399,91000,IND,12.0000,Brother,All-Years
+687,alven8@gmail.com,Alven ,Loh,+60122342345,56100,IND,12.0000,Epson,All-Years
+688,edwinwang79@gmail.com,Edwin,Wang,016-2091889,56000,IND,5.5667,Fuji Xerox,All-Years
+689,pw_interior_design@yahoo.com,Pon,Kok Fai,012-7233181,,IND,12.0000,Brother,All-Years
+690,colortuna@hotmail.com,Sook Yen,Leong,03-77811951,58200,IND,12.0000,Brother,All-Years
+691,teenes88@gmail.com,Teeneswary,K Jayaraman,0164708863,57100,IND,0.0000,Fuji Xerox,All-Years
+692,geesmailbox@gmail.com,Gary,Yew,+60122025990,50480,IND,12.0000,Brother,All-Years
+693,mlf_world@yahoo.com,LENG LENG,SIN,0162066606,43300,IND,12.0000,Fuji Xerox,All-Years
+694,sharonkml@gmail.com,Sharon,Khoo Mei Lin,0122612155,46200,IND,12.0000,Fuji Xerox,All-Years
+695,alif.aziz@polarisnet.com.my,Alif,Abdol Aziz,0172017241,40000,IND,0.0667,Brother,All-Years
+696,jeremy@evopac.com.my,Jeremy,Leong,0176670833,52200,IND,13.5667,Brother,All-Years
+697,tingkf@tkf.com.my,Kow Fong,Ting,60377268291,47820,IND,0.0000,Fuji Xerox,All-Years
+698,0128729259,roy mah,,0128729259,98700,CPNY,12.0000,Brother,All-Years
+699,pipi@torq-on.com.my,Pipi,Gan,03-6272 0622,52200,IND,12.0000,HP,All-Years
+700,rozaini.yusoff@gmail.com,DATIN ROZAINI,mohd yusoff,0192275000,46000,IND,12.0000,Fuji Xerox,All-Years
+701,davidteoh_90@hotmail.com,David,Teoh,016-4824542,50480,IND,5.6000,Brother,All-Years
+702,zulthani789@icloud.com,ZULKIFFLI,MOHD THANI,0197152525,81700,IND,4.5667,Fuji Xerox,All-Years
+703,wangzee_1@yahoo.com,Cynthia,Gan,0123272871,40150,IND,12.0000,HP,All-Years
+704,skpoon@hadronscapital.com,Choong Lai,Yuen,0125125660,,IND,12.0000,Fuji Xerox,All-Years
+705,Nurul.shafie@sg.luxottica.com,Nurul,Shafie,+6590263556,43300,IND,0.0000,Brother,All-Years
+706,ckyyong@gmail.com,YONG,CHEE KEONG,0122187423 / 03-90216133,43100,IND,13.3000,Canon,All-Years
+707,saiful@atozcomputermedia.com,Saiful,Ismail,016-9558523,43300,IND,0.0000,Oki,All-Years
+708,joel3966969@gmail.com,Joel,Leong,0123966969,60000,IND,12.0000,Fuji Xerox,All-Years
+709,jackie.khoo.litro@gmail.com,Litro Industrial Sdn Bhd,(Ms Khoo 012-3303229),012-3303229,42920,CPNY,0.0000,Epson,All-Years
+710,163018587,GAIN SECURE SDN BHD,,163018587,58100,CPNY,12.0000,Brother,All-Years
+711,yoketheng@gsfcorp.com,Yoketheng,Low,80908080,47170,IND,12.0000,Brother,All-Years
+712,procoattrdsb@yahoo.com.my,Josie,Aw,603-80702755,47100,IND,12.0000,Fuji Xerox,All-Years
+713,stephanieliew@ati.com.my,LIEW,SIEW YOONG,06-7991988,47100,IND,12.0000,HP,All-Years
+714,norwina19@gmail.com,Norwina,Mohd Nawawi,0193580656,53100,IND,12.0000,Brother,All-Years
+715,sabathiah@gmail.com,Noor Sabathiah,Sayuti,012-3132044,,IND,12.0000,Fuji Xerox,All-Years
+716,sylau@excelmould.com.my,LAU,SWEE YEN,0351219888,40400,IND,0.6667,HP,All-Years
+717,reekie.ho@gmail.com,Reekie Ho,Wai Leong,0163209907,55300,IND,7.4333,Epson,All-Years
+718,leelocku@yahoo.com,LEE,LOC KU,0184026813,11600,IND,0.0000,Brother,All-Years
+719,francis88@live.com.my,Francis ,Koo Ngai Kwan,016-3280620,46100,IND,12.0000,Brother,All-Years
+720,089212788,CHUNG KWONG SANDAKAN  SDN BHD,,089212788,90700,CPNY,12.0000,Epson,All-Years
+721,pssmofa@yahoo.com.my,mohd faizal,mohd fauzi,0123242176/03-51918488,40000,IND,12.0000,HP,All-Years
+722,ciwong@ihm.com.my,Wong ,Chee Inn,0163947846,46150,IND,12.0000,Epson,All-Years
+723,nowshadamin@yahoo.com,Nowshad,Amin,0193296750,43600,IND,12.0000,Canon,All-Years
+724,jadelimsg@hotmail.com,Jade,Lim,0123361388,47810,IND,12.0000,Brother,All-Years
+725,cheong.jackie@gmail.com,Unicast Engineering,Sdn Bhd,0123700822,71800,CPNY,12.0000,HP,All-Years
+726,atif@axsel.com.my,Atif,Masood,03-77833333,46000,IND,0.0000,Print n Stick,All-Years
+727,jr.malchem@gmail.com,JULIA,ROSLI,0361851488,68100,IND,12.0000,Brother,All-Years
+728,norfarahima@razipublishing.com,Norfarahima,Abdul Manap,03-27332657,59200,IND,12.0000,Brother,All-Years
+729,0122171010,Mohd Nazim Bin Mail,,0122171010,40150,CPNY,12.0000,Epson,All-Years
+730,admin@wahchan.com.my,Wah,Chan,0379575807,46100,IND,12.0000,Brother,All-Years
+731,valenckj@gmail.com,Valen ,Cheng,0378872702,47301 ,IND,12.0000,Brother,All-Years
+732,syazarossidi17@gmail.com,SYAZA,ROSSIDI,0380910302,47100,IND,3.6667,Brother,All-Years
+733,123278363,Steve Fun,,123278363,46150,CPNY,12.0000,Epson,All-Years
+734,philip@mcc.com.my,Philip,Yong,0176057979,47300,IND,12.0000,HP,All-Years
+735,peter@vyrox.com,Peter,Teh,0165313713,43300,IND,12.0000,Epson,All-Years
+736,monte_carlos_30@hotmail.com,JEFFRY,YU,0165940730,43300,IND,12.0000,HP,All-Years
+737,sclee22@yahoo.com,LEE,SIEW CHENG,77832386,58200,IND,2.6000,Epson,All-Years
+738,getsiaohan@hotmail.com,HANCHAI,HANCHAI,0123838585,68100,IND,12.0000,Fuji Xerox,All-Years
+739,fenfen05@yahoo.com,lee ,Sho Hung,0162330030,55100,IND,12.0000,Brother,All-Years
+740,m.pugger@gmail.com,Keng Fai,Chen,0162631203,46400,IND,12.0000,HP,All-Years
+741,abdulma@gmail.com,Abdullah,Ali,60194780925,10040,IND,12.0000,Brother,All-Years
+742,jed@directhere.com,Jed,David,0379560900,46200,IND,5.4000,Brother,All-Years
+743,max@vyrox.com,Max,Leong,0165486173,43300,IND,12.0000,Epson,All-Years
+744,mogansundram@gmail.com,mogana sundram,p krishnasamy,+60193345055,45000,IND,12.0000,Brother,All-Years
+745,lindatsg@gmail.com,Linda,Tay,0122038686,50400,IND,12.0000,Fuji Xerox,All-Years
+746,yinyee@fabulousmom.com,FABULOUS MOM SDN BHD,.,0380765262,43000,CPNY,9.9333,Epson,All-Years
+747,jazkyk@gmail.com,Jack,Liew,0163791370,52200,IND,12.0000,HP,All-Years
+748,nmsaarchitect@gmail.com,Mohd Najib,Mohd Salleh,0192788594,32610,IND,12.0000,Canon,All-Years
+749,biichau@supergenic.com.my,BiiChau,Tan,0173501818,47100,IND,12.0000,Canon,All-Years
+750,ykhean@gmail.com,Wai Khean,Wong,0126385255,47800,IND,12.0000,Brother,All-Years
+751,minesh7@live.com,Minesh B.,Doshi,0177777707,46000,IND,12.0000,HP,All-Years
+752,eve.fan@midwestkitchen.com.my,Eve,Fan,60192277019,47301,IND,12.0000,Fuji Xerox,All-Years
+753,info@keen.com.my,KEEN,COMPONENT INDUSTRIES SDN BHD,03-78741216,46100,CPNY,12.0000,HP,All-Years
+754,yee.ling@microengine.net,Yee Ling,Ng,0126924711,46350,IND,12.0000,HP,All-Years
+755,wendytan318@gmail.com,Wendy,Tan,90588785,57100,IND,12.0000,Brother,All-Years
+756,jmurni@ljt.org.my,Jurukur,Murni,0389940029,57000,IND,12.0000,HP,All-Years
+757,cheryl.sy@live.com,Cheryl,Ho,0122735698,47301,IND,12.0000,Brother,All-Years
+758,kalter38@hotmail.com,Kal Ter,Chiok,0122336632,43300,IND,12.0000,Epson,All-Years
+759,khaizuan87@yahoo.com.my,MOHD KHAIRUL IZUAN,BIN BADRUL HISHAM,0192206797,41050,IND,29.3000,Brother,All-Years
+760,baadzha@gmail.com,badrul,zaman,01112384561,52100,IND,12.0000,HP,All-Years
+761,0193907917,MOHD YAZID BIN ABDULLAH,,0193907917,75450,CPNY,12.0000,Brother,All-Years
+762,maxchong83@hotmail.com,Chong,Viet Hoe,0176741028,48000,IND,12.0000,Fuji Xerox,All-Years
+763,arifazizi@yahoo.com,Mohd Arif Azizi,Awang Nik,017-9873207,62050,IND,12.0000,Brother,All-Years
+764,hugh@blueocean.my,Blueocean Technologies,Sdn Bhd,03-77223090,47800,CPNY,12.0000,Fuji Xerox,All-Years
+765,talentmind@gmail.com,eric,hew,0163286922,47160,IND,12.0000,Brother,All-Years
+766,yo_kok@hotmail.com,Kok,Yong On,0123292052,43300,IND,12.0000,Brother,All-Years
+767,jenny.tang19@yahoo.com,Jenny,Tang,0192287988,47180,IND,12.0000,Epson,2015-2017
+768,vfllim@gmail.com,Vivien ,lim,012 2053187,43300,IND,12.0000,HP,2015-2017
+769,lh@loo.my,LOO,LIAN HUAT,0173508829,75250,IND,12.0000,Brother,2015-2017
+770,johan.ipsb@gmail.com,Johanizan Bin,Azizan,0193936858,43000,IND,12.0000,HP,2015-2017
+771,lowjs@foregain.com.my,JS,Low,03-80628228,47100,IND,2.1333,Epson,2015-2017
+772,bluepodo81@hotmail.com,MeeJoo (Julia),Park,012-355-3732,50450,IND,0.1000,Brother,2015-2017
+773,jack@d-archkinetic.com,JACK PIN,TAN,0163246121,41200,IND,12.0000,Epson,2015-2017
+774,angieyoke@ksglobalcargo.com,Angie ,Yoke,012-394 3968,47100,IND,12.0000,HP,2015-2017
+775,boonkhong@gmail.com,Boon Khong,Foo,0173631535,50088,IND,12.0000,Brother,2015-2017
+776,spmleong@iamgroup.com.my,Stephanie,Leong,0377104300,47400,IND,12.0000,HP,2015-2017
+777,octo_lalala@hotmail.com,Soong,YY,0123065385,55200,IND,12.0000,Epson,2015-2017
+778,yzsb_kim@yahoo.com,Ley Kim,Looi,0172239255,68100,IND,16.7333,Fuji Xerox,2015-2017
+779,celynclu@yahoo.com,Celyn,Lu,0124812102,14000,IND,12.0000,Brother,2015-2017
+780,info@tlg.com.my,Edwin,Ang Simin,0123279005,47400,IND,12.0000,Brother,2015-2017
+781,borneocrops@yahoo.com,Ivy,Pang,6089237900,90000,IND,2.8000,HP,2015-2017
+782,jpk@gebsss.com,John,Kortum,0192599261,43300,IND,12.0000,Epson,2015-2017
+783,info@kawalanbumi.com,choo,ching,0122113490,47100,IND,4.9667,HP,2015-2017
+784,ridzuan.fadzil@gmail.com,Mohd Ridzuan,Fadzil,01121062646,47820,IND,12.0000,Epson,2015-2017
+785,willchai1@gmail.com,PENG MUN,CHAI,0178822253,52100,IND,12.0000,Fuji Xerox,2015-2017
+786,anthony@leepthye.com.my,Anthony,Tan,0127735399,81400,IND,12.0000,HP,2015-2017
+787,0125550797,Mohd Rawi Bin Md Suffi,,0125550797,10150,CPNY,12.0000,Epson,2015-2017
+788,su-shzan@rocketmail.com,su-shzan,patt,+60122213056,51100,IND,2.5667,Brother,2015-2017
+789,peiyan.lim@visionary.com.my,Ms Lim,Visionary Solutions,0377105877,60000,IND,1.7000,Epson,2015-2017
+790,kiniko@yahoo.com,Syarikat Makmur,Alat-Alat Ganti S/B,0169200043,55100,IND,0.0000,Epson,2015-2017
+791,hupfatt_lim@hotmail.com,LIM,MEE CHIN,012-528 2141,47000,IND,12.0000,Epson,2015-2017
+792,alvinang@tlg.com.my,Alvin,Ang,0192101922,47810,IND,12.0000,HP,2015-2017
+793,kengseow@hotmail.com,Keng,seow,60341083550,53100,IND,12.0000,Fuji Xerox,2015-2017
+794,bshware@gmail.com,Abby,Tan,0123978498,43300,IND,0.0000,Epson,2015-2017
+795,ghcc@hotmail.my,Steven,Wong,0198567560,96000,IND,12.0000,HP,2015-2017
+796,carol-siew@hotmail.com,SIEW,CHAI YIN,016-4140230,25050,IND,12.0000,Epson,2015-2017
+797,abcteras@yahoo.com,Mohd Yusof,Salim,0163350063,84900,IND,12.0000,Brother,2015-2017
+798,info@rozel.com.my,DAVID,LEE,0124943732,40150,IND,2.2000,Epson,2015-2017
+799,vyvyanhoh@gmail.com,KIAM POAN,HOH,0162107575,47100,IND,12.0000,HP,2015-2017
+800,autodetailer@gmail.com,Darren,Chang,0379607940,46200,IND,12.0000,Brother,2015-2017
+801,kenking66@yahoo.com,Kevin,Chan,0176658189,46300,IND,13.5667,Epson,2015-2017
+802,0127071177,Alvin Tan Hock Hin,,0127071177,81100,CPNY,12.0000,Brother,2015-2017
+803,davidlawco@hotmail.com,David,Law,0321702626,50450,IND,1.5000,HP,2015-2017
+804,jymail@ymail.com,Julie,Tan,012-3040208,43200,IND,2.4667,HP,2015-2017
+805,apr_mj@hotmail.com,April,Jeremiah,0129694034,47301,IND,12.0000,Epson,2015-2017
+806,jacksontam.mme@gmail.com,Hew,Kar Lai,0389581428,43300,IND,12.0000,Epson,2015-2017
+807,evie.heng@gmail.com,Streamline Resources Sdn bhd,.,0122685888,59100,CPNY,12.0000,Brother,2015-2017
+808,bakara@petronas.com.my,ABU BAKAR,AHMAD,0123938465,53300,IND,12.0000,Brother,2015-2017
+809,sls_yap@yahoo.com,Yap,Alicia,0122348987,40150,IND,0.0000,Epson,2015-2017
+810,fauziah@synergyap.com,Fauziah ,Abd Rahman,0123660214,46050,IND,12.0000,Print n Stick,2015-2017
+811,fazarudin@felcra.com.my,mohd fazarudin ibrahim,faza,0169800856,25200,IND,12.0000,Brother,2015-2017
+812,richardyek@gmail.com,Richard,Yek,03 60285771,48300,IND,12.0000,HP,2015-2017
+813,eugene@dontpanik.com,Eugene,Khoo,012.2777.568,47300,IND,30.0000,Brother,2015-2017
+814,adrean_19@yahoo.com,chai,kim fat,0162252565,47110,IND,12.0000,Brother,2015-2017
+815,ckWONG65@gmail.com,Raymond,WONG,089887700,91100,IND,1.9333,Brother,2015-2017
+816,ivy.soo@undp.org,Ivy ,Soo,0126651588,50490,IND,0.0000,HP,2015-2017
+817,alamhijau_accounts@yahoo.com.my,Durka,Devi,0333230034,41200,IND,0.3333,Epson,2015-2017
+818,173418992,RAYE TAN,,173418992,47160,CPNY,12.0000,Brother,2015-2017
+819,malbir@autism.my,malbir,kaur,0166348787,46350,IND,12.0000,Fuji Xerox,2015-2017
+820,pang@faxcore.com,Priscilla,Ang,0163646411,50470,IND,12.0000,Brother,2015-2017
+821,alice.chan@harvest-time.com.my,Alice,Chan ,0379548280,46350,IND,12.0000,Brother,2015-2017
+822,0126233813,Simon Hiew,,0126233813,55100,CPNY,12.0000,Epson,2015-2017
+823,ksadiman@iqi-group.com,KHALIMAH,SADIMAN,03-21812820,46000,IND,12.0000,Canon,2015-2017
+824,rachael@fk.my,Rachael,Ling,+60134808007,59200,IND,12.0000,Epson,2015-2017
+825,sharon@lte.com.my,LTE,Engineers Sdn Bhd,0168882630,47301,CPNY,7.8333,HP,2015-2017
+826,william929@yahoo.com,William,Lee,0123829971,47301,IND,12.5000,Fuji Xerox,2015-2017
+827,wej1222@yahoo.com,Andrew,Wong,0355694588,40400,IND,5.9333,Epson,2015-2017
+828,alex_yuan@ihm.com.my,Alex ,Yuan,56386889,46150,IND,0.0333,HP,2015-2017
+829,wsf7883@gmail.com,Elane,Lim,0125682989,52200,IND,12.0000,Fuji Xerox,2015-2017
+830,0060128398749,Prof Peter Barling,,0060128398749,57000,CPNY,12.0000,Brother,2015-2017
+831,cheetongang@gmail.com,Chee Tong,Ang,0123219360,52100,IND,7.8333,Brother,2015-2017
+832,gavinteoh@centumsage.com,Teoh ,Hock Geh,0380802297,47100,IND,12.0000,Fuji Xerox,2015-2017
+833,botalayhui_u_know@hotmail.com,Lay Hui,Tan,016-6239922,41150,IND,5.9333,Brother,2015-2017
+834,teongchoon@gmail.com,Ian,Ong,+60192689388,59100,IND,12.0000,Brother,2015-2017
+835,harbans8@yahoo.com,Harbans,Singh,0196512434,46150,IND,12.0000,Oki,2015-2017
+836,geraldine.tansw@gmail.com,Geraldine,Tan,+603 6034 5579,48020,IND,12.0000,HP,2015-2017
+837,plusminded_eagle@yahoo.com,Arizan ,Alias,0166268011,43800,IND,12.0000,Brother,2015-2017
+838,joyceleesl@hapseng.com.my,Joyce Lee ,Shee Leng,03-21169284,50250,IND,12.0000,HP,2015-2017
+839,dinautokajang@gmail.com,din,autokajang,0388616717,62050,IND,12.0000,Fuji Xerox,2015-2017
+840,patric.hlee@gmail.com,Pat,Lee,0123398838,58200,IND,12.0000,HP,2015-2017
+841,howkok@hotmail.com,Chi How,Kok,+60175320233,41200,IND,12.0000,HP,2015-2017
+842,baochem.group@gmail.com,Jinn Su,Ng,0193264469,47500,IND,12.0000,Brother,2015-2017
+843,0125155336,Anne Kee,,0125155336,47301,CPNY,12.0000,Epson,2015-2017
+844,amirhamzahjaafar@gmail.com,Amir Hamzah,Jaafar,0124008687,42450,IND,12.0000,HP,2015-2017
+845,lohweiyen@yahoo.com,Wei Yen,Loh,012-3979733,47620,IND,12.0000,Fuji Xerox,2015-2017
+846,rshankar@rsplan.com.my,Ravi,Shankar,0380240377,47560,IND,2.1000,Brother,2015-2017
+847,rynelee@hotmail.my,Ryne,Lee,0378473188 / 0126792752,40150,IND,12.0000,Fuji Xerox,2015-2017
+848,ace@aerogroup.com.my,HC,LOH,0163287363,71800,IND,4.3333,Brother,2015-2017
+849,teresayee@msn.com,Teresa,Yee,60162090305,40460,IND,12.0000,Brother,2015-2017
+850,pesal1980@gmail.com,mohd faisal,mohd aris,60133888533,70400,IND,14.9333,Fuji Xerox,2015-2017
+851,0123383585,Robin Tan,,0123383585,51200,CPNY,12.0000,Brother,2015-2017
+852,pkf@pwinteriordesign.com.my,Chong,Yoke Choi,0389641099,43300,IND,12.0000,Epson,2015-2017
+853,b4.azmy@gmail.com,AZLINA ,SABTU,+60196299572,75250,IND,12.0000,HP,2015-2017
+854,Impulsivehunter@gmail.com,Ken,Tan,+60122977783,50480,IND,12.0000,Epson,2015-2017
+855,siewyy57@gmail.com,SIEW,YOKE YEE,+60123319178,47170,IND,12.0000,Brother,2015-2017
+856,patricia_boey@yahoo.com,H.E.,Cheong,0356212595,47500,IND,19.8667,Brother,2015-2017
+857,sennhuat1988@gmail.com,nicole,chia,603-79802088,57100,IND,0.0000,Epson,2015-2017
+858,williamcpm@gmail.com,CPM,Consulting Engineer,0178822253,52100,IND,12.0000,Fuji Xerox,2015-2017
+859,ych@ychhyd.com,tan ,ai wah,03-89413599,43300,IND,3.4333,Brother,2015-2017
+860,xde*****@yahoo.com,Ismail Ali,,0166843656,71700,IND,12.0000,Epson,2015-2017
+861,rayhsy@yahoo.com,RAYMOND,YAP,0126711672,41200,IND,12.0000,HP,2015-2017
+862,azilamz@gmail.com,NOORAZILAWATI,MOHD ZULKIPELI,0387511648,43650,IND,0.4667,Fuji Xerox,2015-2017
+863,pete.low@gmail.com,peter,low,+60162011165,43300,IND,12.0000,Fuji Xerox,2015-2017
+864,cannie@sca.com.my,cannie,koh,0377100007,47400,IND,0.0000,Epson,2015-2017
+865,chris@acparts.com.my,AC PARTS CENTRE (KL) SDN BHD,AC PARTS CENTRE (KL) SDN BHD,0122163963,40400,CPNY,12.0000,Epson,2015-2017
+866,milan80@gmail.com,Milan Lalji Patel,Lalji,0166685869,77000,IND,12.0000,Brother,2015-2017
+867,sandra.corrtrol@gmail.com,Sandra,Phan,60380682616,47120,IND,7.0333,Canon,2015-2017
+868,husinm@gmail.com,husin,mansor,0142921281,18300,IND,12.0000,Brother,2015-2017
+869,amrankb@usm.my,amran,ahmed shokri,097676398,15200,IND,0.0667,Fuji Xerox,2015-2017
+870,jos*******@jocom.my,Joshua sew,,0123399937,59200,IND,12.0000,Fuji Xerox,2015-2017
+871,kk.tan@rocketmail.com,KK,Tan,0123291003,40460,IND,12.0000,HP,2015-2017
+872,Spreadon.trading@gmail.com,Wei Han,Kok,0122858777,47100,IND,2.8333,Brother,2015-2017
+873,chunchong97@hotmail.com,Wade,Poh,0162458017,53200,IND,12.0000,HP,2015-2017
+874,m.zainuddin@lth.gov.my,MOHD ZAINUDDIN,HARON,0183800732,30000,IND,0.6667,Brother,2015-2017
+875,wern@autodetailer.co,Wern Wern,Ling,0129619900,46200 ,IND,12.0000,Brother,2015-2017
+876,dave@nts.nl,Nik Fariz Dave,Abdullah,89385628,43300,IND,1.2000,Brother,2015-2017
+877,jothie@saturnpyro.com,Saravana Jothi,Arumugam,073574001,81100,IND,0.7333,HP,2015-2017
+878,itdistribution2008@gmail.com,Kelvin,Ting,+60168889291,96000,IND,0.0000,Epson,2015-2017
+879,mytristar@hotmail.com,Michelle,Teh,012-2299923,52100,IND,0.0000,Brother,2015-2017
+880,sales@rekahasil.com.my,Emily,Lim PC,0122074880,47301,IND,12.0000,Fuji Xerox,2015-2017
+881,wanchunmanis@yahoo.com,ZAIDAH ,MOHD SALLEH,0192261489,57000,IND,0.0000,Brother,2015-2017
+882,alanlee9898@gmail.com,alan,lee,0172585186,56000,IND,1.0333,HP,2015-2017
+883,masjaya202@yahoo.com,Lim ,Lim,603-26948373,50480,IND,12.0000,Epson,2015-2017
+884,davidchen@smpaperbox.com,David,Chen,082439711,93050,IND,12.0000,Epson,2015-2017
+885,bluesooi@hotmail.com,hektor,ooi,0164057329,47600,IND,0.0333,Brother,2015-2017
+886,eunicetansn@gmail.com,EUNICE,TAN,0122775535,43500,IND,12.0000,Epson,2015-2017
+887,maychin.ly@gmail.com,May,Chin,60123762132,59200,IND,12.0000,Brother,2015-2017
+888,nbc0746@gmail.com,Ng ,Boon Chuan,012-9869611,51200,IND,12.0000,Brother,2015-2017
+889,winnie.chen05@gmail.com,Winnie ,Chen,0176227558,46050,IND,12.0000,Fuji Xerox,2015-2017
+890,acc@jjinternational.edu.my,Elyse ,Teng,0379545802,46000,IND,12.0000,Fuji Xerox,2015-2017
+891,0173314611,Spektra Murni Sdn Bhd,,0173314611,47500,CPNY,12.0000,Brother,2015-2017
+892,canniekoh@hotmail.com,cannie,koh,0126073522,47400,IND,12.0000,Epson,2015-2017
+893,ayeotan@gmail.com,Ann,Yeo,0123352863,51200,IND,12.0000,HP,2015-2017
+894,kokyee72@gmail.com,KOK YEE,WONG,0123163004,40150,IND,12.0000,Epson,2015-2017
+895,sarah@oxyhin.com.my,sarah,loh,016-2218359,46200,IND,10.6000,Epson,2015-2017
+896,sl.wong@zeboasia.com,Wong Soon,Lip,6012-2885313,41200,IND,12.0000,Epson,2015-2017
+897,mohdhakimimohdnor@gmail.com,Mohd Hakimi,Mohd Nor,0176833404,47301,IND,12.0000,Brother,2015-2017
+898,soopakmun@gmail.com,Pak Mun,Soo,0123389698,40150,IND,26.1667,Brother,2015-2017
+899,kam@atapatwork.com,Kamini,Jayamani,60162202154,41100,IND,0.0000,Fuji Xerox,2015-2017
+900,smsvcstn@gmail.com,Chow,Jason,0123300660,47400,IND,12.0000,Fuji Xerox,2015-2017
+901,simwui@yahoo.com,TIEW,SIM WUI,0193597576,45500,IND,12.0000,Brother,2015-2017
+902,anitajohn99@yahoo.com,Anita,John,0166882092,57000,IND,12.0000,HP,2015-2017
+903,enquiry@elv.com.my,Grace,Tee,60351221213,40460,IND,12.0000,Brother,2015-2017
+904,librachew9966@gmail.com,FION,CHEW,0122352732,58100,IND,12.0000,Canon,2015-2017
+905,arctgoh@gmail.com,cheong thet,goh,0123059333,40170,IND,12.0000,HP,2015-2017
+906,sheelatpsfm@gmail.com,sheela,palanisamy,0123673424,44300,IND,12.0000,Fuji Xerox,2015-2017
+907,kgtan_rnd@jadi.com.my,Keng Guan,Tan,016-5577677,40150,IND,12.0000,HP,2015-2017
+908,173696069,Artem Sazykin,,173696069,50450,CPNY,12.0000,Brother,2015-2017
+909,ac.hongyeah@gmail.com,wong,Mei Fong ,0197779415,86200,IND,12.0000,Epson,2015-2017
+910,shuchuen@hotmail.com,Lim,Shu Chuen,0122133280,60000,IND,12.0000,HP,2015-2017
+911,andy@octagon.com.my,Andy,Lai,40434833,50400,IND,12.0000,,2015-2017
+912,miracle_sl@yahoo.com,lee,szelye,0122721729,52200,IND,12.0000,Fuji Xerox,2015-2017
+913,kabir09@gmail.com,Moinul,Kabir,+60125230886,47500,IND,12.0000,Brother,2015-2017
+914,gentat@gmail.com,Gen Tat,Teoh,0163399896,31900,IND,0.0000,OEM,2015-2017
+915,eddie@eliteagri.com,Eddie,Lee,0192755255,47800,IND,3.0000,Brother,2015-2017
+916,info@abworld.com.my,AB Worldwide Sdn Bhd,Ms Kong/ Ng,56363829,47500,CPNY,12.0000,Fuji Xerox,2015-2017
+917,yv_liew@yahoo.com,yvonne,liew,0123132899,47820,IND,27.9333,Brother,2015-2017
+918,ongshan57@gmail.com,SHI LIM,ONG,0163311826,47100,IND,12.0000,Epson,2015-2017
+919,lishin@thecookinghouse.com,Edyth,Ban,0123951243,59000,IND,12.0000,Fuji Xerox,2015-2017
+920,pulautambisan08@gmail.com,Mohd Ramizi ,Mat Yasin,0139519743,17510,IND,12.0000,Brother,2015-2017
+921,jasri@jds-usaha.com.my,Jasri,Ishak,0123935905,47100,IND,0.0000,HP,2015-2017
+922,fkng15@yahoo.com,Ng,Fuang Kong,012-2672855,41150,IND,12.0000,Epson,2015-2017
+923,mail.eddielee@gmail.com,eddie,lee,0164223168,47170,IND,12.0000,Brother,2015-2017
+924,shirley_ngkenghong@yahoo.com,NG,KENG HONG,012-6963631,40300,IND,12.0000,Brother,2015-2017
+925,spleepapa@yahoo.com,Lee,Seik Poa,0124725778,10050,IND,12.0000,Epson,2015-2017
+926,cmingluen@hotmail.com,Ming Luen,Chong,0177178746,58200,IND,12.0000,Brother,2015-2017
+927,kakamata90210@gmail.com,Muhammad Syafeeq,Bin Mohammad Nuri,60122872081,47100,IND,12.0000,Brother,2015-2017
+928,oswinlo_85@hotmail.com,lo,wei ching,0122753326,55200,IND,12.0000,HP,2015-2017
+929,asfazian@yahoo.com,ASFAZIAN,CHE RAMLI,0192377839,43300,IND,12.0000,Fuji Xerox,2015-2017
+930,kitcchong@hotmail.com,Chin Chiat,Hong,0163197200,40400,IND,0.0000,HP,2015-2017
+931,Terenceconrad@gmail.com,Terence,Fernandez ,0122078447,47500,IND,0.0000,Brother,2015-2017
+932,jasminetck@gmail.com,Jasmine,Tan,0122952418,47810,IND,5.7333,Fuji Xerox,2015-2017
+933,haoxi91@gmail.com,Adv,Fusionex,0173161066,46200,IND,0.4333,Brother,2015-2017
+934,joey.liew73@gmail.com,Joey,Liew,0122824323,47810,IND,12.0000,Brother,2015-2017
+935,danen@worldexasia.com,Soo,Hu Seng,0169689977,47810,IND,12.0000,Brother,2015-2017
+936,xuxianzhi@gmail.com,xianzhi,xu,013-5408888,59200,IND,12.0000,HP,2015-2017
+937,ritzwallcovering@gmail.com,hon, dan john,03-80221688,47500,IND,14.4000,Epson,2015-2017
+938,vivagroup.greateastern@yahoo.com,Lynnie,Tan,03-40422828,50480,IND,0.0000,Fuji Xerox,2015-2017
+939,fifi@naramedispa.com,faezah,yusop,0196761604,59000,IND,22.1667,Fuji Xerox,2015-2017
+940,0122831818,Su Ping,,0122831818,40100,CPNY,12.0000,Brother,2015-2017
+941,admin@sage3.com,Valued Customer,Sage 3 Capital Sdn Bhd,0320118268,50490,CPNY,12.0000,HP,2015-2017
+942,133977218,Nor Afzan Zalila,,133977218,91000,CPNY,12.0000,Brother,2015-2017
+943,suan170@hotmail.com,Kristofer,Ho,0126813182,40150,IND,12.0000,Epson,2015-2017
+944,limxying@gmail.com,XINYING,LIM,0129271048,47500,IND,12.0000,Print n Stick,2015-2017
+945,tkchiew@hotmail.com,Thiam Kian,Chiew,0123712115,52200,IND,12.0000,Brother,2015-2017
+946,0197155887,Izatu Tumiran,,0197155887,81100,CPNY,0.6000,Print n Stick,2015-2017
+947,codename29@hotmail.com,Yeo,Sing Ho,016-6012585,47500,IND,12.0000,Epson,2015-2017
+948,stephanie@natselane.com,Stephanie,Choong,0129136488,47810,IND,7.2333,Brother,2015-2017
+949,gtmintegration@gmail.com,Involve,Asia,0179750886,58000,IND,12.0000,Brother,2015-2017
+950,167826207,Adeline Lim,,167826207,81100,CPNY,12.0000,Epson,2015-2017
+951,info@sfnoodles.com,SOON FATT FOODS,SDN BHD,0123053761,47100,CPNY,12.0000,Fuji Xerox,2015-2017
+952,civic7988@gmail.com,WEE HUN,NG,0173391611,51000,IND,12.0000,Epson,2015-2017
+953,geaswaran@hotmail.com,Easwaran,Gunaratnam,0173317303,59200,IND,12.0000,HP,2015-2017
+954,myndywong8348@gmail.com,May Kwan,Wong,0123934838,43300,IND,11.3000,HP,2015-2017
+955,gwt_1@hotmail.com,Gan,Wei Tat,0105660096,52200,IND,7.4000,Brother,2015-2017
+956,elytsb@gmail.com,John,Lai,0163357811,47000,IND,12.0000,Brother,2015-2017
+957,recopylau@gmail.com,Kwong Nee,LAU,60126387883,73000,IND,12.0000,HP,2015-2017
+958,smkl9294@hotmail.com,JANE ,TAN,0122884785,51200,IND,12.0000,Oki,2015-2017
+959,nswagency72@gmail.com,chuah,sp,03 6189 2611 /011 1113 1163,68100,IND,0.0000,Brother,2015-2017
+960,jay_el13@hotmail.com,John Haw,Lee,0193199301,43300,IND,19.3333,Brother,2015-2017
+961,khthong@audiosynergy.com.my,Thong,Kok Hoow,0123771230,40150,IND,13.9000,Brother,2015-2017
+962,louislau@gmail.com,Louis,Lau,+60123770422,59200,IND,12.0000,HP,2015-2017
+963,jkpns@yahoo.com,yoong,fatt,61421081,47810,IND,7.7000,Brother,2015-2017
+964,searfui@hotmail.com,Top Ten Workshop Sdn Bhd,Choo,0167132599,81000,CPNY,2.5000,Epson,2015-2017
+965,weimun.tan@integrationpoint.com,Tan,Wei Mun,012-3311 983,47500,IND,12.0000,Epson,2015-2017
+966,k.o.tan@rocketmail.com,KEE ONG,TAN,0340419613,51200,IND,12.0000,HP,2015-2017
+967,rickytay@live.com.my,ricky,tay,+6016-2632633,43300,IND,12.0000,Brother,2015-2017
+968,alven8@gmail.com,Alven ,Loh,+60122342345,56100,IND,12.0000,Epson,2015-2017
+969,matchip@gmail.com,Ahmad Husni,Abdul Wahab,0123261495,47130,IND,12.0000,Brother,2015-2017
+970,alex@vyrox.com,Alex,Leong,018-2663338,43300,IND,9.7667,Epson,2015-2017
+971,info@pcp.com.my,Alvin,Tan,03-89417966,43300,IND,12.0000,HP,2015-2017
+972,muzahid@hotmail.com,mohd muzahid,md nor,0132768448,60000,IND,12.0000,Brother,2015-2017
+973,enetsolution2015@gmail.com,CHEE MUN,CHONG,0176266755,56100,IND,5.9667,Print n Stick,2015-2017
+974,tangpohyee@gmail.com,Eri,Tang,0182551848,47300,IND,12.0000,Brother,2015-2017
+975,jr.malchem@gmail.com,JULIA,ROSLI,0361851488,68100,IND,12.0000,Brother,2015-2017
+976,valenckj@gmail.com,Valen ,Cheng,0378872702,47301 ,IND,12.0000,Brother,2015-2017
+977,splow@oneweb.ws,Siong Pein,Low,0123183322,40150,IND,0.0000,Fuji Xerox,2015-2017
+978,susan@marbleemporium.com.my,Susan,Liew,7832 1126,40150,IND,16.8333,Fuji Xerox,2015-2017
+979,halim.saleh@perodua.com.my,Halim,Saleh,0367338888,62150,IND,12.0000,Brother,2015-2017
+980,william_kfc@yahoo.com,fook chun,kong,0197152221,81300,IND,12.0000,Brother,2015-2017
+981,enochkhoo.pa@ek.com.my,Rannie Chu,Sze Lui,03-74905707,50480,IND,0.0000,Print n Stick,2015-2017
+982,fairuz@mfqasia.com,Mohd Fairuz,Mohd Yusof,0389412001,43300,IND,12.0000,HP,2015-2017
+983,yltang15@yahoo.com,Yoke Lan,Tang,60193386811,47100,IND,2.3000,Brother,2015-2017
+984,prinsessaliang@gmail.com,Prinses,Saliang,0102311445,40000,IND,12.0000,Fuji Xerox,2015-2017
+985,joanchin@orc.com.my,Chin,Kee Ying,03-40650338,51000,IND,0.0000,HP,2015-2017
+986,davidteoh_90@hotmail.com,David,Teoh,016-4824542,50480,IND,5.6000,Brother,2015-2017
+987,0126090103,LEE VUI YONG,,0126090103,91000,CPNY,12.0000,Epson,2015-2017
+988,cschuah@novationresources.com,JAMES,CHUAH,0162204261,46000,IND,23.0000,Brother,2015-2017
+989,cshock23@gmail.com,Soon Hock,chng,0124986745,14000,IND,12.0000,Fuji Xerox,2015-2017
+990,ckfong2020@gmail.com,Will ,Chow ,0392806488,68000,IND,12.0000,Fuji Xerox,2015-2017
+991,leongming@gmail.com,Leong Ming,Hau,066581968,71960,IND,0.0000,Fuji Xerox,2015-2017
+992,wytan@rts.com.my,TAN,WEE YO,0127890410,56100,IND,6.4667,Brother,2015-2017
+993,danensoo@yahoo.com,Fireworks Event,Fireworks Event,0163880998,47810,IND,21.6667,Brother,2015-2017
+994,emmychoo@gmail.com,Emmy,Choo,0378850505,47301,IND,12.0000,Brother,2015-2017
+995,mankianhardware@gmail.com,HUE,POH WAH,03-58911295,47100,IND,12.0000,Epson,2015-2017
+996,cavynhue@yahoo.com,Cavyn,HUE,+60133919341,25300,IND,12.0000,OEM,2015-2017
+997,edleow78@gmail.com,edmund leow,choy hock,0123705833,52100,IND,12.0000,Brother,2015-2017
+998,wln8454@gmail.com,Sazali,Mohammad Nadzri,0193240634,50460,IND,12.0000,Brother,2015-2017
+999,limjeanie81@gmail.com,Jeanie,Lim,012-9022113,80000,IND,0.0000,Epson,2015-2017
+1000,ALONGDIX@GMAIL.COM,ABD RAZAK,OMAR,0122776743,81700,IND,12.0000,HP,2015-2017
+1001,nurulhazimahmustafa@gmail.com,Nurul,Hazimah,0177800207,43300,IND,12.0000,Epson,2015-2017
+1002,hoicw_limtay@yahoo.com.my,HOI,CHEN WEI,03-2072 8142,50000,IND,0.0000,Brother,2015-2017
+1003,leon_vortex@yahoo.com,Leon,Sit,0125220081,47800,IND,12.0000,HP,2015-2017
+1004,bryan@mys.com.my,Bryan,Yap,0122952190,47620,IND,12.0000,HP,2015-2017
+1005,kah_kk@yahoo.com,Kah,Kim Kee,0362416589,52100,IND,12.0000,Brother,2015-2017
+1006,jasminekong_mvista@yahoo.com,CARMIN,LAM,018-2911 809,47100,IND,8.8667,Epson,2015-2017
+1007,hao.han.tan@adv-fusionex.com,Hao Han,Tan,0169654199,46200,IND,12.0000,Brother,2015-2017
+1008,melitham@gmail.com,Melissa,Tham,+60127732783,81100,IND,0.1667,Epson,2015-2017
+1009,clovertechgarage@gmail.com,MAY,WONG,51228020,47500,IND,12.0000,HP,2015-2017
+1010,AUCONPRO@YAHOO.COM,THYE HENG,TEE,0162033338,47610,IND,12.0000,HP,2015-2017
+1011,mustafar@ieee.org,Mustafar Kamal,Hamzah,+60122341546,40000,IND,11.4667,HP,2015-2017
+1012,angieeu@hotmail.com,Angie ,Eu,0133333313,59100,IND,12.0000,Brother,2015-2017
+1013,0122083232,Lim Ca Ee,,0122083232,43200,CPNY,12.0000,Brother,2015-2017
+1014,dscaffengineering@gmail.com,Dscaff,Engineering ,03-6201 5722,50480,IND,12.0000,Epson,2015-2017
+1015,+60122566659,Joey Caisse,,+60122566659,50480,CPNY,12.0000,Canon,2015-2017
+1016,muhilen@gmail.com,Muhilen ,Genesan,+60379318220,46200,IND,3.8333,Epson,2015-2017
+1017,matamoon@mac.com,Yulina,Baharuddin,+60122900566,55000,IND,0.1667,Brother,2015-2017
+1018,hermandolmat@yahoo.com,Herman,Dolmat,019-2834488,48100,IND,12.0000,HP,2015-2017
+1019,keng.lh@givi.com.my,GIVI ASIA ,SDN BHD,0194587522,48300,CPNY,12.0000,HP,2015-2017
+1020,yunloongsel@gmail.com,YUNLOONGSEL,YUN LOONG,0333926080,42200,IND,12.0000,Brother,2015-2017
+1021,faesal09@gmail.com,faesal,amar,0193074028,42300,IND,12.0000,Epson,2015-2017
+1022,lmthung@yahoo.com,Mun Thung,LEW,03-40427803,50400,IND,12.0000,Epson,2015-2017
+1023,estherleong86@gmail.com,Esther Leong,Ai Ping,0169214715,56000,IND,12.0000,Brother,2015-2017
+1024,cynthiatiang@gmail.com,Cynthia,Tiang,0123127117,47160,IND,4.6667,HP,2015-2017
+1025,formlite@yahoo.com,Yvonne,Yew,0169963626,57000,IND,3.0667,Print n Stick,2015-2017
+1026,sam@antah.com.my,Sam,Lai,0379560900,46200,IND,6.4667,Brother,2015-2017
+1027,lizaina@phuturephlow.com,Lizaina,Azmir,03 77292369,47800,IND,12.0000,Brother,2015-2017
+1028,0168881115,Diorson Liu,,0168881115,93350,CPNY,12.0000,Fuji Xerox,2015-2017
+1029,kajue3bl@gmail.com,Benny,Ling,0165227618,96000,IND,12.0000,Epson,2015-2017
+1030,ber_xdwp@yahoo.com,Xavier,David,6019 7750559,81750,IND,12.0000,Canon,2015-2017
+1031,joymichi@yahoo.com,Michelle,Eng,0122731291,46300,IND,12.0000,HP,2015-2017
+1032,kmhow@bitalifesc.com.my,KIAN MING,HOW,603-79608286,46300,IND,12.0000,HP,2015-2017
+1033,finance.khalifahdidik@gmail.com,Ainun ,Ya,0342808311,55100,IND,12.0000,HP,2015-2017
+1034,jackliong@gmail.com,Jack,Liong,0166600120,43300,IND,9.8667,Fuji Xerox,2015-2017
+1035,siellchoay@yahoo.com,Irene,Wong,0123067878,40400,IND,12.0000,Canon,2015-2017
+1036,sally.sltan80@gmail.com,Sally,Tan,60125097009,47100,IND,12.0000,HP,2015-2017
+1037,ikram@sivaassc.com.my,Ikram Shah,Zainuddin,0192093623,47301,IND,12.0000,Brother,2015-2017
+1038,harith.ahmad@gmail.com,Harith,Ahmad,60176878900,46400,IND,12.0000,Brother,2015-2017
+1039,azman.badaruddin@gmail.com,Mohammad Azman,Badaruddin,+60123910464,40150,IND,2.0667,HP,2015-2017
+1040,sitisarahhilmi@gmail.com,Sarah,Hilmi,0122606434,47810,IND,12.0000,HP,2015-2017
+1041,2274529556@qq.com,Selina,Wong,+60126858553,50450,IND,1.4000,Fuji Xerox,2015-2017
+1042,pohlian@yahoo.com,KGP Enterprise,JOAN TAN,0123282179,52100,IND,6.8000,Fuji Xerox,2015-2017
+1043,chua_jc@yahoo.com.sg,JC,Chua,03-78807480,47301,IND,2.6333,HP,2015-2017
+1044,scsktn@hotmail.com,Edward,Chia,012 987 0206,25300,IND,12.0000,HP,2015-2017
+1045,60127712200,LIM WOEI MING,,60127712200,81100,CPNY,12.0000,Brother,2015-2017
+1046,jessica.fangsy@yahoo.com,Jessica,Fang,0126211818,47410,IND,12.0000,Brother,2015-2017
+1047,GAVIN@THECHALLENGER.COM.MY,GAVIN,LIEW,0173355812,46200,IND,0.0000,Fuji Xerox,2015-2017
+1048,jft@codingmalaysia.com,Jing Fen,Tan,60123271780,40460,IND,12.0000,Epson,2015-2017
+1049,ronald@kevronent.com,KUI YEOW ,SOO ,+60193166138,43200,IND,0.0000,Fuji Xerox,2015-2017
+1050,pengsing.ewe@gmail.com,Peng Sing ,Ewe,0169865201,47301,IND,12.0000,HP,2015-2017
+1051,esther@junpack.com.my,Esther,Chan,012-2647574,58200,IND,0.0000,Epson,2015-2017
+1052,anter.tey@gmail.com,Anter,Tey,012-8010188,88820,IND,12.0000,Brother,2015-2017
+1053,chin@coffeeritual.com,Chung,Yeh Chin,+60377253633,47400,IND,9.2333,Brother,2015-2017
+1054,annie@meritpower.com.my,Chiang,Annie,03-79583788,46200,IND,12.0000,Epson,2015-2017
+1055,390553230,AWS Technologies Sdn Bhd,,390553230,57000,CPNY,12.0000,Brother,2015-2017
+1056,accounts@bbmalaysia.org,Pey Hiong,Ng,03-77844262,46000,IND,12.0000,Fuji Xerox,2015-2017
+1057,limwaimun@hotmail.com,Wai Mun,Lim,0126661622,48000,IND,16.1667,Epson,2015-2017
+1058,mercuroas@hotmail.com,Chun Theng,Yap,+60122363390,47100,IND,12.0000,Fuji Xerox,2015-2017
+1059,aziza@jiwane.com,aziza,ahmad,0362579955,51200,IND,12.0000,HP,2015-2017
+1060,pclim@primagroup.com.my,PC,Lim,0320806633,50490,IND,0.6000,Print n Stick,2015-2017
+1061,leongchonga.c@gmail.com,VICKY,LIM,0380810377,47620,IND,12.0000,Epson,2015-2017
+1062,larryhklee@gmail.com,Larry,Lee,012-2037832,46100,IND,9.4667,Brother,2015-2017
+1063,bettyainkiq@gmail.com,Nahzatul Ain,Mohd Khalid,03-42171311,55100,IND,2.8000,Brother,2015-2017
+1064,0129532120,Yvette Haeggmark,,0129532120,10470,CPNY,12.0000,Brother,2015-2017
+1065,khaizuan87@yahoo.com.my,MOHD KHAIRUL IZUAN,BIN BADRUL HISHAM,0192206797,40150,IND,12.0000,Brother,2015-2017
+1066,panglimacity@gmail.com,Panglima City Motor,Sdn Bhd,0177779021,42500,CPNY,12.0000,Epson,2015-2017
+1067,pygan75@yahoo.com,Gan,Poo Yien,0166216662,47500,IND,11.0333,Epson,2015-2017
+1068,beelan@hometowncoffee.com.my,LOH,BEE LAN,0162289176,46400,IND,12.0000,HP,2015-2017
+1069,jeev@domecafe.com.my,JEEVA NANTHAN,RAMAN,0175005058,56100,IND,6.9000,Brother,2015-2017
+1070,hafiz_1piece@yahoo.co.uk,hafiz,saini,019-7810596,46200,IND,12.0000,Brother,2015-2017
+1071,awyongcarl@gmail.com,AW YONG,KIN MENG,+60163232383,52200,IND,12.0000,HP,2015-2017
+1072,thying33@gmail.com,Ying Thying,Wong,0126062933,36450,IND,23.5667,Brother,2015-2017
+1073,amir.zain@gmail.com,Amir,Zain,+60122549229,47300,IND,0.0000,Fuji Xerox,2015-2017
+1074,admin@fk.my,NURRUL SALIA,SALEH,0136458698,59200,IND,12.0000,Brother,2015-2017
+1075,lydiatimbah@kop-keramat.com,lydia,timbah abdullah,0138106620,88100,IND,10.1000,Brother,2015-2017
+1076,hhcr.project@gmail.com,YUSLI,SULAIMAN,60173494324,53000,IND,12.0000,Epson,2015-2017
+1077,terenceyong@pyeproducts.com,Terence,Yong,0122803228,41050,IND,12.0000,Brother,2015-2017
+1078,joeyylh@yahoo.com,Joey,Yee,03-80709712,47100,IND,12.0000,Epson,2015-2017
+1079,geniepan1980@hotmail.com,Genie,Pan,0122199613,68100,IND,0.2333,Epson,2015-2017
+1080,slchow@gmail.com,Raymond,Chow,0122028900,47301,IND,12.0000,Epson,2015-2017
+1081,sllim000@hotmail.com,Siew Lian,Lim,0351923228,40400,IND,4.0333,HP,2015-2017
+1082,cy.wong@live.com.my,CY,Wong,0162693552,43200,IND,12.0000,Brother,2015-2017
+1083,akhili.salamat@gmail.com,Akhili,Salamat,0123754020,48000,IND,12.0000,Epson,2015-2017
+1084,ctp.nyp@gmail.com,chan,taiping,0379715583,58100,IND,12.0000,Epson,2015-2017
+1085,farah@brandworth.com.my,Farah,Hamid,0377271500,47820,IND,18.2333,HP,2015-2017
+1086,sungct@yahoo.com,TECK SUNG,CHEU,085-736172,98200,IND,12.0000,Fuji Xerox,2015-2017
+1087,127665058,Serba Wangi JH Sdn Bhd,,127665058,81400,CPNY,12.0000,Epson,2015-2017
+1088,tan.tkm@gmail.com,Terence,Tan,0162081742,47170,IND,12.0000,Brother,2015-2017
+1089,bryan.chea@mulpha.com.my,Bryan,Chea,03-77186387,47810,IND,12.0000,Epson,2015-2017
+1090,bum**************@gmail.com,BUMI KASTURI SDN BHD,,092771876,28000,CPNY,12.0000,Brother,2015-2017
+1091,xunjie0820@gmail.com,tan,xun jie,0126826786,47100,IND,0.2667,HP,2015-2017
+1092,sales@lasting-impressions.com.my,grace,chang,0378061491,47810,IND,12.0000,HP,2015-2017
+1093,haymeibrahim@gmail.com,Hayme,Ibrahim,0126690974,59200,IND,12.0000,Epson,2015-2017
+1094,my2299@gmail.com,Tony,Su,082233922,93100,IND,12.0000,Brother,2015-2017
+1095,tyantan@vivanetwork.com.my,Tze Yan,Tan,03 6188 9353,68100,IND,6.2333,Brother,2015-2017
+1096,kristalwaja@yahoo.com,Roslan,Abdul,0123334446,57000,IND,6.9333,Brother,2015-2017
+1097,bryan.tancj@gmail.com,Bryan,Tan,0122336553,47600,IND,4.2333,Brother,2015-2017
+1098,arkitekmp@gmail.com,Noor Hisham,Md Yatim,03-41438500,53300,IND,12.0000,HP,2015-2017
+1099,woeiren@hotmail.com,chong woei,ren,6016-7737556,81000,IND,12.0000,Epson,2015-2017
+1100,info@metrohm.com.my,Metrohm (Malaysia) Sdn Bhd,.,0192164886,47301,CPNY,2.0333,HP,2015-2017
+1101,shamsuriali@gmail.com,Norshamsuri,Ali,0126930039,05300,IND,12.0000,HP,2015-2017
+1102,kokhan@tenten.com.my,KUA,KOK HAN,+60133571010,40000,IND,12.0000,Epson,2015-2017
+1103,admin@maxxmedia.com.my,Ms,Siti,088-719787,88300,IND,0.2000,Print n Stick,2015-2017
+1104,pcp_alice@yahoo.com,Alice,Lui,0102727517,43300,IND,12.0000,HP,2015-2017
+1105,TERENCE@SALURANPASIFIK.COM,terence,ngiaw,0129899603,25200,IND,6.9667,Print n Stick,2015-2017
+1106,klinikdrsuraya@gmail.com,Amin,Johari,0389203141,43650,IND,0.9000,Epson,2015-2017
+1107,yhong_1989@hotmail.com,sin,wai hoong,0166091639,58100,IND,12.0000,Epson,2015-2017
+1108,dnayu85@yahoo.com,DAYANG NOOR AZURA,BINTI ABANG DAUD,0128816215,93050,IND,12.0000,Brother,2015-2017
+1109,lkscompservices@yahoo.com,KS,LAM,0122808464,47810,IND,12.0000,Epson,2015-2017
+1110,rita.n.modu@gmail.com,rita ,.nadarajan,03-55487333,40000,IND,12.0000,Epson,2015-2017
+1111,nikpawi@yahoo.com,Nik Sapawi,Nik Salleh,0199853454,24300,IND,12.0000,Fuji Xerox,2015-2017
+1112,heijengkamhoong@gmail.com,yap,hei jeng,0192798600,43300,IND,12.0000,Brother,2015-2017
+1113,alvinphua@interdeals.com.my,MAN SOO,PHUA,03-5635 5787,47500,IND,12.0000,Epson,2015-2017
+1114,admin@mokandco-eng.com,Gary,Mok,012-2176922,46100,IND,1.2000,Fuji Xerox,2015-2017
+1115,csliew@gmail.com,Chee Sun,Liew,0379676357,40460,IND,12.0000,Epson,2015-2017
+1116,tingkf@tkf.com.my,Kow Fong,Ting,60377268291,47820,IND,0.0000,Fuji Xerox,2015-2017
+1117,knp.usj@gmail.com,DORIS ,MAYAPPEN,0380235537,47620,IND,12.0000,,2015-2017
+1118,snow1980a@hotmail.com,Siew Kian,Ong,0122827952,50603,IND,0.7333,Brother,2015-2017
+1119,ausmedpharmacy@gmail.com,Raymond ,Chan,03-77222882,47820,IND,12.0000,OEM,2015-2017
+1120,jerry@infinityinfocus.com,Looi,Keng Mun,019-2216425,47500,IND,12.0000,Brother,2015-2017
+1121,fyunus@mongooseasia.com,SITI FAZILLAH,YUNUS,0195989791,50450,IND,2.7000,Print n Stick,2015-2017
+1122,raymond@ultimateind.com.my,Raymond K C,Chia,+60129770055,68000,IND,12.0000,Brother,2015-2017
+1123,cheekiong.cho@gmail.com,CHEE KIONG,CHO,0127280078,83000,IND,12.0000,HP,2015-2017
+1124,ongchailing@gmail.com,Ling,Ong,0126315132,40460,IND,12.0000,Brother,2015-2017
+1125,andrew@jiggee.com,Andrew,Hong,0162502060,59000,IND,12.0000,HP,2015-2017
+1126,chongsaikhong@gmail.com,Ivan,Chong,016-3218832,46100,IND,12.0000,Brother,2015-2017
+1127,aminulla.khan.ak@gmail.com,aminulla,khan,0173331582,47000,IND,12.0000,HP,2015-2017
+1128,0105060680,Alimah binti othman,,0105060680,81200,CPNY,12.0000,Brother,2015-2017
+1129,myhijrahsb@yahoo.com.my,Rosmaliza,Rashid,03-90802373,43200,IND,12.0000,Epson,2015-2017
+1130,cathrine@casarealty.com.my,CASA,REALTY,0122208933,56000,IND,12.0000,Fuji Xerox,2015-2017
+1131,ong.kyw@gmail.com,Kevin,Ong,0123051833,40100,IND,4.5333,HP,2015-2017
+1132,chenchen16@yahoo.com,PHANG,CA MI,0168941018,93250,IND,0.0000,Canon,2015-2017
+1133,graceoky@yahoo.com,Grace,Ooi,0122166263,58000,IND,12.0000,Brother,2015-2017
+1134,nsblighting04@gmail.com,TAN,YEE LING,0162028690,47100,IND,1.8333,Epson,2015-2017
+1135,suping1818@gmail.com,Su Ping,Yap,0122831818,40100,IND,12.0000,Brother,2015-2017
+1136,morpheus7778@gmail.com,Jai Prakash,Subramaniam,0192354245,40460,IND,12.0000,HP,2015-2017
+1137,valentinojohn@hotmail.com,Johnson ,Lim,012-2236829,57100,IND,21.6333,Epson,2015-2017
+1138,me@hong.my,Uncle,Lim,0163036110,46000,IND,12.0000,Print n Stick,2015-2017
+1139,alicewcf89@hotmail.com,Alice,Wong,0123283564,47800,IND,12.0000,Brother,2015-2017
+1140,kuchunlian@gmail.com,Ku,Chun Lian,0127923932,58200,IND,12.0000,Fuji Xerox,2015-2017
+1141,endeavour@arc.net.my,Koon Yew,Loke,60392834310,56100,IND,0.2000,Epson,2015-2017
+1142,johnnykeh@hotmail.com,JOHNNY,KEH,0123553102,52200,IND,12.0000,Epson,2015-2017
+1143,emilzubrin@yahoo.com,Emil,Zubrin,017388363,51200,IND,12.0000,Epson,2015-2017
+1144,carmen1024@gmail.com,carmen,low,0125273093,47100,IND,12.0000,Epson,2015-2017
+1145,haiaow@live.com,CHUAN HAI,AOW,013-9323107,28000,IND,12.0000,Brother,2015-2017
+1146,gwokiong@neptuneasia.com.my,GWO KIONG,HO,0128337228,87000,IND,1.5333,Brother,2015-2017
+1147,lw.mpsi@gmail.com,lai wan,chan,0162020447,40150,IND,12.0000,HP,2015-2017
+1148,ahmadbinhassan@gmail.com,Ahmad,Hassan,0192189040,43300,IND,12.0000,Brother,2015-2017
+1149,kwanliew@yahoo.com,PEACK KWAN,LIEW,0123317580,50480,IND,1.5667,Epson,2015-2017
+1150,ykhean@gmail.com,Wai Khean,Wong,0126385255,47800,IND,12.0000,Brother,2015-2017
+1151,w_jack@yahoo.com,Jack,Goh,0162840872,47500,IND,12.0000,Brother,2015-2017
+1152,MALIDA.MARJAN@GMAIL.COM,MALIDA,MARJAN,0193303686,40460,IND,12.0000,HP,2015-2017
+1153,avian.junk@gmail.com,Avian,Amirsham,0123953013,52200,IND,12.0000,Brother,2015-2017
+1154,194177788,hj abdullah bin hj abdul wahab,,194177788,33310,CPNY,12.0000,Fuji Xerox,2015-2017
+1155,admin@trustport.com.my,Md Danial,Md Yusoff,+60374976447,47820,IND,0.0000,OEM,2015-2017
+1156,0174338996,Mc Ng,,0174338996,10050,CPNY,12.0000,Brother,2015-2017
+1157,llina287@gmail.com,Ash lina ,Abdul Rahman,0168216221,87000,IND,0.0333,Brother,2015-2017
+1158,cst@clm.com.my,Soon Tiew,Chang,60129372275,24000,IND,12.0000,Epson,2015-2017
+1159,lianho1988@yahoo.com,Lian,Ho ,03-80766868,47180,IND,12.0000,Epson,2015-2017
+1160,shirley@novaflow.com.my,Shirley,Yap,+60169180222,40400,IND,12.0000,HP,2015-2017
+1161,zati@um.edu.my,Zati Hakim ,Azizul Hasan,03-79676376,47620,IND,12.0000,Fuji Xerox,2015-2017
+1162,drsaravana5@yahoo.com,saravana,kumar,03-32503323,42200,IND,12.0000,Brother,2015-2017
+1163,mazlan@redzac.com.my,Mazlan,Omar,0123853605,59200,IND,12.0000,HP,2015-2017
+1164,marcosuriasungaibuloh@gmail.com,marcosuria agency sdn bhd,chan,03-61434623,47000,CPNY,12.0000,Epson,2015-2017
+1165,hymah33@gmail.com,Mah ,Hui Yin,78483598,40000,IND,7.7000,Epson,2015-2017
+1166,126220098,Jayne EU,,126220098,46000,CPNY,12.0000,Brother,2015-2017
+1167,weijoon@live.com,Wei Joon,Wong,+6016-2188721,43300,IND,12.0000,HP,2015-2017
+1168,binadam1power@hotmail.com,Kala,Ganesan,03-79575486,46350,IND,0.0000,Brother,2015-2017
+1169,crystkang@gmail.com,KANG,SIEW HIANG,+60167229916,81800,IND,12.0000,Brother,2015-2017
+1170,eli173@ymail.com,Eliyana ,Heng,089-237900,90000,IND,12.0000,HP,2015-2017
+1171,indraponnudurai@gmail.com,Indra ,Ponnudurai,0178830984,46000,IND,12.0000,Brother,2015-2017
+1172,acpalbert@gmail.com,Albert,Ang,0122038753,48000,IND,29.5333,Brother,2015-2017
+1173,slhuong@axonscientific.com,HUONG,SIEW LING,03-89451482,43300,IND,12.0000,Brother,2015-2017
+1174,lokesy@ikhua.com.my,SIEW YOKE,LOKE,03-89616855,43300,IND,12.0000,Epson,2015-2017
+1175,graceyap79@hotmail.com,Grace,Yap,0122907803,43300,IND,12.0000,Brother,2015-2017
+1176,info@freshonline.my,Fresh Online,Sdn Bhd,0320943162,50490,CPNY,12.0000,HP,2015-2017
+1177,Raudhah.Nubli@roland.com,yukihiro ,morohashi,0124821021,42000,IND,5.6000,Epson,2015-2017
+1178,shane89266@hotmail.com,CS,Tan,0173303850,46150,IND,7.2000,Epson,2015-2017
+1179,0126232098,Nick Liu,,0126232098,70300,CPNY,12.0000,Brother,2015-2017
+1180,liyanashuib@gmail.com,Nor Liyana,Mohd Shuib,0196649440,50603,IND,12.0000,Fuji Xerox,2015-2017
+1181,ong@logiqube.com,KS ,Ong,60163289797,46400,IND,21.3667,Epson,2015-2017
+1182,nurafiq@uthm.edu.my,MUHAMMAD NUR AFIQ,JOHARI,01110082990,86400,IND,12.0000,Brother,2015-2017
+1183,nadiaemily@gmail.com,Nadia,Emily,0123015719,40150,IND,12.0000,Brother,2015-2017
+1184,it.purchasing@adv-fusionex.com,Adv Fusionex Sdn Bhd,(Jack Goh),03-77115200,46200,CPNY,1.6333,Brother,2015-2017
+1185,meteorax@gmail.com,Mohd Redzuan,Harun,010-5282817,63000,IND,12.0000,Epson,2015-2017
+1186,chbeh@yahoo.com,BEH ,CHOR HOW,012-4010766,47301,IND,12.0000,Brother,2015-2017
+1187,elena@writebest.com,Elena ,Kwok,0126339282,43100,IND,4.6000,Brother,2015-2017
+1188,0177872401,mohamad nizam bin ghani,,0177872401,81200,CPNY,12.0000,Brother,2015-2017
+1189,stacey@appletoner.com.my,Stacey,Lim,0146263678,41200,IND,12.0000,Epson,2015-2017
+1190,Yukihiro.Morohashi@roland.com,Yukihiro,Morohashi,0331761268,42000,IND,12.0000,Epson,2015-2017
+1191,ytpui1@gmail.com,Yuh Tzer,Pui,+60138062770,98000,IND,0.0000,Epson,2015-2017
+1192,cyrus@atozcomputermedia.com,cyrus,wong,0125178920,43300,IND,0.1667,HP,2015-2017
+1193,suliani.kesb@gmail.com,suliani,sahari,03-61862405,68100,IND,1.8667,Brother,2015-2017
+1194,carol_lee@pp-eng.com.my,Carol,Lee,0380621039,47100,IND,4.9333,OEM,2015-2017
+1195,hannie168@gmail.com,Hannie,Teh,0123378775,43200,IND,0.1667,Epson,2015-2017
+1196,euromaster.lim@live.com,DAX,SEOW,60341026311,68000,IND,12.0000,Oki,2015-2017
+1197,fatihin@gmail.com,FATIHIN,ROSIDI,0176132928,50490,IND,12.0000,Brother,2015-2017
+1198,becbec_ong@yahoo.com,Filbin Marine S/B,Filbin Marine S/B,0192222019,46100,IND,12.0000,Fuji Xerox,2015-2017
+1199,1115712289,Huzaifah Othman,,1115712289,68000,CPNY,12.0000,Brother,2015-2017
+1200,info.chong@gmail.com,KS,Chong,60126658440,46050,IND,12.0000,Brother,2015-2017
+1201,siti1202@yahoo.com,Siti Fatimah,Mohamad,0122411973,43000,IND,9.1667,Epson,2015-2017
+1202,hoon_sb@yahoo.com,Koh,Hong Hon,012-2189988 / 03-31815585,42700,IND,12.0000,Fuji Xerox,2015-2017
+1203,wsiewkee@gmail.com,SIEW KEE,WONG,0193353790,46200,IND,12.0000,Fuji Xerox,2015-2017
+1204,chiko_waa@kamming.com.my,kok wah,chee,012-3274936,51200,IND,10.8667,HP,2015-2017
+1205,mervin@adverts-group.com,Mervin,Wong,016-4457335,53300,IND,12.0000,Epson,2015-2017
+1206,kingsiong@hotmail.com,yong,king siong,0163155369,47400,IND,10.2667,Canon,2015-2017
+1207,hasliana@gmail.com,HASLIANA,KAMARUDDIN,03-89536326,43400,IND,12.0000,Brother,2015-2017
+1208,bogooptical@gmail.com,Hong ,Tan ,60390756191,43200,IND,12.0000,Epson,2015-2017
+1209,tehmenghui@hotmail.com,Teh,Meng Hui,0163350423,46300,IND,12.0333,Epson,2015-2017
+1210,aeccty@gmail.com,CHIN TZE,YEONG,+60380709796,47160,IND,12.0000,Brother,2015-2017
+1211,sweetangeling@gmail.com,ShukLing,Fong,0163230531,90000,IND,10.3333,Fuji Xerox,2015-2017
+1212,rachelw.py@hotmail.com,RACHEL,WONG,0126362248,55200,IND,12.0000,HP,2015-2017
+1213,snow_purl@yahoo.com,ELLENI,MOHD SALEH,60172821789,46150,IND,12.0000,Epson,2015-2017
+1214,may.havys@gmail.com,may,chow,066338239,70300,IND,12.0000,Fuji Xerox,2015-2017
+1215,leyhonglim@gmail.com,LEY HONG,LIM,017-3349133,48300,IND,0.0000,Epson,2015-2017
+1216,kenneth.tan@tago.com.my,Kenneth,Tan,+60122053819,50480,IND,8.1000,Epson,2015-2017
+1217,166778469,Teh Chee Wai,,166778469,43300,CPNY,12.0000,Brother,2015-2017
+1218,maneeta@blush-fashion.com,MANEETA,KATARI,03 78425250,40150,IND,12.0000,Print n Stick,2015-2017
+1219,tgyow23@yahoo.com.sg,YOW,TOH GEE,0127200862,73400,IND,6.3667,Epson,2015-2017
+1220,kokjoo@hotmail.com,Kok Joo,Sam,0126303469,51200,IND,12.0000,Epson,2015-2017
+1221,lookniceoptical@yahoo.com.my,Yeow Jyue,Lau,0122842688,28300,IND,12.0000,Brother,2015-2017
+1222,davidwkhor@hotmail.com,David William,Khor,60123581831,51200,IND,12.0000,HP,2015-2017
+1223,192613142,Ayesha Syahira,,192613142,63000,CPNY,12.0000,Brother,2015-2017
+1224,annalec1610@hotmail.com,LEE,ANNA,012-3130485,47500,IND,12.0000,HP,2015-2017
+1225,kwekchun@gmail.com,yap,kwek chun,067639402,70000,IND,12.0000,Epson,2015-2017
+1226,jlchan@innocel.com.my,STEPHANIE,CHAN,0122325880,47170,IND,12.0000,Epson,2015-2017
+1227,173581964,Muhammad Amin,,173581964,56100,CPNY,12.0000,Brother,2015-2017
+1228,it_hq@benden.com.my,Jason,Ooi,0122930434,43200,IND,12.0000,Epson,2015-2017
+1229,leeping@firstwin.com.my,leeping,Phuah,0351619078,41200,IND,12.0000,Epson,2015-2017
+1230,aminjo71@gmail.com,Amin,Johari,60162199910,43650,IND,12.0000,Epson,2015-2017
+1231,snoopy3090@hotmail.com,Quality Vantage Sdn Bhd,(336954 D),0379581711,46350,CPNY,0.0000,HP,2015-2017
+1232,sioh@hengsan.com.my,K.H,Sioh,0377815987,46000,IND,0.0333,Brother,2015-2017
+1233,datinnuraishah@yahoo.com,Dato',Low,0193248899,47301,IND,12.0000,Fuji Xerox,2015-2017
+1234,yuslimed@gmail.com,Yusli,Sulaiman,0173494324,53000,IND,12.0000,Epson,2015-2017
+1235,mariani_78@yahoo.com,MARIANI,JUSOH,0192407979,48020,IND,12.0000,Brother,2015-2017
+1236,cyh@aftools.com.my,CHEN,YOONHING,03-74970290,47300,IND,12.0000,Brother,2015-2017
+1237,rossulster2@gmail.com,Rosli,Said,0192266644,50603,IND,12.0000,HP,2015-2017
+1238,kennylin48@gmail.com,Kenny ,Lin ,0123281933,58200,IND,1.1000,Brother,2015-2017
+1239,yonexilsb@gmail.com,yonex international,logistic sdn bhd,0166826088,47120,CPNY,12.0000,Canon,2015-2017
+1240,reliance.acond@gmail.com,RELIANCE,AIR-COND ELECTRICAL SDN BHD,0199570490,25300,CPNY,12.0000,Brother,2015-2017
+1241,myp****@gmail.com,MYPC NETWORK,,0122083669,75250,IND,12.0000,Brother,2015-2017
+1242,kelvin@atozcomputermedia.com,Kelvin,Ng,0192204902,47150,IND,20.8667,Canon,2015-2017
+1243,hiraldoshi3085@gmail.com,Hiral,Doshi,016-2660695,40000,IND,12.0000,Brother,2015-2017
+1244,0122265798,Ong HUI Wen,,0122265798,52000,CPNY,12.0000,Brother,2015-2017
+1245,togek@hotmail.com,Markus,Oei,0122845822,47410,IND,4.7333,Brother,2015-2017
+1246,heng0502@gmail.com,Terrence,Heng,0163239922,40460,IND,12.0000,Brother,2015-2017
+1247,0123580172,Muar Hardware Machinery Sdn Bhd,,0123580172,84000,CPNY,0.0000,Brother,2015-2017
+1248,136418460,Musharaf Hassan,,136418460,55000,CPNY,12.0000,Epson,2015-2017
+1249,124803329,Tan Eng Leong,,124803329,05300,CPNY,12.0000,Epson,2015-2017
+1250,jmurni@ljt.org.my,Jurukur,Murni,0389940029,57000,IND,12.0000,HP,2015-2017
+1251,chan_christine@hotmail.com,Christine,Chan,0125200747,47400,IND,7.5000,Brother,2015-2017
+1252,hpd.auto@gmail.com,Highlight Parts Distributors,Sdn. Bhd.,60122543087,56100,CPNY,1.3333,Epson,2015-2017
+1253,maxchong83@hotmail.com,Chong,Viet Hoe,0176741028,48000,IND,12.0000,Fuji Xerox,2015-2017
+1254,johnson@cstinsure.com,Johnson ,Thian,03-22823633,59100,IND,12.0000,HP,2015-2017
+1255,sofia.hamid@gmail.com,Sofia,Abdul Hamid,0122530355,50480,IND,12.0000,Fuji Xerox,2015-2017
+1256,drselva@clinicfamilycare.com,selvarajah,sathaya,0193875767,59100,IND,12.0000,HP,2015-2017
+1257,viorobk@hotmail.com,ONG,BEE KEAN,+6012-3062287,43300,IND,0.5667,Brother,2015-2017
+1258,01112260007,Tachibana Rieko,,01112260007,47000,CPNY,12.0000,Print n Stick,2015-2017
+1259,126368302,Andreas Stegmaier,,126368302,11050,CPNY,12.0000,Brother,2015-2017
+1260,ryanclim@gmail.com,Ryan,Lim,0379565503,46100,IND,12.0000,Brother,2015-2017
+1261,ellylo@gmail.com,Elly,Lo,0168267730,88300,IND,1.0333,Epson,2015-2017
+1262,fatinazrin89@gmail.com,Nurfatin Azrin,Md Ali,+60123767181,53300,IND,12.0000,Brother,2015-2017
+1263,enxfero@gmail.com,wong,yee siew,0122987312,55200,IND,12.0000,HP,2015-2017
+1264,dariusgoh@gmail.com,Nick,Goh,03 3122 8868,42500,IND,12.0000,Brother,2015-2017
+1265,arkivcomputing@yahoo.com,Shim Chiew,Lain,012-8187073,88450,IND,12.0000,Epson,2015-2017
+1266,nmsaarchitect@gmail.com,Mohd Najib,Mohd Salleh,0192788594,32610,IND,12.0000,Canon,2015-2017
+1267,wedsport@gmail.com,Alex,Cheong,0162176818,68000,IND,12.0000,Fuji Xerox,2015-2017
+1268,ymie926@hotmail.com,Mohd Yusmie,Mohd Yusoff,0133970525,17500,IND,12.0000,Brother,2015-2017
+1269,wendy.seow@cwyap.com,Seow,Keng,60341083550/41087550,53100,IND,12.0000,Fuji Xerox,2015-2017
+1270,pho*******@hotmail.com,Phoebe,,0126765173,50490,IND,12.0000,Print n Stick,2015-2017
+1271,hassanmusharaf@gmail.com,Musharaf,Hassan,0136418460,55000,IND,12.0000,Epson,2015-2017
+1272,srsb.jtlc@gmail.com,Tan,Josephine,0163681386,47650,IND,12.0000,Brother,2015-2017
+1273,mohd.amri80@gmail.com,Mohd Amri,Mohamad Besri,+60162463630,40460,IND,12.0000,Brother,2015-2017
+1274,smarak.karam@gmail.com,KARAM SINGH,INDER SINGH,0122346077,55100,IND,12.0000,HP,2015-2017
+1275,myzone.salleh@gmail.com,Maizon,Md Salleh,0193229930,40000,IND,12.0000,Brother,2015-2017
+1276,joey_chan_2@yahoo.com,Joey,Chan,012-2189922,46400,IND,12.0000,Brother,2015-2017
+1277,wannling@gmail.com,Wann Ling,Chow,60123077661,50480,IND,12.0000,HP,2015-2017
+1278,suzilahmohamad@yahoo.com,SUZILAH,MOHAMAD,0333439911,40170,IND,12.0000,HP,2015-2017
+1279,jed.david@gmail.com,Jed,David,012-2171214,46200,IND,14.1667,Brother,2015-2017
+1280,KIMLOONG3399@HOTMAIL.COM,KIN SWEE,LEE,0198533399,91000,IND,12.0000,Brother,2015-2017
+1281,edwinwang79@gmail.com,Edwin,Wang,016-2091889,56000,IND,5.5667,Fuji Xerox,2015-2017
+1282,128288662,JONE CHUAN,,128288662,52200,CPNY,12.0000,Brother,2015-2017
+1283,teenes88@gmail.com,Teeneswary,K Jayaraman,0164708863,57100,IND,0.0000,Fuji Xerox,2015-2017
+1284,geesmailbox@gmail.com,Gary,Yew,+60122025990,50480,IND,12.0000,Brother,2015-2017
+1285,mlf_world@yahoo.com,LENG LENG,SIN,0162066606,43300,IND,12.0000,Fuji Xerox,2015-2017
+1286,sharonkml@gmail.com,Sharon,Khoo Mei Lin,0122612155,46200,IND,12.0000,Fuji Xerox,2015-2017
+1287,alif.aziz@polarisnet.com.my,Alif,Abdol Aziz,0172017241,40000,IND,0.0667,Brother,2015-2017
+1288,jeremy@evopac.com.my,Jeremy,Leong,0176670833,52200,IND,13.5667,Brother,2015-2017
+1289,0128729259,roy mah,,0128729259,98700,CPNY,12.0000,Brother,2015-2017
+1290,rozaini.yusoff@gmail.com,DATIN ROZAINI,mohd yusoff,0192275000,46000,IND,12.0000,Fuji Xerox,2015-2017
+1291,zulthani789@icloud.com,ZULKIFFLI,MOHD THANI,0197152525,53000,IND,4.5667,Fuji Xerox,2015-2017
+1292,Nurul.shafie@sg.luxottica.com,Nurul,Shafie,+6590263556,43300,IND,0.0000,Brother,2015-2017
+1293,ckyyong@gmail.com,YONG,CHEE KEONG,0122187423 / 03-90216133,43100,IND,13.3000,Canon,2015-2017
+1294,135661@gmail.com,Khe Chun,Chong,0109607321,98000,IND,1.1000,Epson,2015-2017
+1295,joel3966969@gmail.com,Joel,Leong,0123966969,60000,IND,12.0000,Fuji Xerox,2015-2017
+1296,163018587,GAIN SECURE SDN BHD,,163018587,58100,CPNY,12.0000,Brother,2015-2017
+1297,yoketheng@gsfcorp.com,Yoketheng,Low,80908080,47170,IND,12.0000,Brother,2015-2017
+1298,baadzha@gmail.com,badrul,zaman,01112384561,52100,IND,12.0000,HP,2015-2017
+1299,norwina19@gmail.com,Norwina,Mohd Nawawi,0193580656,53100,IND,12.0000,Brother,2015-2017
+1300,sylau@excelmould.com.my,LAU,SWEE YEN,0351219888,40400,IND,0.6667,HP,2015-2017
+1301,reekie.ho@gmail.com,Reekie Ho,Wai Leong,0163209907,55300,IND,7.4333,Epson,2015-2017
+1302,leelocku@yahoo.com,LEE,LOC KU,0184026813,11600,IND,0.0000,Brother,2015-2017
+1303,089212788,CHUNG KWONG SANDAKAN  SDN BHD,,089212788,90700,CPNY,12.0000,Epson,2015-2017
+1304,pssmofa@yahoo.com.my,mohd faizal,mohd fauzi,0123242176/03-51918488,40000,IND,12.0000,HP,2015-2017
+1305,ciwong@ihm.com.my,Wong ,Chee Inn,0163947846,46150,IND,12.0000,Epson,2015-2017
+1306,nowshadamin@yahoo.com,Nowshad,Amin,0193296750,43600,IND,12.0000,Canon,2015-2017
+1307,jadelimsg@hotmail.com,Jade,Lim,0123361388,47810,IND,12.0000,Brother,2015-2017
+1308,cheong.jackie@gmail.com,Unicast Engineering,Sdn Bhd,0123700822,71800,CPNY,12.0000,HP,2015-2017
+1309,atif@axsel.com.my,Atif,Masood,03-77833333,46000,IND,0.0000,Print n Stick,2015-2017
+1310,norfarahima@razipublishing.com,Norfarahima,Abdul Manap,03-27332657,59200,IND,12.0000,Brother,2015-2017
+1311,0122171010,Mohd Nazim Bin Mail,,0122171010,40150,CPNY,12.0000,Epson,2015-2017
+1312,admin@wahchan.com.my,Wah,Chan,0379575807,46100,IND,12.0000,Brother,2015-2017
+1313,syazarossidi17@gmail.com,SYAZA,ROSSIDI,0380910302,47100,IND,3.6667,Brother,2015-2017
+1314,123278363,Steve Fun,,123278363,46150,CPNY,12.0000,Epson,2015-2017
+1315,peter@vyrox.com,Peter,Teh,0165313713,43300,IND,12.0000,Epson,2015-2017
+1316,monte_carlos_30@hotmail.com,JEFFRY,YU,0165940730,43300,IND,12.0000,HP,2015-2017
+1317,sclee22@yahoo.com,LEE,SIEW CHENG,77832386,58200,IND,2.6000,Epson,2015-2017
+1318,0199964466,Zakaria Ibrahim,,0199964466,21300,CPNY,12.0000,Print n Stick,2015-2017
+1319,m.pugger@gmail.com,Keng Fai,Chen,0162631203,46400,IND,12.0000,HP,2015-2017
+1320,jed@directhere.com,Jed,David,0379560900,46200,IND,12.0000,Brother,2015-2017
+1321,max@vyrox.com,Max,Leong,0165486173,43300,IND,12.0000,Epson,2015-2017
+1322,mogansundram@gmail.com,mogana sundram,p krishnasamy,+60193345055,45000,IND,12.0000,Brother,2015-2017
+1323,lindatsg@gmail.com,Linda,Tay,0122038686,50400,IND,12.0000,Fuji Xerox,2015-2017
+1324,yinyee@fabulousmom.com,FABULOUS MOM SDN BHD,.,0380765262,43000,CPNY,9.9333,Epson,2015-2017
+1325,jazkyk@gmail.com,Jack,Liew,0163791370,52200,IND,12.0000,HP,2015-2017
+1326,biichau@supergenic.com.my,BiiChau,Tan,0173501818,47100,IND,12.0000,Canon,2015-2017
+1327,minesh7@live.com,Minesh B.,Doshi,0177777707,46000,IND,12.0000,HP,2015-2017
+1328,eve.fan@midwestkitchen.com.my,Eve,Fan,60192277019,47301,IND,12.0000,Fuji Xerox,2015-2017
+1329,info@keen.com.my,KEEN,COMPONENT INDUSTRIES SDN BHD,03-78741216,46100,CPNY,12.0000,HP,2015-2017
+1330,wendytan318@gmail.com,Wendy,Tan,90588785,57100,IND,12.0000,Brother,2015-2017
+1331,cheryl.sy@live.com,Cheryl,Ho,0122735698,47301,IND,12.0000,Brother,2015-2017
+1332,kalter38@hotmail.com,Kal Ter,Chiok,0122336632,43300,IND,12.0000,Epson,2015-2017
+1333,saiful@atozcomputermedia.com,Saiful,Ismail,016-9558523,43300,IND,0.0000,Oki,2015-2017
+1334,procoattrdsb@yahoo.com.my,Josie,Aw,603-80702755,47100,IND,12.0000,Fuji Xerox,2015-2017
+1335,0193907917,MOHD YAZID BIN ABDULLAH,,0193907917,75450,CPNY,12.0000,Brother,2015-2017
+1336,sengkuan75@gmail.com,Jeff,Yap,0351919785,40000,IND,5.4000,Epson,2015-2017
+1337,arifazizi@yahoo.com,Mohd Arif Azizi,Awang Nik,017-9873207,62050,IND,12.0000,Brother,2015-2017
+1338,talentmind@gmail.com,eric,hew,0163286922,47160,IND,12.0000,Brother,2015-2017
+1339,yo_kok@hotmail.com,Kok,Yong On,0123292052,43300,IND,12.0000,Brother,2015-2017
+1340,keng.lh@givi.com.my,GIVI ASIA ,SDN BHD,0194587522,48300,CPNY,12.0000,HP,2016-2017
+1341,wsiewkee@gmail.com,SIEW KEE,WONG,0193353790,46200,IND,12.0000,Fuji Xerox,2016-2017
+1342,johan.ipsb@gmail.com,Johanizan Bin,Azizan,0193936858,43000,IND,12.0000,HP,2016-2017
+1343,chiko_waa@kamming.com.my,kok wah,chee,012-3274936,51200,IND,12.0000,HP,2016-2017
+1344,info@abworld.com.my,AB Worldwide Sdn Bhd,Ms Kong/ Ng,56363829,47500,CPNY,12.0000,Fuji Xerox,2016-2017
+1345,mervin@adverts-group.com,Mervin,Wong,016-4457335,53300,IND,12.0000,Epson,2016-2017
+1346,nurulhazimahmustafa@gmail.com,Nurul,Hazimah,0177800207,43300,IND,12.0000,Epson,2016-2017
+1347,lishin@thecookinghouse.com,Edyth,Ban,0123951243,59000,IND,12.0000,Fuji Xerox,2016-2017
+1348,beelan@hometowncoffee.com.my,LOH,BEE LAN,0162289176,46400,IND,12.0000,HP,2016-2017
+1349,pulautambisan08@gmail.com,Mohd Ramizi ,Mat Yasin,0139519743,17510,IND,12.0000,Brother,2016-2017
+1350,jeev@domecafe.com.my,DOME CAFE SDN BHD,353069-U,0175005058,56100,CPNY,6.9000,Brother,2016-2017
+1351,jasri@jds-usaha.com.my,Jasri,Ishak,0123935905,47100,IND,0.0000,HP,2016-2017
+1352,kingsiong@hotmail.com,yong,king siong,0163155369,52200,IND,10.2667,Canon,2016-2017
+1353,eunicetansn@gmail.com,EUNICE,TAN,0122775535,43500,IND,12.0000,Epson,2016-2017
+1354,info@rozel.com.my,DAVID,LEE,0124943732,40150,IND,2.2000,Epson,2016-2017
+1355,mail.eddielee@gmail.com,eddie,lee,0164223168,47170,IND,12.0000,Brother,2016-2017
+1356,0125550797,Mohd Rawi Bin Md Suffi,,0125550797,10150,CPNY,12.0000,Epson,2016-2017
+1357,angieyoke@ksglobalcargo.com,Angie ,Yoke,012-394 3968,47100,IND,12.0000,HP,2016-2017
+1358,boonkhong@gmail.com,Boon Khong,Foo,0173631535,50088,IND,12.0000,Brother,2016-2017
+1359,tehmenghui@hotmail.com,Teh,Meng Hui,0163350423,46300,IND,12.0333,Epson,2016-2017
+1360,lydiatimbah@kop-keramat.com,lydia,timbah abdullah,0138106620,88100,IND,12.0000,Brother,2016-2017
+1361,oswinlo_85@hotmail.com,lo,wei ching,0122753326,55200,IND,12.0000,HP,2016-2017
+1362,gtmintegration@gmail.com,Involve,Asia,0179750886,58000,IND,12.0000,Brother,2016-2017
+1363,sweetangeling@gmail.com,ShukLing,Fong,0163230531,90000,IND,12.0000,Fuji Xerox,2016-2017
+1364,yv_liew@yahoo.com,yvonne,liew,0123132899,47810 ,IND,12.0000,Brother,2016-2017
+1365,yzsb_kim@yahoo.com,Ley Kim,Looi,0172239255,68100,IND,16.7333,Fuji Xerox,2016-2017
+1366,173418992,RAYE TAN,,173418992,47160,CPNY,12.0000,Brother,2016-2017
+1367,jasminetck@gmail.com,Jasmine,Tan,0122952418,47810,IND,5.7333,Fuji Xerox,2016-2017
+1368,390553230,AWS Technologies Sdn Bhd,,390553230,57000,CPNY,12.0000,Brother,2016-2017
+1369,celynclu@yahoo.com,Celyn,Lu,0124812102,14000,IND,12.0000,Brother,2016-2017
+1370,viorobk@hotmail.com,ONG,BEE KEAN,+6012-3062287,43300,IND,0.5667,Brother,2016-2017
+1371,info@tlg.com.my,Edwin,Ang Simin,0123279005,47400,IND,12.0000,Brother,2016-2017
+1372,xuxianzhi@gmail.com,xianzhi,xu,013-5408888,59200,IND,12.0000,HP,2016-2017
+1373,kenneth.tan@tago.com.my,Kenneth,Tan,+60122053819,50480,IND,8.1000,Epson,2016-2017
+1374,nadiaemily@gmail.com,Nadia,Emily,0123015719,40150,IND,12.0000,Brother,2016-2017
+1375,borneocrops@yahoo.com,Ivy,Pang,6089237900,90000,IND,2.8000,HP,2016-2017
+1376,admin@fk.my,NURRUL SALIA,SALEH,0136458698,59200,IND,12.0000,Brother,2016-2017
+1377,fifi@naramedispa.com,faezah,yusop,0196761604,59000,IND,12.0000,Fuji Xerox,2016-2017
+1378,eugene@dontpanik.com,Eugene,Khoo,012.2777.568,47300,IND,12.0000,Brother,2016-2017
+1379,kokjoo@hotmail.com,Kok Joo,Sam,0126303469,51200,IND,12.0000,Epson,2016-2017
+1380,peiyan.lim@visionary.com.my,Ms Lim,Visionary Solutions,0377105877,47400,IND,1.7000,Epson,2016-2017
+1381,sllim000@hotmail.com,Siew Lian,Lim,0351923228,40400,IND,12.0000,HP,2016-2017
+1382,admin@sage3.com,Valued Customer,Sage 3 Capital Sdn Bhd,0320118268,50490,CPNY,12.0000,HP,2016-2017
+1383,133977218,Nor Afzan Zalila,,133977218,91000,CPNY,12.0000,Brother,2016-2017
+1384,jpk@gebsss.com,John,Kortum,0192599261,43300,IND,12.0000,Epson,2016-2017
+1385,192613142,Ayesha Syahira,,192613142,63000,CPNY,12.0000,Brother,2016-2017
+1386,annalec1610@hotmail.com,LEE,ANNA,012-3130485,47500,IND,12.0000,HP,2016-2017
+1387,akhili.salamat@gmail.com,Akhili,Salamat,0123754020,48000,IND,12.0000,Epson,2016-2017
+1388,info@kawalanbumi.com,choo,ching,0122113490,47100,IND,4.9667,HP,2016-2017
+1389,codename29@hotmail.com,Yeo,Sing Ho,016-6012585,47500,IND,12.0000,Epson,2016-2017
+1390,1115712289,Huzaifah Othman,,1115712289,68000,CPNY,12.0000,Brother,2016-2017
+1391,stephanie@natselane.com,Stephanie,Choong,0129136488,47810,IND,12.0000,Brother,2016-2017
+1392,0168881115,Diorson Liu,,0168881115,93350,CPNY,12.0000,Fuji Xerox,2016-2017
+1393,anthony@leepthye.com.my,Anthony,Tan,0127735399,81400,IND,12.0000,HP,2016-2017
+1394,ber_xdwp@yahoo.com,Xavier,David,6019 7750559,81750,IND,12.0000,Canon,2016-2017
+1395,su-shzan@rocketmail.com,su-shzan,patt,+60122213056,51100,IND,12.0000,Brother,2016-2017
+1396,farah@brandworth.com.my,Farah,Hamid,0377271500,47820,IND,12.0000,HP,2016-2017
+1397,167826207,Adeline Lim,,167826207,81100,CPNY,12.0000,Epson,2016-2017
+1398,danen@worldexasia.com,Soo,Hu Seng,0169689977,47810,IND,12.0000,Brother,2016-2017
+1399,173581964,Muhammad Amin,,173581964,56100,CPNY,12.0000,Brother,2016-2017
+1400,kenking66@yahoo.com,Kevin,Chan,0176658189,46300,IND,12.0000,Epson,2016-2017
+1401,suan170@hotmail.com,Kristofer,Ho,0126813182,40150,IND,12.0000,Epson,2016-2017
+1402,bum**************@gmail.com,BUMI KASTURI SDN BHD,,092771876,28000,CPNY,12.0000,Brother,2016-2017
+1403,hupfatt_lim@hotmail.com,LIM,MEE CHIN,012-528 2141,47000,IND,12.0000,Epson,2016-2017
+1404,gwt_1@hotmail.com,Gan,Wei Tat,0105660096,52200,IND,7.4000,Brother,2016-2017
+1405,haymeibrahim@gmail.com,Hayme,Ibrahim,0126690974,59200,IND,12.0000,Epson,2016-2017
+1406,kengseow@hotmail.com,Keng,seow,60341083550,53100,IND,12.0000,Fuji Xerox,2016-2017
+1407,tyantan@vivanetwork.com.my,Tze Yan,Tan,03 6188 9353,68100,IND,6.2333,Brother,2016-2017
+1408,kristalwaja@yahoo.com,Roslan,Abdul,0123334446,57000,IND,12.0000,Brother,2016-2017
+1409,bshware@gmail.com,Abby,Tan,0123978498,43300,IND,0.0000,Epson,2016-2017
+1410,nswagency72@gmail.com,chuah,sp,03 6189 2611 /011 1113 1163,68100,IND,0.0000,Brother,2016-2017
+1411,jay_el13@hotmail.com,John Haw,Lee,0193199301,43300,IND,12.0000,Brother,2016-2017
+1412,khthong@audiosynergy.com.my,Thong,Kok Hoow,0123771230,40150,IND,13.9000,Brother,2016-2017
+1413,davidteoh_90@hotmail.com,David,Teoh,016-4824542,50480,IND,2.9667,Brother,2016-2017
+1414,datinnuraishah@yahoo.com,Dato',Low,0193248899,47301,IND,12.0000,Fuji Xerox,2016-2017
+1415,woeiren@hotmail.com,chong woei,ren,6016-7737556,81000,IND,12.0000,Epson,2016-2017
+1416,info@metrohm.com.my,Metrohm (Malaysia) Sdn Bhd,.,0192164886,47301,CPNY,2.0333,HP,2016-2017
+1417,annie@meritpower.com.my,Chiang,Annie,03-79583788,46200,IND,12.0000,Epson,2016-2017
+1418,jkpns@yahoo.com,yoong,fatt,61421081,47810,IND,7.7000,Brother,2016-2017
+1419,jed.david@gmail.com,Jed,David,012-2171214,46200,IND,14.1667,Brother,2016-2017
+1420,vyvyanhoh@gmail.com,KIAM POAN,HOH,0162107575,47100,IND,12.0000,HP,2016-2017
+1421,kennylin48@gmail.com,Kenny ,Lin ,0123281933,58200,IND,12.0000,Brother,2016-2017
+1422,admin@maxxmedia.com.my,Ms,Siti,088-719787,88300,IND,0.2000,Print n Stick,2016-2017
+1423,clovertechgarage@gmail.com,MAY,WONG,51228020,47500,IND,12.0000,HP,2016-2017
+1424,TERENCE@SALURANPASIFIK.COM,terence,ngiaw,0129899603,25200,IND,6.9667,Print n Stick,2016-2017
+1425,reliance.acond@gmail.com,RELIANCE,AIR-COND ELECTRICAL SDN BHD,0199570490,25300,CPNY,12.0000,Brother,2016-2017
+1426,myp****@gmail.com,MYPC NETWORK,,0122083669,75250,IND,12.0000,Brother,2016-2017
+1427,0127071177,Alvin Tan Hock Hin,,0127071177,81100,CPNY,12.0000,Brother,2016-2017
+1428,kelvin@atozcomputermedia.com,Kelvin,Ng,0192204902,43300,IND,12.0000,Canon,2016-2017
+1429,klinikdrsuraya@gmail.com,Amin,Johari,0389203141,43650,IND,0.9000,Epson,2016-2017
+1430,snoopy3090@hotmail.com,Quality Vantage Sdn Bhd,(336954 D),0379581711,46350,CPNY,0.0000,HP,2016-2017
+1431,0173314611,Spektra Murni Sdn Bhd,,0173314611,47500,CPNY,12.0000,Brother,2016-2017
+1432,AUCONPRO@YAHOO.COM,THYE HENG,TEE,0162033338,47610,IND,12.0000,HP,2016-2017
+1433,0126233813,Simon Hiew,,0126233813,55100,CPNY,12.0000,Epson,2016-2017
+1434,dnayu85@yahoo.com,DAYANG NOOR AZURA,BINTI ABANG DAUD,0128816215,93050,IND,12.0000,Brother,2016-2017
+1435,smkl9294@hotmail.com,JANE ,TAN,0122884785,51200,IND,12.0000,Oki,2016-2017
+1436,enetsolution2015@gmail.com,CHEE MUN,CHONG,0176266755,56100,IND,5.9667,Print n Stick,2016-2017
+1437,tangpohyee@gmail.com,Eri,Tang,0182551848,47300,IND,12.0000,Brother,2016-2017
+1438,0122831818,Su Ping,,0122831818,40100,CPNY,12.0000,Brother,2016-2017
+1439,valenckj@gmail.com,Valen ,Cheng,0378872702,47301 ,IND,12.0000,Brother,2016-2017
+1440,peter@vyrox.com,Peter,Teh,0165313713,43300,IND,12.0000,Epson,2016-2017
+1441,evie.heng@gmail.com,Streamline Resources Sdn bhd,.,0122685888,59100,CPNY,12.0000,Brother,2016-2017
+1442,heng0502@gmail.com,Terrence,Heng,0163239922,40460,IND,12.0000,Brother,2016-2017
+1443,sls_yap@yahoo.com,Yap,Alicia,0122348987,40150,IND,0.0000,Epson,2016-2017
+1444,fauziah@synergyap.com,Fauziah ,Abd Rahman,0123660214,46050,IND,12.0000,Print n Stick,2016-2017
+1445,shuchuen@hotmail.com,Lim,Shu Chuen,0122133280,60000,IND,12.0000,HP,2016-2017
+1446,124803329,Tan Eng Leong,,124803329,05300,CPNY,12.0000,Epson,2016-2017
+1447,william_kfc@yahoo.com,fook chun,kong,0197152221,81300,IND,12.0000,Brother,2016-2017
+1448,limwaimun@hotmail.com,Wai Mun,Lim,0126661622,48000,IND,12.0000,Epson,2016-2017
+1449,hpd.auto@gmail.com,Highlight Parts Distributors,Sdn. Bhd.,60122543087,56100,CPNY,1.3333,Epson,2016-2017
+1450,nikpawi@yahoo.com,Nik Sapawi,Nik Salleh,0199853454,24300,IND,12.0000,Fuji Xerox,2016-2017
+1451,enochkhoo.pa@ek.com.my,Rannie Chu,Sze Lui,03-74905707,50480,IND,0.0000,Print n Stick,2016-2017
+1452,johnson@cstinsure.com,Johnson ,Thian,03-22823633,59100,IND,12.0000,HP,2016-2017
+1453,0122083232,Lim Ca Ee,,0122083232,43200,CPNY,12.0000,Brother,2016-2017
+1454,joanchin@orc.com.my,Chin,Kee Ying,03-40650338,51000,IND,0.0000,HP,2016-2017
+1455,marcosuriasungaibuloh@gmail.com,marcosuria agency sdn bhd,chan,03-61434623,47000,CPNY,12.0000,Epson,2016-2017
+1456,muzahid@hotmail.com,mohd muzahid,md nor,0132768448,60000,IND,12.0000,Brother,2016-2017
+1457,csliew@gmail.com,Chee Sun,Liew,0379676357,40460,IND,12.0000,Epson,2016-2017
+1458,pang@faxcore.com,Priscilla,Ang,0163646411,50470,IND,12.0000,Brother,2016-2017
+1459,alice.chan@harvest-time.com.my,Alice,Chan ,0379548280,46350,IND,12.0000,Brother,2016-2017
+1460,siewyy57@gmail.com,SIEW,YOKE YEE,+60123319178,47170,IND,12.0000,Brother,2016-2017
+1461,susan@marbleemporium.com.my,Susan,Liew,7832 1126,40150,IND,12.0000,Fuji Xerox,2016-2017
+1462,126368302,Andreas Stegmaier,,126368302,11050,CPNY,12.0000,Brother,2016-2017
+1463,01112260007,Tachibana Rieko,,01112260007,47000,CPNY,12.0000,Print n Stick,2016-2017
+1464,fyunus@mongooseasia.com,SITI FAZILLAH,YUNUS,0195989791,50450,IND,2.7000,Print n Stick,2016-2017
+1465,simwui@yahoo.com,TIEW,SIM WUI,0193597576,45500,IND,12.0000,Brother,2016-2017
+1466,0126090103,LEE VUI YONG,,0126090103,91000,CPNY,12.0000,Epson,2016-2017
+1467,patricia_boey@yahoo.com,H.E.,Cheong,0356212595,47500,IND,12.0000,Brother,2016-2017
+1468,cschuah@novationresources.com,JAMES,CHUAH,0162204261,46000,IND,12.0000,Brother,2016-2017
+1469,william929@yahoo.com,William,Lee,0123829971,47301,IND,12.5000,Fuji Xerox,2016-2017
+1470,wej1222@yahoo.com,Andrew,Wong,0355694588,40400,IND,5.9333,Epson,2016-2017
+1471,sharon@lte.com.my,LTE,Engineers Sdn Bhd,0168882630,47301,CPNY,12.0000,HP,2016-2017
+1472,ongchailing@gmail.com,Ling,Ong,0126315132,40460,IND,12.0000,Brother,2016-2017
+1473,aminulla.khan.ak@gmail.com,aminulla,khan,0173331582,47000,IND,12.0000,HP,2016-2017
+1474,ckfong2020@gmail.com,Will ,Chow ,0392806488,68000,IND,12.0000,Fuji Xerox,2016-2017
+1475,leongming@gmail.com,Leong Ming,Hau,066581968,71960,IND,0.0000,Fuji Xerox,2016-2017
+1476,cheetongang@gmail.com,Chee Tong,Ang,0123219360,51200,IND,7.8333,Brother,2016-2017
+1477,wytan@rts.com.my,TAN,WEE YO,0127890410,56100,IND,6.4667,Brother,2016-2017
+1478,botalayhui_u_know@hotmail.com,Lay Hui,Tan,016-6239922,41150,IND,5.9333,Brother,2016-2017
+1479,haiaow@live.com,CHUAN HAI,AOW,013-9323107,28000,IND,12.0000,Brother,2016-2017
+1480,089212788,CHUNG KWONG SANDAKAN  SDN BHD,,089212788,90700,CPNY,12.0000,Epson,2016-2017
+1481,chongsaikhong@gmail.com,Ivan,Chong,016-3218832,46100,IND,12.0000,Brother,2016-2017
+1482,nmsaarchitect@gmail.com,Mohd Najib,Mohd Salleh,0192788594,32610,IND,12.0000,Canon,2016-2017
+1483,w_jack@yahoo.com,Jack,Goh,0162840872,47500,IND,12.0000,Brother,2016-2017
+1484,126220098,Jayne EU,,126220098,46000,CPNY,12.0000,Brother,2016-2017
+1485,geraldine.tansw@gmail.com,Geraldine,Tan,+603 6034 5579,48020,IND,12.0000,HP,2016-2017
+1486,wendy.seow@cwyap.com,Seow,Keng,60341083550/41087550,53100,IND,12.0000,Fuji Xerox,2016-2017
+1487,avian.junk@gmail.com,Avian,Amirsham,0123953013,52200,IND,12.0000,Brother,2016-2017
+1488,joyceleesl@hapseng.com.my,Joyce Lee ,Shee Leng,03-21169284,50250,IND,12.0000,HP,2016-2017
+1489,ymie926@hotmail.com,Mohd Yusmie,Mohd Yusoff,0133970525,17500,IND,12.0000,Brother,2016-2017
+1490,wln8454@gmail.com,Sazali,Mohammad Nadzri,0193240634,50460,IND,12.0000,Brother,2016-2017
+1491,0060128398749,Prof Peter Barling,,0060128398749,57000,CPNY,12.0000,Brother,2016-2017
+1492,howkok@hotmail.com,Chi How,Kok,+60175320233,41200,IND,12.0000,HP,2016-2017
+1493,hassanmusharaf@gmail.com,Musharaf,Hassan,0136418460,55000,IND,12.0000,Epson,2016-2017
+1494,0129532120,Yvette Haeggmark,,0129532120,10470,CPNY,12.0000,Brother,2016-2017
+1495,mohd.amri80@gmail.com,Mohd Amri,Mohamad Besri,+60162463630,40460,IND,12.0000,Brother,2016-2017
+1496,myndywong8348@gmail.com,May Kwan,Wong,0123934838,43300,IND,11.3000,HP,2016-2017
+1497,amirhamzahjaafar@gmail.com,Amir Hamzah,Jaafar,0124008687,42450,IND,12.0000,HP,2016-2017
+1498,suping1818@gmail.com,Su Ping,Yap,0122831818,40100,IND,12.0000,Brother,2016-2017
+1499,smarak.karam@gmail.com,KARAM SINGH,INDER SINGH,0122346077,55100,IND,12.0000,HP,2016-2017
+1500,librachew9966@gmail.com,FION,CHEW,0122352732,58100,IND,12.0000,Canon,2016-2017
+1501,fatinazrin89@gmail.com,Nurfatin Azrin,Md Ali,+60123767181,53300,IND,12.0000,Brother,2016-2017
+1502,myzone.salleh@gmail.com,Maizon,Md Salleh,0193229930,40000,IND,12.0000,Brother,2016-2017
+1503,valentinojohn@hotmail.com,Johnson ,Lim,012-2236829,55100,IND,12.0000,Epson,2016-2017
+1504,vfllim@gmail.com,Vivien ,lim,012 2053187,43300,IND,12.0000,HP,2016-2017
+1505,leon_vortex@yahoo.com,Leon,Sit,0125220081,47800,IND,12.0000,HP,2016-2017
+1506,136418460,Musharaf Hassan,,136418460,55000,CPNY,12.0000,Epson,2016-2017
+1507,tgyow23@yahoo.com.sg,YOW,TOH GEE,0127200862,73400,IND,6.3667,Epson,2016-2017
+1508,limxying@gmail.com,XINYING,LIM,0129271048,47500,IND,12.0000,Print n Stick,2016-2017
+1509,kuchunlian@gmail.com,Ku,Chun Lian,0127923932,58200,IND,12.0000,Fuji Xerox,2016-2017
+1510,ace@aerogroup.com.my,HC,LOH,0163287363,71800,IND,4.3333,Brother,2016-2017
+1511,recopylau@gmail.com,Kwong Nee,LAU,60126387883,73000,IND,12.0000,HP,2016-2017
+1512,jasminekong_mvista@yahoo.com,CARMIN,LAM,018-2911 809,47100,IND,8.8667,Epson,2016-2017
+1513,pesal1980@gmail.com,mohd faisal,mohd aris,60133888533,70400,IND,12.0000,Fuji Xerox,2016-2017
+1514,0123383585,Robin Tan,,0123383585,51200,CPNY,12.0000,Brother,2016-2017
+1515,pkf@pwinteriordesign.com.my,Chong,Yoke Choi,0389641099,43300,IND,12.0000,Epson,2016-2017
+1516,KIMLOONG3399@HOTMAIL.COM,KIN SWEE,LEE,0198533399,91000,IND,12.0000,Brother,2016-2017
+1517,alven8@gmail.com,Alven ,Loh,+60122342345,56100,IND,12.0000,Epson,2016-2017
+1518,edwinwang79@gmail.com,Edwin,Wang,016-2091889,56000,IND,5.5667,Fuji Xerox,2016-2017
+1519,matamoon@mac.com,Yulina,Baharuddin,+60122900566,55000,IND,0.1667,Brother,2016-2017
+1520,128288662,JONE CHUAN,,128288662,52200,CPNY,12.0000,Brother,2016-2017
+1521,enxfero@gmail.com,wong,yee siew,0122987312,55200,IND,12.0000,HP,2016-2017
+1522,gwokiong@neptuneasia.com.my,GWO KIONG,HO,0128337228,87000,IND,1.5333,Brother,2016-2017
+1523,teenes88@gmail.com,Teeneswary,K Jayaraman,0164708863,57100,IND,0.0000,Fuji Xerox,2016-2017
+1524,hermandolmat@yahoo.com,Herman,Dolmat,019-2834488,48100,IND,12.0000,HP,2016-2017
+1525,cheryl.sy@live.com,Cheryl,Ho,0122735698,47301,IND,12.0000,Brother,2016-2017
+1526,60127712200,LIM WOEI MING,,60127712200,81100,CPNY,12.0000,Brother,2016-2017
+1527,+60122566659,Joey Caisse,,+60122566659,50480,CPNY,12.0000,Canon,2016-2017
+1528,muhilen@gmail.com,Muhilen ,Genesan,+60379318220,46200,IND,3.8333,Epson,2016-2017
+1529,mustafar@ieee.org,Mustafar Kamal,Hamzah,0148376007,40000,IND,11.4667,HP,2016-2017
+1530,sharonkml@gmail.com,Sharon,Khoo Mei Lin,0122612155,46200,IND,12.0000,Fuji Xerox,2016-2017
+1531,alif.aziz@polarisnet.com.my,Alif,Abdol Aziz,0172017241,40000,IND,0.0667,Brother,2016-2017
+1532,jeremy@evopac.com.my,Jeremy,Leong,0176670833,48000,IND,12.0000,Brother,2016-2017
+1533,lw.mpsi@gmail.com,lai wan,chan,0162020447,40150,IND,12.0000,HP,2016-2017
+1534,0122265798,Ong HUI Wen,,0122265798,52000,CPNY,12.0000,Brother,2016-2017
+1535,0128729259,roy mah,,0128729259,98700,CPNY,12.0000,Brother,2016-2017
+1536,xde*****@yahoo.com,Ismail Ali,,0166843656,71700,IND,12.0000,Epson,2016-2017
+1537,rayhsy@yahoo.com,RAYMOND,YAP,0126711672,41200,IND,12.0000,HP,2016-2017
+1538,thying33@gmail.com,Ying Thying,Wong,0126062933,46350,IND,12.0000,Brother,2016-2017
+1539,faesal09@gmail.com,faesal,amar,0193074028,42300,IND,12.0000,Epson,2016-2017
+1540,pete.low@gmail.com,peter,low,+60162011165,43300,IND,12.0000,Fuji Xerox,2016-2017
+1541,estherleong86@gmail.com,Esther Leong,Ai Ping,0169214715,56000,IND,12.0000,Brother,2016-2017
+1542,cynthiatiang@gmail.com,Cynthia,Tiang,0123127117,47160,IND,4.6667,HP,2016-2017
+1543,ckyyong@gmail.com,YONG,CHEE KEONG,0122187423 / 03-90216133,43100,IND,12.0000,Canon,2016-2017
+1544,formlite@yahoo.com,Yvonne,Yew,0169963626,57000,IND,3.0667,Print n Stick,2016-2017
+1545,ritzwallcovering@gmail.com,hon, dan john,03-80221688,47500,IND,12.0000,Epson,2016-2017
+1546,135661@gmail.com,Khe Chun,Chong,0109607321,98000,IND,12.0000,Epson,2016-2017
+1547,lizaina@phuturephlow.com,Lizaina,Azmir,03 77292369,47800,IND,12.0000,Brother,2016-2017
+1548,MALIDA.MARJAN@GMAIL.COM,MALIDA,MARJAN,0193303686,40460,IND,12.0000,HP,2016-2017
+1549,sandra.corrtrol@gmail.com,Sandra,Phan,60380682616,47120,IND,7.0333,Canon,2016-2017
+1550,194177788,hj abdullah bin hj abdul wahab,,194177788,33310,CPNY,12.0000,Fuji Xerox,2016-2017
+1551,166778469,Teh Chee Wai,,166778469,43300,CPNY,12.0000,Brother,2016-2017
+1552,awyongcarl@gmail.com,AW YONG,KIN MENG,+60163232383,52200,IND,12.0000,HP,2016-2017
+1553,jos*******@jocom.my,Joshua sew,,0123399937,59200,IND,12.0000,Fuji Xerox,2016-2017
+1554,admin@trustport.com.my,Md Danial,Md Yusoff,+60374976447,47820,IND,0.0000,OEM,2016-2017
+1555,0174338996,Mc Ng,,0174338996,10050,CPNY,12.0000,Brother,2016-2017
+1556,llina287@gmail.com,Ash lina ,Abdul Rahman,0168216221,87000,IND,0.0333,Brother,2016-2017
+1557,ayeotan@gmail.com,Ann,Yeo,0123352863,51200,IND,12.0000,HP,2016-2017
+1558,chunchong97@hotmail.com,Wade,Poh,0162458017,53200,IND,12.0000,HP,2016-2017
+1559,norwina19@gmail.com,Norwina,Mohd Nawawi,0193580656,53100,IND,12.0000,Brother,2016-2017
+1560,m.zainuddin@lth.gov.my,MOHD ZAINUDDIN,HARON,0183800732,30000,IND,0.6667,Brother,2016-2017
+1561,sylau@excelmould.com.my,LAU,SWEE YEN,0351219888,40400,IND,0.6667,HP,2016-2017
+1562,wern@autodetailer.co,Wern Wern,Ling,0129619900,46200 ,IND,12.0000,Brother,2016-2017
+1563,jothie@saturnpyro.com,Saravana Jothi,Arumugam,073574001,81100,IND,0.7333,HP,2016-2017
+1564,drsaravana5@yahoo.com,saravana,kumar,03-32503323,42200,IND,12.0000,Brother,2016-2017
+1565,kmhow@bitalifesc.com.my,KIAN MING,HOW,603-79608286,46300,IND,12.0000,HP,2016-2017
+1566,173696069,Artem Sazykin,,173696069,50450,CPNY,12.0000,Brother,2016-2017
+1567,sales@rekahasil.com.my,Emily,Lim PC,0122074880,47301,IND,12.0000,Fuji Xerox,2016-2017
+1568,wanchunmanis@yahoo.com,ZAIDAH ,MOHD SALLEH,0192261489,57000,IND,0.0000,Brother,2016-2017
+1569,alanlee9898@gmail.com,alan,lee,0172585186,56000,IND,1.0333,HP,2016-2017
+1570,sioh@hengsan.com.my,K.H,Sioh,0377815987,46000,IND,0.0333,Brother,2016-2017
+1571,apr_mj@hotmail.com,April,Jeremiah,0129694034,47301,IND,12.0000,Epson,2016-2017
+1572,jackliong@gmail.com,Jack,Liong,0166600120,43300,IND,9.8667,Fuji Xerox,2016-2017
+1573,bluesooi@hotmail.com,hektor,ooi,0164057329,47600,IND,0.0333,Brother,2016-2017
+1574,siellchoay@yahoo.com,Irene,Wong,0123067878,40400,IND,12.0000,Canon,2016-2017
+1575,ong.kyw@gmail.com,Kevin,Ong,0123051833,40100,IND,4.5333,HP,2016-2017
+1576,ciwong@ihm.com.my,Wong ,Chee Inn,0163947846,46150,IND,12.0000,Epson,2016-2017
+1577,talentmind@gmail.com,eric,hew,0163286922,47160,IND,12.0000,Brother,2016-2017
+1578,maychin.ly@gmail.com,May,Chin,60123762132,59200,IND,12.0000,Brother,2016-2017
+1579,ych@ychhyd.com,tan ,ai wah,03-89413599,43300,IND,3.4333,Brother,2016-2017
+1580,nowshadamin@yahoo.com,Nowshad,Amin,0193296750,43600,IND,12.0000,Canon,2016-2017
+1581,jadelimsg@hotmail.com,Jade,Lim,0123361388,47810,IND,12.0000,Brother,2016-2017
+1582,ALONGDIX@GMAIL.COM,ABD RAZAK,OMAR,0122776743,81700,IND,12.0000,HP,2016-2017
+1583,tan.tkm@gmail.com,Terence,Tan,0162081742,47170,IND,12.0000,Brother,2016-2017
+1584,atif@axsel.com.my,Atif,Masood,03-77833333,46000,IND,0.0000,Print n Stick,2016-2017
+1585,yonexilsb@gmail.com,yonex international,logistic sdn bhd,0166826088,47120,CPNY,12.0000,Canon,2016-2017
+1586,indraponnudurai@gmail.com,Indra ,Ponnudurai,0178830984,46000,IND,12.0000,Brother,2016-2017
+1587,norfarahima@razipublishing.com,Norfarahima,Abdul Manap,03-27332657,59200,IND,12.0000,Brother,2016-2017
+1588,0122171010,Mohd Nazim Bin Mail,,0122171010,40150,CPNY,12.0000,Epson,2016-2017
+1589,admin@wahchan.com.my,Wah,Chan,0379575807,46100,IND,12.0000,Brother,2016-2017
+1590,slhuong@axonscientific.com,HUONG,SIEW LING,03-89451482,43300,IND,12.0000,Brother,2016-2017
+1591,sitisarahhilmi@gmail.com,Sarah,Hilmi,0122606434,47810,IND,12.0000,HP,2016-2017
+1592,123278363,Steve Fun,,123278363,46150,CPNY,12.0000,Epson,2016-2017
+1593,2274529556@qq.com,Selina,Wong,+60126858553,50450,IND,1.4000,Fuji Xerox,2016-2017
+1594,graceyap79@hotmail.com,Grace,Yap,0122907803,43300,IND,12.0000,Brother,2016-2017
+1595,pho*******@hotmail.com,Phoebe,,0126765173,50490,IND,12.0000,Print n Stick,2016-2017
+1596,sheelatpsfm@gmail.com,sheela,palanisamy,0123673424,44300,IND,12.0000,Fuji Xerox,2016-2017
+1597,pohlian@yahoo.com,KGP Enterprise,JOAN TAN,0123282179,52100,IND,12.0000,Fuji Xerox,2016-2017
+1598,Raudhah.Nubli@roland.com,yukihiro ,morohashi,0124821021,42000,IND,5.6000,Epson,2016-2017
+1599,danensoo@yahoo.com,Worldex Trade Media Sdn Bhd,Worldex Trade Media Sdn Bhd,0163880998,47810,CPNY,12.0000,Brother,2016-2017
+1600,shane89266@hotmail.com,CS,Tan,0173303850,46150,IND,7.2000,Epson,2016-2017
+1601,0126232098,Nick Liu,,0126232098,70300,CPNY,12.0000,Brother,2016-2017
+1602,0199964466,Zakaria Ibrahim,,0199964466,21300,CPNY,12.0000,Print n Stick,2016-2017
+1603,baochem.group@gmail.com,Jinn Su,Ng,0193264469,47500,IND,12.0000,Brother,2016-2017
+1604,chua_jc@yahoo.com.sg,JC,Chua,03-78807480,47301,IND,2.6333,HP,2016-2017
+1605,liyanashuib@gmail.com,Nor Liyana,Mohd Shuib,0196649440,50603,IND,12.0000,Fuji Xerox,2016-2017
+1606,kajue3bl@gmail.com,Benny,Ling,0165227618,96000,IND,12.0000,Epson,2016-2017
+1607,ong@logiqube.com,KS ,Ong,60163289797,47301,IND,12.0000,Epson,2016-2017
+1608,nurafiq@uthm.edu.my,MUHAMMAD NUR AFIQ,JOHARI,01110082990,86400,IND,12.0000,Brother,2016-2017
+1609,sarah@oxyhin.com.my,sarah,loh,016-2218359,46200,IND,10.6000,Epson,2016-2017
+1610,it.purchasing@adv-fusionex.com,Adv Fusionex Sdn Bhd,(Jack Goh),03-77115200,46200,CPNY,1.6333,Brother,2016-2017
+1611,anter.tey@gmail.com,Anter,Tey,012-8010188,88820,IND,12.0000,Brother,2016-2017
+1612,lindatsg@gmail.com,Linda,Tay,0122038686,50400,IND,12.0000,Fuji Xerox,2016-2017
+1613,yinyee@fabulousmom.com,Fabulous Mom Sdn Bhd,.,0380765262,47100,CPNY,12.0000,Epson,2016-2017
+1614,elena@writebest.com,Elena ,Kwok,0126339282,43100,IND,4.6000,Brother,2016-2017
+1615,admin@mokandco-eng.com,Gary,Mok,012-2176922,46100,IND,1.2000,Fuji Xerox,2016-2017
+1616,0177872401,mohamad nizam bin ghani,,0177872401,81200,CPNY,12.0000,Brother,2016-2017
+1617,biichau@supergenic.com.my,BiiChau,Tan,0173501818,47100,IND,12.0000,Canon,2016-2017
+1618,0125155336,Anne Kee,,0125155336,47301,CPNY,12.0000,Epson,2016-2017
+1619,soopakmun@gmail.com,Pak Mun,Soo,0123389698,40150,IND,12.0000,Brother,2016-2017
+1620,jft@codingmalaysia.com,Jing Fen,Tan,60123271780,40460,IND,12.0000,Epson,2016-2017
+1621,kam@atapatwork.com,Kamini,Jayamani,60162202154,41100,IND,0.0000,Fuji Xerox,2016-2017
+1622,smsvcstn@gmail.com,Chow,Jason,0123300660,47400,IND,12.0000,Fuji Xerox,2016-2017
+1623,ytpui1@gmail.com,Yuh Tzer,Pui,+60138062770,98000,IND,0.0000,Epson,2016-2017
+1624,cyrus@atozcomputermedia.com,cyrus,wong,0125178920,43300,IND,0.1667,HP,2016-2017
+1625,suliani.kesb@gmail.com,suliani,sahari,03-61862405,68100,IND,1.8667,Brother,2016-2017
+1626,info@keen.com.my,KEEN,COMPONENT INDUSTRIES SDN BHD,03-78741216,46100,CPNY,12.0000,HP,2016-2017
+1627,127665058,Serba Wangi JH Sdn Bhd,,127665058,81400,CPNY,12.0000,Epson,2016-2017
+1628,euromaster.lim@live.com,DAX,SEOW,60341026311,68000,IND,12.0000,Oki,2016-2017
+1629,chris@acparts.com.my,AC PARTS CENTRE (KL) SDN BHD,AC PARTS CENTRE (KL) SDN BHD,0122163963,40400,CPNY,12.0000,Epson,2016-2017
+1630,chin@coffeeritual.com,Chung,Yeh Chin,+60377253633,47400,IND,12.0000,Brother,2016-2017
+1631,arctgoh@gmail.com,cheong thet,goh,0123059333,40170,IND,12.0000,HP,2016-2017
+1632,jmurni@ljt.org.my,Jurukur,Murni,0389940029,57000,IND,12.0000,HP,2016-2017
+1633,0123580172,Muar Hardware Machinery Sdn Bhd,,0123580172,84000,CPNY,0.0000,Brother,2016-2017
+1634,0105060680,Alimah binti othman,,0105060680,81200,CPNY,12.0000,Brother,2016-2017
+1635,chan_christine@hotmail.com,Christine,Chan,0125200747,47400,IND,7.5000,Brother,2016-2017
+1636,shirley@novaflow.com.my,Shirley,Yap,+60169180222,40400,IND,12.0000,HP,2016-2017
+1637,khaizuan87@yahoo.com.my,MOHD KHAIRUL IZUAN,BIN BADRUL HISHAM,0192206797,40150,IND,12.0000,Brother,2016-2017
+1638,kgtan_rnd@jadi.com.my,Keng Guan,Tan,016-5577677,40150,IND,12.0000,HP,2016-2017
+1639,aziza@jiwane.com,aziza,ahmad,0362579955,51200,IND,12.0000,HP,2016-2017
+1640,0197155887,Izatu Tumiran,,0197155887,81100,CPNY,0.6000,Print n Stick,2016-2017
+1641,0193907917,MOHD YAZID BIN ABDULLAH,,0193907917,75450,CPNY,12.0000,Brother,2016-2017
+1642,octo_lalala@hotmail.com,Soong,YY,0123065385,55200,IND,12.0000,Epson,2016-2017
+1643,sengkuan75@gmail.com,Jeff,Yap,0351919785,40000,IND,5.4000,Epson,2016-2017
+1644,ridzuan.fadzil@gmail.com,Mohd Ridzuan,Fadzil,01121062646,47820,IND,12.0000,Epson,2016-2017
+1645,becbec_ong@yahoo.com,Filbin Marine S/B,Filbin Marine S/B,0192222019,46100,IND,12.0000,Fuji Xerox,2016-2017
+1646,pclim@primagroup.com.my,PC,Lim,0320806633,50490,IND,0.6000,Print n Stick,2016-2017
+1647,m.pugger@gmail.com,Keng Fai,Chen,0162631203,46400,IND,12.0000,HP,2016-2017
+1648,andy@octagon.com.my,Andy,Lai,40434833,50400,IND,12.0000,,2016-2017
+1649,info.chong@gmail.com,KS,Chong,60126658440,46050,IND,12.0000,Brother,2016-2017
+1650,siti1202@yahoo.com,Siti Fatimah,Mohamad,0122411973,43000,IND,12.0000,Epson,2016-2017
+1651,bettyainkiq@gmail.com,Nahzatul Ain,Mohd Khalid,03-42171311,55100,IND,2.8000,Brother,2016-2017
+1652,rshankar@rsplan.com.my,Ravi,Shankar,0380240377,47560,IND,1.6333,Brother,2016-2017
+1653,larryhklee@gmail.com,Larry,Lee,012-2037832,46100,IND,9.4667,Brother,2016-2017
+1654,eddie@eliteagri.com,Eddie,Lee,0192755255,47800,IND,3.0000,Brother,2016-2017
+1655,vfllim@gmail.com,Vivien ,lim,012 2053187,43300,IND,12.0000,HP,2017-Latest
+1656,yv_liew@yahoo.com,yvonne,liew,0123132899,47810 ,IND,12.0000,Brother,2017-Latest
+1657,lishin@thecookinghouse.com,Edyth,Ban,0123951243,59000,IND,12.0000,Fuji Xerox,2017-Latest
+1658,jeev@domecafe.com.my,DOME CAFE SDN BHD,353069-U,0175005058,56100,CPNY,12.0000,Brother,2017-Latest
+1659,kingsiong@hotmail.com,yong,king siong,0163155369,52200,IND,12.0000,Canon,2017-Latest
+1660,thying33@gmail.com,Ying Thying,Wong,0126062933,46350,IND,12.0000,Brother,2017-Latest
+1661,173581964,Muhammad Amin,,173581964,56100,CPNY,12.0000,Brother,2017-Latest
+1662,boonkhong@gmail.com,Boon Khong,Foo,0173631535,50088,IND,12.0000,Brother,2017-Latest
+1663,tehmenghui@hotmail.com,Teh,Meng Hui,0163350423,40400,IND,12.0000,Epson,2017-Latest
+1664,yzsb_kim@yahoo.com,Ley Kim,Looi,0172239255,68100,IND,12.0000,Fuji Xerox,2017-Latest
+1665,jasminetck@gmail.com,Jasmine,Tan,0122952418,40170,IND,12.0000,Fuji Xerox,2017-Latest
+1666,390553230,AWS Technologies Sdn Bhd,,390553230,57000,CPNY,12.0000,Brother,2017-Latest
+1667,celynclu@yahoo.com,Celyn,Lu,0124812102,14000,IND,12.0000,Brother,2017-Latest
+1668,viorobk@hotmail.com,ONG,BEE KEAN,+6012-3062287,43300,IND,0.5667,Brother,2017-Latest
+1669,kenneth.tan@tago.com.my,Kenneth,Tan,+60122053819,40150,IND,12.0000,Epson,2017-Latest
+1670,166778469,Teh Chee Wai,,166778469,43300,CPNY,12.0000,Brother,2017-Latest
+1671,borneocrops@yahoo.com,Ivy,Pang,6089237900,90000,IND,12.0000,HP,2017-Latest
+1672,admin@fk.my,NURRUL SALIA,SALEH,0136458698,59200,IND,12.0000,Brother,2017-Latest
+1673,fifi@naramedispa.com,faezah,yusop,0196761604,59000,IND,12.0000,Fuji Xerox,2017-Latest
+1674,0122831818,Su Ping,,0122831818,40100,CPNY,12.0000,Brother,2017-Latest
+1675,133977218,Nor Afzan Zalila,,133977218,91000,CPNY,12.0000,Brother,2017-Latest
+1676,jpk@gebsss.com,John,Kortum,0192599261,43300,IND,12.0000,Epson,2017-Latest
+1677,192613142,Ayesha Syahira,,192613142,63000,CPNY,12.0000,Brother,2017-Latest
+1678,0197155887,Izatu Tumiran,,0197155887,81100,CPNY,0.6000,Print n Stick,2017-Latest
+1679,1115712289,Huzaifah Othman,,1115712289,68000,CPNY,12.0000,Brother,2017-Latest
+1680,0168881115,Diorson Liu,,0168881115,93350,CPNY,12.0000,Fuji Xerox,2017-Latest
+1681,0125550797,Mohd Rawi Bin Md Suffi,,0125550797,10150,CPNY,12.0000,Epson,2017-Latest
+1682,gtmintegration@gmail.com,Involve,Asia,0179750886,58000,IND,12.0000,Brother,2017-Latest
+1683,167826207,Adeline Lim,,167826207,81100,CPNY,12.0000,Epson,2017-Latest
+1684,hupfatt_lim@hotmail.com,LIM,MEE CHIN,012-528 2141,47000,IND,12.0000,Epson,2017-Latest
+1685,peiyan.lim@visionary.com.my,Ms Lim,Visionary Solutions,0377105877,47400,IND,1.7000,Epson,2017-Latest
+1686,127665058,Serba Wangi JH Sdn Bhd,,127665058,81400,CPNY,12.0000,Epson,2017-Latest
+1687,bum**************@gmail.com,BUMI KASTURI SDN BHD,,092771876,28000,CPNY,12.0000,Brother,2017-Latest
+1688,myndywong8348@gmail.com,May Kwan,Wong,0123934838,43300,IND,12.0000,HP,2017-Latest
+1689,snoopy3090@hotmail.com,Quality Vantage Sdn Bhd,(336954 D),0379581711,46350,CPNY,0.0000,HP,2017-Latest
+1690,sioh@hengsan.com.my,K.H,Sioh,0377815987,46000,IND,0.0333,Brother,2017-Latest
+1691,khthong@audiosynergy.com.my,Thong,Kok Hoow,0123771230,40150,IND,12.0000,Brother,2017-Latest
+1692,davidteoh_90@hotmail.com,David,Teoh,016-4824542,50480,IND,5.6000,Brother,2017-Latest
+1693,datinnuraishah@yahoo.com,Dato',Low,0193248899,47301,IND,12.0000,Fuji Xerox,2017-Latest
+1694,info@metrohm.com.my,Metrohm (Malaysia) Sdn Bhd,.,0192164886,47301,CPNY,2.0333,HP,2017-Latest
+1695,jkpns@yahoo.com,yoong,fatt,61421081,47810,IND,12.0000,Brother,2017-Latest
+1696,jed.david@gmail.com,Jed,David,012-2171214,46200,IND,12.0000,Brother,2017-Latest
+1697,vyvyanhoh@gmail.com,KIAM POAN,HOH,0162107575,47100,IND,12.0000,HP,2017-Latest
+1698,admin@maxxmedia.com.my,Ms,Siti,088-719787,88300,IND,0.2000,Print n Stick,2017-Latest
+1699,yonexilsb@gmail.com,yonex international,logistic sdn bhd,0166826088,47120,CPNY,12.0000,Canon,2017-Latest
+1700,TERENCE@SALURANPASIFIK.COM,terence,ngiaw,0129899603,25200,IND,12.0000,Print n Stick,2017-Latest
+1701,reliance.acond@gmail.com,RELIANCE,AIR-COND ELECTRICAL SDN BHD,0199570490,25300,CPNY,12.0000,Brother,2017-Latest
+1702,myp****@gmail.com,MYPC NETWORK,,0122083669,75250,IND,12.0000,Brother,2017-Latest
+1703,0127071177,Alvin Tan Hock Hin,,0127071177,81100,CPNY,12.0000,Brother,2017-Latest
+1704,kelvin@atozcomputermedia.com,Kelvin,Ng,0192204902,43300,IND,12.0000,Canon,2017-Latest
+1705,163018587,GAIN SECURE SDN BHD,,163018587,58100,CPNY,12.0000,Brother,2017-Latest
+1706,apr_mj@hotmail.com,April,Jeremiah,0129694034,47301,IND,12.0000,Epson,2017-Latest
+1707,drsaravana5@yahoo.com,saravana,kumar,03-32503323,42200,IND,12.0000,Brother,2017-Latest
+1708,enetsolution2015@gmail.com,CHEE MUN,CHONG,0176266755,55100,IND,12.0000,Print n Stick,2017-Latest
+1709,valenckj@gmail.com,Valen ,Cheng,0378872702,47301 ,IND,12.0000,Brother,2017-Latest
+1710,evie.heng@gmail.com,Streamline Resources Sdn bhd,.,0122685888,59100,CPNY,12.0000,Brother,2017-Latest
+1711,susan@marbleemporium.com.my,Susan,Liew,7832 1126,40150,IND,12.0000,Fuji Xerox,2017-Latest
+1712,124803329,Tan Eng Leong,,124803329,05300,CPNY,12.0000,Epson,2017-Latest
+1713,william_kfc@yahoo.com,fook chun,kong,0197152221,81300,IND,12.0000,Brother,2017-Latest
+1714,chan_christine@hotmail.com,Christine,Chan,0125200747,47400,IND,12.0000,Brother,2017-Latest
+1715,hpd.auto@gmail.com,Highlight Parts Distributors,Sdn. Bhd.,60122543087,56100,CPNY,1.3333,Epson,2017-Latest
+1716,sengkuan75@gmail.com,Jeff,Yap,0351919785,40000,IND,12.0000,Epson,2017-Latest
+1717,terenceyong@pyeproducts.com,Terence,Yong,0122803228,41050,IND,12.0000,Brother,2017-Latest
+1718,126368302,Andreas Stegmaier,,126368302,11050,CPNY,12.0000,Brother,2017-Latest
+1719,01112260007,Tachibana Rieko,,01112260007,47000,CPNY,12.0000,Print n Stick,2017-Latest
+1720,fyunus@mongooseasia.com,SITI FAZILLAH,YUNUS,0195989791,50450,IND,2.7000,Print n Stick,2017-Latest
+1721,0126233813,Simon Hiew,,0126233813,55100,CPNY,12.0000,Epson,2017-Latest
+1722,0126090103,LEE VUI YONG,,0126090103,91000,CPNY,12.0000,Epson,2017-Latest
+1723,cschuah@novationresources.com,JAMES,CHUAH,0162204261,46000,IND,12.0000,Brother,2017-Latest
+1724,william929@yahoo.com,William,Lee,0123829971,47301,IND,12.0000,Fuji Xerox,2017-Latest
+1725,wej1222@yahoo.com,Andrew,Wong,0355694588,40400,IND,12.0000,Epson,2017-Latest
+1726,0060128398749,Prof Peter Barling,,0060128398749,57000,CPNY,12.0000,Brother,2017-Latest
+1727,cheetongang@gmail.com,Chee Tong,Ang,0123219360,51200,IND,7.8333,Brother,2017-Latest
+1728,wytan@rts.com.my,TAN,WEE YO,0127890410,56100,IND,6.4667,Brother,2017-Latest
+1729,botalayhui_u_know@hotmail.com,Lay Hui,Tan,016-6239922,41150,IND,12.0000,Brother,2017-Latest
+1730,nmsaarchitect@gmail.com,Mohd Najib,Mohd Salleh,0192788594,32610,IND,12.0000,Canon,2017-Latest
+1731,w_jack@yahoo.com,Jack,Goh,0162840872,47500,IND,12.0000,Brother,2017-Latest
+1732,ymie926@hotmail.com,Mohd Yusmie,Mohd Yusoff,0133970525,17500,IND,12.0000,Brother,2017-Latest
+1733,wendy.seow@cwyap.com,Seow,Keng,60341083550/41087550,53100,IND,12.0000,Fuji Xerox,2017-Latest
+1734,pho*******@hotmail.com,Phoebe,,0126765173,50490,IND,12.0000,Print n Stick,2017-Latest
+1735,hassanmusharaf@gmail.com,Musharaf,Hassan,0136418460,55000,IND,12.0000,Epson,2017-Latest
+1736,0129532120,Yvette Haeggmark,,0129532120,10470,CPNY,12.0000,Brother,2017-Latest
+1737,mohd.amri80@gmail.com,Mohd Amri,Mohamad Besri,+60162463630,40460,IND,12.0000,Brother,2017-Latest
+1738,ALONGDIX@GMAIL.COM,ABD RAZAK,OMAR,0122776743,81700,IND,12.0000,HP,2017-Latest
+1739,suping1818@gmail.com,Su Ping,Yap,0122831818,40100,IND,12.0000,Brother,2017-Latest
+1740,smarak.karam@gmail.com,KARAM SINGH,INDER SINGH,0122346077,55100,IND,12.0000,HP,2017-Latest
+1741,nurulhazimahmustafa@gmail.com,Nurul,Hazimah,0177800207,43300,IND,12.0000,Epson,2017-Latest
+1742,fatinazrin89@gmail.com,Nurfatin Azrin,Md Ali,+60123767181,53300,IND,12.0000,Brother,2017-Latest
+1743,tgyow23@yahoo.com.sg,YOW,TOH GEE,0127200862,73400,IND,6.3667,Epson,2017-Latest
+1744,limxying@gmail.com,XINYING,LIM,0129271048,47500,IND,12.0000,Print n Stick,2017-Latest
+1745,kuchunlian@gmail.com,Ku,Chun Lian,0127923932,58200,IND,12.0000,Fuji Xerox,2017-Latest
+1746,ace@aerogroup.com.my,HC,LOH,0163287363,71800,IND,4.3333,Brother,2017-Latest
+1747,muhilen@gmail.com,Muhilen ,Genesan,+60379318220,46200,IND,3.8333,Epson,2017-Latest
+1748,0123383585,Robin Tan,,0123383585,51200,CPNY,12.0000,Brother,2017-Latest
+1749,pkf@pwinteriordesign.com.my,Chong,Yoke Choi,0389641099,43300,IND,12.0000,Epson,2017-Latest
+1750,danensoo@yahoo.com,Worldex Trade Media Sdn Bhd,Worldex Trade Media Sdn Bhd,0163880998,47810,CPNY,12.0000,Brother,2017-Latest
+1751,AUCONPRO@YAHOO.COM,THYE HENG,TEE,0162033338,47610,IND,12.0000,HP,2017-Latest
+1752,patricia_boey@yahoo.com,H.E.,Cheong,0356212595,47500,IND,12.0000,Brother,2017-Latest
+1753,128288662,JONE CHUAN,,128288662,52200,CPNY,12.0000,Brother,2017-Latest
+1754,enxfero@gmail.com,wong,yee siew,0122987312,55200,IND,12.0000,HP,2017-Latest
+1755,gwokiong@neptuneasia.com.my,GWO KIONG,HO,0128337228,87000,IND,1.5333,Brother,2017-Latest
+1756,0122083232,Lim Ca Ee,,0122083232,43200,CPNY,12.0000,Brother,2017-Latest
+1757,+60122566659,Joey Caisse,,+60122566659,50480,CPNY,12.0000,Canon,2017-Latest
+1758,jasminekong_mvista@yahoo.com,CARMIN,LAM,018-2911 809,47100,IND,12.0000,Epson,2017-Latest
+1759,matamoon@mac.com,Yulina,Baharuddin,+60122900566,55000,IND,0.1667,Brother,2017-Latest
+1760,alif.aziz@polarisnet.com.my,Alif,Abdol Aziz,0172017241,40000,IND,0.0667,Brother,2017-Latest
+1761,lw.mpsi@gmail.com,lai wan,chan,0162020447,40150,IND,12.0000,HP,2017-Latest
+1762,0128729259,roy mah,,0128729259,98700,CPNY,12.0000,Brother,2017-Latest
+1763,xde*****@yahoo.com,Ismail Ali,,0166843656,71700,IND,12.0000,Epson,2017-Latest
+1764,rayhsy@yahoo.com,RAYMOND,YAP,0126711672,41200,IND,12.0000,HP,2017-Latest
+1765,info@rozel.com.my,DAVID,LEE,0124943732,40150,IND,12.0000,Epson,2017-Latest
+1766,136418460,Musharaf Hassan,,136418460,55000,CPNY,12.0000,Epson,2017-Latest
+1767,estherleong86@gmail.com,Esther Leong,Ai Ping,0169214715,56000,IND,12.0000,Brother,2017-Latest
+1768,cynthiatiang@gmail.com,Cynthia,Tiang,0123127117,47160,IND,12.0000,HP,2017-Latest
+1769,ckyyong@gmail.com,YONG,CHEE KEONG,0122187423 / 03-90216133,43100,IND,12.0000,Canon,2017-Latest
+1770,MALIDA.MARJAN@GMAIL.COM,MALIDA,MARJAN,0193303686,40460,IND,12.0000,HP,2017-Latest
+1771,avian.junk@gmail.com,Avian,Amirsham,0123953013,52200,IND,12.0000,Brother,2017-Latest
+1772,194177788,hj abdullah bin hj abdul wahab,,194177788,33310,CPNY,12.0000,Fuji Xerox,2017-Latest
+1773,mustafar@ieee.org,Mustafar Kamal,Hamzah,0148376007,40000,IND,12.0000,HP,2017-Latest
+1774,kajue3bl@gmail.com,Benny,Ling,0165227618,96000,IND,12.0000,Epson,2017-Latest
+1775,jos*******@jocom.my,Joshua sew,,0123399937,59200,IND,12.0000,Fuji Xerox,2017-Latest
+1776,octo_lalala@hotmail.com,Soong,YY,0123065385,55200,IND,12.0000,Epson,2017-Latest
+1777,0174338996,Mc Ng,,0174338996,10050,CPNY,12.0000,Brother,2017-Latest
+1778,llina287@gmail.com,Ash lina ,Abdul Rahman,0168216221,87000,IND,0.0333,Brother,2017-Latest
+1779,ber_xdwp@yahoo.com,Xavier,David,6019 7750559,81750,IND,12.0000,Canon,2017-Latest
+1780,shirley@novaflow.com.my,Shirley,Yap,+60169180222,40400,IND,12.0000,HP,2017-Latest
+1781,acpalbert@gmail.com,Albert,Ang,0122038753,48000,IND,12.0000,Brother,2017-Latest
+1782,muzahid@hotmail.com,mohd muzahid,md nor,0132768448,60000,IND,12.0000,Brother,2017-Latest
+1783,shuchuen@hotmail.com,Lim,Shu Chuen,0122133280,60000,IND,12.0000,HP,2017-Latest
+1784,173696069,Artem Sazykin,,173696069,50450,CPNY,12.0000,Brother,2017-Latest
+1785,173418992,RAYE TAN,,173418992,47160,CPNY,12.0000,Brother,2017-Latest
+1786,089212788,CHUNG KWONG SANDAKAN  SDN BHD,,089212788,90700,CPNY,12.0000,Epson,2017-Latest
+1787,126220098,Jayne EU,,126220098,46000,CPNY,12.0000,Brother,2017-Latest
+1788,siellchoay@yahoo.com,Irene,Wong,0123067878,40400,IND,12.0000,Canon,2017-Latest
+1789,ciwong@ihm.com.my,Wong ,Chee Inn,0163947846,46150,IND,12.0000,Epson,2017-Latest
+1790,maychin.ly@gmail.com,May,Chin,60123762132,59200,IND,12.0000,Brother,2017-Latest
+1791,ych@ychhyd.com,tan ,ai wah,03-89413599,43300,IND,3.4333,Brother,2017-Latest
+1792,tan.tkm@gmail.com,Terence,Tan,0162081742,47170,IND,12.0000,Brother,2017-Latest
+1793,indraponnudurai@gmail.com,Indra ,Ponnudurai,0178830984,46000,IND,12.0000,Brother,2017-Latest
+1794,norfarahima@razipublishing.com,Norfarahima,Abdul Manap,03-27332657,59200,IND,12.0000,Brother,2017-Latest
+1795,0122171010,Mohd Nazim Bin Mail,,0122171010,40150,CPNY,12.0000,Epson,2017-Latest
+1796,123278363,Steve Fun,,123278363,46150,CPNY,12.0000,Epson,2017-Latest
+1797,2274529556@qq.com,Selina,Wong,+60126858553,55100,IND,12.0000,Fuji Xerox,2017-Latest
+1798,0173314611,Spektra Murni Sdn Bhd,,0173314611,47500,CPNY,12.0000,Brother,2017-Latest
+1799,ayeotan@gmail.com,Ann,Yeo,0123352863,51200,IND,12.0000,HP,2017-Latest
+1800,0126232098,Nick Liu,,0126232098,70300,CPNY,12.0000,Brother,2017-Latest
+1801,0199964466,Zakaria Ibrahim,,0199964466,21300,CPNY,12.0000,Print n Stick,2017-Latest
+1802,baochem.group@gmail.com,Jinn Su,Ng,0193264469,47500,IND,12.0000,Brother,2017-Latest
+1803,chua_jc@yahoo.com.sg,JC,Chua,0378807480,47301,IND,12.0000,HP,2017-Latest
+1804,nurafiq@uthm.edu.my,MUHAMMAD NUR AFIQ,JOHARI,01110082990,86400,IND,12.0000,Brother,2017-Latest
+1805,sarah@oxyhin.com.my,sarah,loh,016-2218359,46200,IND,12.0000,Epson,2017-Latest
+1806,60127712200,LIM WOEI MING,,60127712200,81100,CPNY,12.0000,Brother,2017-Latest
+1807,elena@writebest.com,Elena ,Kwok,0126339282,43100,IND,4.6000,Brother,2017-Latest
+1808,0123580172,Muar Hardware Machinery Sdn Bhd,,0123580172,84000,CPNY,0.0000,Brother,2017-Latest
+1809,0177872401,mohamad nizam bin ghani,,0177872401,81200,CPNY,12.0000,Brother,2017-Latest
+1810,0125155336,Anne Kee,,0125155336,47301,CPNY,12.0000,Epson,2017-Latest
+1811,soopakmun@gmail.com,Pak Mun,Soo,0123389698,40150,IND,12.0000,Brother,2017-Latest
+1812,0122265798,Ong HUI Wen,,0122265798,52000,CPNY,12.0000,Brother,2017-Latest
+1813,suliani.kesb@gmail.com,suliani,sahari,03-61862405,68100,IND,1.8667,Brother,2017-Latest
+1814,librachew9966@gmail.com,FION,CHEW,0122352732,58100,IND,12.0000,Canon,2017-Latest
+1815,talentmind@gmail.com,eric,hew,0163286922,47160,IND,12.0000,Brother,2017-Latest
+1816,jmurni@ljt.org.my,Jurukur,Murni,0389940029,57000,IND,12.0000,HP,2017-Latest
+1817,cheryl.sy@live.com,Cheryl,Ho,0122735698,47301,IND,12.0000,Brother,2017-Latest
+1818,0105060680,Alimah binti othman,,0105060680,81200,CPNY,12.0000,Brother,2017-Latest
+1819,eugene@dontpanik.com,Eugene,Khoo,012.2777.568,47300,IND,12.0000,Brother,2017-Latest
+1820,0193907917,MOHD YAZID BIN ABDULLAH,,0193907917,75450,CPNY,12.0000,Brother,2017-Latest
+1821,m.pugger@gmail.com,Keng Fai,Chen,0162631203,46400,IND,12.0000,HP,2017-Latest
+1822,info.chong@gmail.com,KS,Chong,60126658440,46050,IND,12.0000,Brother,2017-Latest
+1823,rshankar@rsplan.com.my,Ravi,Shankar,0380240377,47500,IND,2.1000,Brother,2017-Latest
+1824,larryhklee@gmail.com,Larry,Lee,012-2037832,46100,IND,12.0000,Brother,2017-Latest
+1825,eddie@eliteagri.com,Eddie,Lee,0192755255,47800,IND,3.0000,Brother,2017-Latest

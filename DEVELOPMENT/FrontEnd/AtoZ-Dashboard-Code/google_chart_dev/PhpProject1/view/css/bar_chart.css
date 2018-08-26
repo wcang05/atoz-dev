@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2017, 2:31:22 PM
+    Author     : chewyunl
+*/
+
+#current_bar_segment_div{
+    z-index: 1;
+    margin: 0px;
+    text-align: center;
+    position: absolute;
+    left: 1325px;
+    top: 325px;
+    width: 125px;
+    height: 70px;
+    background-color: black;
+    border-style: solid;
+    color:white;
+}
+
+#year_selector_bar{
+    position: absolute; 
+    left: 775px;
+    top: 25px;
+}
+
+#year_select_bar_apply{
+    position: absolute; 
+    left: 1175px;
+    top: 25px;
+}
+
+#bar_chart{
+    position: absolute; 
+    left: 725px;
+    top: 90px;
+    width: 750px; 
+    height: 325px;
+    outline-style: solid; 
+}
+
+#bar_chart_table{
+    position: absolute;
+    left: 725px;
+    top: 440px;
+    width: 750px;
+    height: 300px;
+    outline-style: solid;
+}
+
+#bar_chart_data_export{
+    position: absolute; 
+    left: 1235px;
+    top: 750px;
+}
+
+#bar_chart svg>g>g>g>g>rect {
+                fill: yellow;
+              }

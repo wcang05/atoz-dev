@@ -1,0 +1,36 @@
+--- Input files validation ---
+Product Desciption CSV : oc_product_description.csv
+Order Product CSV : oc_order_product_500.csv
+Target Output CSV : atoz_cmp_list_500.csv
+
+Read in [oc_product_description.csv]...
+Successfully read in oc_product_description.csv with lines 12999
+Line no. 12999 = ['18196', '[PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED]']
+Line no. 12999 = ['18196', '[PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED]'], Item no.2 : [PROMO ENDED] Kentucky Fried Chicken voucher [RM10]  x 4 pieces [PROMO ENDED
+]
+
+Read in [oc_order_product_500.csv]...
+Successfully read in oc_order_product_500.csv with lines 500
+Line no. 500 = ['25143', '5897', 'Faber Castell True Gel 2465 Pen \xe2\x80\x94 Fine, 0.7mm - Blue (Item No: 14-10)']
+Line no. 500 = ['25143', '5897', 'Faber Castell True Gel 2465 Pen \xe2\x80\x94 Fine, 0.7mm - Blue (Item No: 14-10)'], Item no.3 : Faber Castell True Gel 2465 Pen GÇö Fine, 0.7mm - Blue (Item No: 14
+-10)
+
+Completed tokenized Product Description list...
+
+Tokenizing order-product-name [500 / 500], [100.00%] completed...
+Completed tokenized Order Product list + Total Rating calculation...
+
+Complete processed ALL Order Product items.. [500 / 500], [100.00%] completed
+
+Successfully matched case with Order-Product-ID == Description-Product-ID : 236
+Successfully matched case with Different Product ID : 264
+Order Product ID match no case : 0
+Successfully output cases with Threshold=0 : 264
+Matching percentage : 100.00%
+Output case percentage : 52.80%
+Operation completed!
+
+C:\Python27>
+
+
+
